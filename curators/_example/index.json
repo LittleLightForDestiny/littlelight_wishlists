@@ -1,0 +1,24 @@
+{
+    "name": "Replace this by how you should be called on the app",
+    "description": "Replace this with a brief description about what people should expect to find on your wishlists",
+    "bundles": [
+        {
+            "name": "Replace this with the wishlist name.",
+            "description": "Replace this with your wishlist description. Don't forget to include which seasons it covers and what input types it targets. The output field is meant to specify the filename your bundle will use. the field 'files' specify which files should be included in your bundle. ",
+            "output": "example-mnk.json",
+            "files": [
+                "curators/_example/mnk/season-1.json",
+                "curators/_example/mnk/season-2.json"
+            ]
+        },
+        {
+            "name": "Replace this with the wishlist name. You can have multiple bundles for different input types or seasons.",
+            "description": "Replace this with your wishlist description. Don't forget to include which seasons it covers and what input types it targets. The output field is meant to specify the filename your bundle will use. the field 'files' specify which files should be included in your bundle. ",
+            "output": "example-controller.json",
+            "files": [
+                "curators/_example/controller/season-1.json",
+                "curators/_example/controller/season-2.json"
+            ]
+        }
+    ]
+}

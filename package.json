@@ -1,13 +1,14 @@
 {
-  "name": "littlelightdata",
+  "name": "littlelightwishlists",
   "version": "1.0.0",
   "description": "Data for Little Light (yes this is just plain lazy)",
   "scripts": {
-    "cache:clean": "node .cache-cleaner/index.js"
+    "cache:clean": "node .scripts/cache-cleaner/index.js",
+    "bundler":"node .scripts/bundler/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LittleLightForDestiny/littleLightData.git"
+    "url": "git+https://github.com/LittleLightForDestiny/littlelight_wishlists.git"
   },
   "author": "João Paulo Marquesini",
   "license": "ISC",

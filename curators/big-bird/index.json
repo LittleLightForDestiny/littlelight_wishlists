@@ -1,0 +1,24 @@
+{
+    "name": "Big Bird",
+    "description": "Big Bird's recommendations for Mouse and Keyboard.",
+    "bundles": [
+        {
+            "name": "Big Bird's rolls for S4 to S14 non-sunset weapons",
+            "description": "Big Bird's recommendations for non-sunset weapons through seasons 4-14. Recommended for Mouse and Keyboard.",
+            "output": "big-bird-mnk.json",
+            "files": [
+                "curators/big-bird/mnk/season-4.json",
+                "curators/big-bird/mnk/season-5.json",
+                "curators/big-bird/mnk/season-6.json",
+                "curators/big-bird/mnk/season-7.json",
+                "curators/big-bird/mnk/season-8.json",
+                "curators/big-bird/mnk/season-9.json",
+                "curators/big-bird/mnk/season-10.json",
+                "curators/big-bird/mnk/season-11.json",
+                "curators/big-bird/mnk/season-12.json",
+                "curators/big-bird/mnk/season-13.json",
+                "curators/big-bird/mnk/season-14.json"
+            ]
+        }
+    ]
+}
