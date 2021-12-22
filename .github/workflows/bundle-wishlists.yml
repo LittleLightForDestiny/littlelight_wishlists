@@ -1,10 +1,11 @@
 # This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: Clean jsdelivr.net cache
+name: Bundle Wishlists
 
 on:
-  workflow_dispatch:
+  push:
+    branches: [ master, main ]
 
 jobs:
   build:
@@ -13,10 +14,19 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Clean cache
+      with:
+        token: ${{ secrets.BOT_PAT }}
+    - name: Create wishlist bundles
       uses: actions/setup-node@v2
       with:
         node-version: 14.x
         cache: 'npm'
     - run: npm ci
-    - run: npm run cache:clean
+    - run: npm run bundler
+    
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: rebuilt bundles
+        push_options: '--force'
+        commit_user_name: Little Light Bot
+        commit_user_email: jao+littlelightbotaccount@markezine.me
