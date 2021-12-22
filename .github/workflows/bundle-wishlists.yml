@@ -16,7 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-      token: ${{ secrets.BOT_PAT }}
+        token: ${{ secrets.BOT_PAT }}
     - name: Create wishlist bundles
       uses: actions/setup-node@v2
       with:
