@@ -25,7 +25,7 @@
             "hidden": true,
             "name": "Just Another Team's rolls for S4 to S15 non-sunset weapons",
             "description": "Just Another Team's recommendations for non-sunset weapons through seasons 4-15. Recommended for Mouse and Keyboard.",
-            "output": "just-another-team-bundle.json",
+            "output": "justanotherteam-bundle.json",
             "files": [
                 "curators/just-another-team/mnk/season-4.json",
                 "curators/just-another-team/mnk/season-5.json",
