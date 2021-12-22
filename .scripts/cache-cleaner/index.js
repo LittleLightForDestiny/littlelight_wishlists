@@ -1,5 +1,5 @@
-const fs = require('fs-extra');
-const { default: axios } = require("axios");
+import fs from 'fs-extra';
+import axios from 'axios';
 
 async function run() {
     let files = await fs.readdir('./');
