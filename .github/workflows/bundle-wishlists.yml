@@ -6,7 +6,6 @@ name: Bundle Wishlists
 on:
   push:
     branches: [ master, main ]
-  workflow_dispatch:
 
 jobs:
   build:
@@ -29,3 +28,5 @@ jobs:
       with:
         commit_message: rebuilt bundles
         push_options: '--force'
+        commit_user_name: Little Light Bot
+        commit_user_email: jao+littlelightbotaccount@markezine.me
