@@ -1,10 +1,10 @@
 {
     "name":"kj415j45",
-    "description":"Recommendations for PVE on Controller from kj415j45",
+    "description":"Recommendations for PVE on Mouse/Keyboard from kj415j45",
     "bundles":[
         {
             "hidden":true,
-            "name":"kj415j45 rolls for Seasons 14",
+            "name":"kj415j45 rolls for Season 14",
             "output":"kj415j45-s14-mnk-bundle.json",
             "files":[
                 "curators/kj415j45/mnk/season-14.json"
