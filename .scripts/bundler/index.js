@@ -41,7 +41,7 @@ async function loadWishlist(path) {
  * @returns {Promise<void>}
  */
 async function saveJSONData(path, data) {
-    await fs.createFile(`./${path}`);
+    await fs.ensureFile(`./${path}`);
     await fs.writeJSON(`./${path}`, data);
 }
 
