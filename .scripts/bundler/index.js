@@ -41,7 +41,7 @@ async function loadWishlist(path) {
  * @returns {Promise<void>}
  */
 async function saveJSONData(path, data) {
-    await fs.ensureFile(`./${path}`);
+    await fs.createFile(`./${path}`);
     await fs.writeJSON(`./${path}`, data);
 }
 
@@ -161,7 +161,10 @@ async function run() {
     const config = await loadConfig();
     const curatorParam = process.argv[2];
     if(curatorParam == null){
-        await fs.rm('./deliverables', {recursive:true});    
+        var exists = await fs.pathExists("./deliverables");
+        if(exists){
+            await fs.rm('./deliverables', {recursive:true});    
+        }
     }
     const curators = curatorParam ? config.curators.filter((c) => c == curatorParam) : config.curators;
     for (let c of curators) {
