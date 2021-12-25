@@ -38,3 +38,16 @@
  * @property {string} description
  * @property {Array.<WishlistItem>} data
  */
+
+/** 
+ * @typedef WishlistIndexFile
+ * @property {string} name
+ * @property {string} description
+ * @property {string} url
+ */
+
+/** 
+ * @typedef WishlistIndexFolder
+ * @property {[]WishlistIndexFile} files
+ * @property {[]WishlistIndexFolder} folders
+ */

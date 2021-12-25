@@ -1,9 +1,10 @@
 {
     "name":"Adhere Clan",
-    "description":"Recommendations for PVE on Controller from the Adhere clan",
+    "description":"Adhere Clan roll recommendations for controller.",
     "bundles":[
         {
-            "name":"Adhere Clan rolls for Seasons 10-14",
+            "name":"Adhere Clan Controller rolls",
+            "description": "Adhere Clan roll recommendations for controller. Includes season 10 to 14.",
             "output":"adhere-controller.json",
             "files":[
                 "curators/adhere/controller/season-10.json",

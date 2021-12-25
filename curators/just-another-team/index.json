@@ -3,8 +3,8 @@
     "description": "Just Another Team's recommendations for Mouse and Keyboard.",
     "bundles": [
         {
-            "name": "Just Another Team's rolls for S4 to S15 non-sunset weapons",
-            "description": "Just Another Team's recommendations for non-sunset weapons through seasons 4-15. Recommended for Mouse and Keyboard.",
+            "name": "Just Another Team's MnK rolls",
+            "description": "Just Another Team's recommendations for weapons through seasons 4-15. Recommended for Mouse and Keyboard.",
             "output": "just-another-team-mnk.json",
             "files": [
                 "curators/just-another-team/mnk/season-4.json",
@@ -23,8 +23,8 @@
         },
         {
             "hidden": true,
-            "name": "Just Another Team's rolls for S4 to S15 non-sunset weapons",
-            "description": "Just Another Team's recommendations for non-sunset weapons through seasons 4-15. Recommended for Mouse and Keyboard.",
+            "name": "Just Another Team's MnK rolls",
+            "description": "Just Another Team's recommendations for weapons through seasons 4-15. Recommended for Mouse and Keyboard.",
             "output": "justanotherteam-bundle.json",
             "files": [
                 "curators/just-another-team/mnk/season-4.json",
