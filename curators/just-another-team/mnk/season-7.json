@@ -3,7 +3,9 @@
     "description": "Just Another Team's recommendations for Season 7. Recommended for Mouse and Keyboard.",
     "data": [
         {
+            "description": "",
             "hash": 136525518,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -23,7 +25,9 @@
             ]
         },
         {
+            "description": "Lowering the speed of the rocket gives it more time to turn, thus improving the tracking the slightest bit",
             "hash": 136525518,
+            "name": "",
             "plugs": [
                 [
                     1844523823
@@ -43,7 +47,9 @@
             ]
         },
         {
+            "description": "Lowering the speed of the rocket gives it more time to turn, thus improving the tracking the slightest bit",
             "hash": 136525518,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -66,7 +72,9 @@
             ]
         },
         {
+            "description": "Lowering the speed of the rocket gives it more time to turn, thus improving the tracking the slightest bit",
             "hash": 136525518,
+            "name": "",
             "plugs": [
                 [
                     957782887
@@ -80,7 +88,9 @@
             ]
         },
         {
+            "description": "Lowering the speed of the rocket gives it more time to turn, thus improving the tracking the slightest bit",
             "hash": 136525518,
+            "name": "",
             "plugs": [
                 [
                     3300816228,

@@ -3,7 +3,9 @@
     "description": "Just Another Team's recommendations for Season 12. Recommended for Mouse and Keyboard.",
     "data": [
         {
+            "description": "",
             "hash": 2050789284,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -23,7 +25,9 @@
             ]
         },
         {
+            "description": "Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling.",
             "hash": 2050789284,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -44,7 +48,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2050789284,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -72,7 +78,9 @@
             ]
         },
         {
+            "description": "Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling.",
             "hash": 2050789284,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -97,7 +105,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4248569242,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -117,7 +127,9 @@
             ]
         },
         {
+            "description": "Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed).",
             "hash": 4248569242,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -138,7 +150,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4248569242,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -160,7 +174,9 @@
             ]
         },
         {
+            "description": "Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed).",
             "hash": 4248569242,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -185,7 +201,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2990047042,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -206,7 +224,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2990047042,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -226,7 +246,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2990047042,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -250,7 +272,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2990047042,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -272,7 +296,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2990047042,
+            "name": "",
             "plugs": [
                 [
                     1523832109
@@ -287,7 +313,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2990047042,
+            "name": "",
             "plugs": [
                 [
                     588594999,
@@ -302,7 +330,9 @@
             ]
         },
         {
+            "description": "One For All is much better on primaries, but some may prefer Rampage due to the ease to proc.",
             "hash": 3281285075,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -322,7 +352,9 @@
             ]
         },
         {
+            "description": "Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower.",
             "hash": 3281285075,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -343,7 +375,9 @@
             ]
         },
         {
+            "description": "One For All is much better on primaries, but some may prefer Rampage due to the ease to proc.",
             "hash": 3281285075,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -370,7 +404,9 @@
             ]
         },
         {
+            "description": "Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower.",
             "hash": 3281285075,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -392,7 +428,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -412,7 +450,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -433,7 +473,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -460,7 +502,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -484,7 +528,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -511,7 +557,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4230965989,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -531,7 +579,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4230965989,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -551,7 +601,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4230965989,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -576,7 +628,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4230965989,
+            "name": "",
             "plugs": [
                 [
                     1523832109,
@@ -592,7 +646,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4230965989,
+            "name": "",
             "plugs": [
                 [
                     1359896290
@@ -606,7 +662,9 @@
             ]
         },
         {
+            "description": "Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed).",
             "hash": 4248569242,
+            "name": "",
             "plugs": [
                 [
                     1523832109
@@ -621,7 +679,9 @@
             ]
         },
         {
+            "description": "One For All is much better on primaries, but some may prefer Rampage due to the ease to proc. Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower.",
             "hash": 3281285075,
+            "name": "",
             "plugs": [
                 [
                     247725512
@@ -636,7 +696,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -660,7 +722,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -675,7 +739,9 @@
             ]
         },
         {
+            "description": "This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div. PvP: It really doesn’t matter.",
             "hash": 3366545721,
+            "name": "",
             "plugs": [
                 [
                     3666208348
@@ -695,7 +761,9 @@
             ]
         },
         {
+            "description": "This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div. PvP: It really doesn’t matter.",
             "hash": 3366545721,
+            "name": "",
             "plugs": [
                 [
                     3666208348
@@ -718,7 +786,9 @@
             ]
         },
         {
+            "description": "Rapid hit affects knocking speed, stability affects max hold time of fully drawn bow.",
             "hash": 1621657423,
+            "name": "",
             "plugs": [
                 [
                     2801223209
@@ -738,7 +808,9 @@
             ]
         },
         {
+            "description": "With x5 Swash, the bow can 1 tap to the head in PvP, making it a pretty good legendary pairing for bowswaps.",
             "hash": 1621657423,
+            "name": "",
             "plugs": [
                 [
                     2801223209
@@ -758,7 +830,9 @@
             ]
         },
         {
+            "description": "Rapid hit affects knocking speed, stability affects max hold time of fully drawn bow.",
             "hash": 1621657423,
+            "name": "",
             "plugs": [
                 [
                     247725512
@@ -772,7 +846,9 @@
             ]
         },
         {
+            "description": "With x5 Swash, the bow can 1 tap to the head in PvP, making it a pretty good legendary pairing for bowswaps.",
             "hash": 1621657423,
+            "name": "",
             "plugs": [
                 [
                     588594999
@@ -786,7 +862,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2870169846,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -806,7 +884,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2870169846,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -827,7 +907,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2870169846,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -849,7 +931,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2870169846,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -876,7 +960,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2870169846,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -901,7 +987,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2870169846,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -916,7 +1004,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2870169846,
+            "name": "",
             "plugs": [
                 [
                     280464955,
@@ -932,7 +1022,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2870169846,
+            "name": "",
             "plugs": [
                 [
                     1168162263,
@@ -948,7 +1040,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1197486957,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -968,7 +1062,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1197486957,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -988,7 +1084,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1197486957,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -1010,7 +1108,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 20935540,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1031,7 +1131,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 20935540,
+            "name": "",
             "plugs": [
                 [
                     839105230
@@ -1051,7 +1153,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 20935540,
+            "name": "",
             "plugs": [
                 [
                     839105230
@@ -1072,7 +1176,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 20935540,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1100,7 +1206,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3512349612,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1120,7 +1228,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3512349612,
+            "name": "",
             "plugs": [
                 [
                     1392496348
@@ -1140,7 +1250,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3512349612,
+            "name": "",
             "plugs": [
                 [
                     1392496348,
@@ -1162,7 +1274,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4037745684,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1183,7 +1297,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4037745684,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1203,7 +1319,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4037745684,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1225,7 +1343,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1766088024,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1245,7 +1365,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1766088024,
+            "name": "",
             "plugs": [
                 [
                     839105230
@@ -1265,7 +1387,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1766088024,
+            "name": "",
             "plugs": [
                 [
                     839105230,
@@ -1289,7 +1413,9 @@
             ]
         },
         {
+            "description": "Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk",
             "hash": 42351395,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -1309,7 +1435,9 @@
             ]
         },
         {
+            "description": "Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk",
             "hash": 42351395,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -1330,7 +1458,9 @@
             ]
         },
         {
+            "description": "Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk",
             "hash": 42351395,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -1350,7 +1480,9 @@
             ]
         },
         {
+            "description": "Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk",
             "hash": 42351395,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -1372,7 +1504,9 @@
             ]
         },
         {
+            "description": "Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk",
             "hash": 42351395,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -1386,7 +1520,9 @@
             ]
         },
         {
+            "description": "Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk",
             "hash": 42351395,
+            "name": "",
             "plugs": [
                 [
                     706527188
@@ -1400,7 +1536,9 @@
             ]
         },
         {
+            "description": "Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 3565520715,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -1420,7 +1558,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 3565520715,
+            "name": "",
             "plugs": [
                 [
                     1478423395
@@ -1440,7 +1580,9 @@
             ]
         },
         {
+            "description": "Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 3565520715,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -1464,7 +1606,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 3565520715,
+            "name": "",
             "plugs": [
                 [
                     1478423395,
@@ -1487,7 +1631,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1513993763,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1508,7 +1654,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1513993763,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1528,7 +1676,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1513993763,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1556,7 +1706,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1513993763,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1579,7 +1731,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1513993763,
+            "name": "",
             "plugs": [
                 [
                     1820235745,
@@ -1597,7 +1751,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 981718087,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -1617,7 +1773,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 981718087,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -1638,7 +1796,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 981718087,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -1660,7 +1820,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 981718087,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -1683,7 +1845,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 981718087,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -1705,7 +1869,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2776503072,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1725,7 +1891,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2776503072,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1745,7 +1913,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2776503072,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1770,7 +1940,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2776503072,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -1791,7 +1963,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2776503072,
+            "name": "",
             "plugs": [
                 [
                     2869569095
@@ -1806,7 +1980,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2776503072,
+            "name": "",
             "plugs": [
                 [
                     2869569095
@@ -1822,7 +1998,9 @@
             ]
         },
         {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 2453357042,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -1842,7 +2020,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 2453357042,
+            "name": "",
             "plugs": [
                 [
                     1478423395
@@ -1862,7 +2042,9 @@
             ]
         },
         {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 2453357042,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -1884,7 +2066,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 2453357042,
+            "name": "",
             "plugs": [
                 [
                     1478423395,
@@ -1907,7 +2091,9 @@
             ]
         },
         {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 2453357042,
+            "name": "",
             "plugs": [
                 [
                     2284787283
@@ -1922,7 +2108,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 2453357042,
+            "name": "",
             "plugs": [
                 [
                     706527188
@@ -1936,7 +2124,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2714022207,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1956,7 +2146,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2714022207,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1976,7 +2168,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2714022207,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2002,7 +2196,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2714022207,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2025,7 +2221,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2714022207,
+            "name": "",
             "plugs": [
                 [
                     280464955
@@ -2041,7 +2239,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2220884262,
+            "name": "",
             "plugs": [
                 [
                     1926090094
@@ -2061,7 +2261,9 @@
             ]
         },
         {
+            "description": "When using Iron Grip, make sure you run a hand cannon loader mod. This returns you to the base reload of the weapon and makes sure you lose nothing.",
             "hash": 2220884262,
+            "name": "",
             "plugs": [
                 [
                     1926090092,
@@ -2082,7 +2284,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2220884262,
+            "name": "",
             "plugs": [
                 [
                     1926090094,
@@ -2107,7 +2311,9 @@
             ]
         },
         {
+            "description": "When using Iron Grip, make sure you run a hand cannon loader mod. This returns you to the base reload of the weapon and makes sure you lose nothing.",
             "hash": 2220884262,
+            "name": "",
             "plugs": [
                 [
                     1926090092,
@@ -2138,7 +2344,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1641430382,
+            "name": "",
             "plugs": [
                 [
                     13792278
@@ -2158,7 +2366,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1641430382,
+            "name": "",
             "plugs": [
                 [
                     2405638014
@@ -2178,7 +2388,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1641430382,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -2200,7 +2412,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1641430382,
+            "name": "",
             "plugs": [
                 [
                     13792278,
@@ -2226,7 +2440,9 @@
             ]
         },
         {
+            "description": "If you chose Iron Grip, then Flared Magwell/Alloy Mag become more wanted perks to help counter the greatly decreased reload of Iron Grip.",
             "hash": 1641430382,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -2252,7 +2468,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1641430382,
+            "name": "",
             "plugs": [
                 [
                     247725512
@@ -2267,7 +2485,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1641430382,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -2283,7 +2503,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3856705927,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2303,7 +2525,9 @@
             ]
         },
         {
+            "description": "Opening Shot is arguably the best in slot perk. Rangefinder is generally the go to (it does add ~3M of base range) but Hawkmoon is a run and gun weapon (in my opinion) - if you want range, run a 120 or Luna Faction boots. Opening Shot gives a serious bonus to accuracy on ground and in air and helps guarantee landing the first crit (or 7 stack OHKO if you wait for perk to reset). Moving Target is nearly worthless due to high base AA stat.",
             "hash": 3856705927,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2324,7 +2548,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3856705927,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2346,7 +2572,9 @@
             ]
         },
         {
+            "description": "Opening Shot is arguably the best in slot perk. Rangefinder is generally the go to (it does add ~3M of base range) but Hawkmoon is a run and gun weapon (in my opinion) - if you want range, run a 120 or Luna Faction boots. Opening Shot gives a serious bonus to accuracy on ground and in air and helps guarantee landing the first crit (or 7 stack OHKO if you wait for perk to reset). Moving Target is nearly worthless due to high base AA stat.",
             "hash": 3856705927,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2370,7 +2598,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3856705927,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -2384,7 +2614,9 @@
             ]
         },
         {
+            "description": "1-2p and TB increase burst DPS but do not increase total DPS due to the time it takes to proc the perk. Pick the perks that have the most synergy with your playstyle.",
             "hash": 2891672170,
+            "name": "",
             "plugs": [
                 [
                     1300023272
@@ -2406,7 +2638,9 @@
             ]
         },
         {
+            "description": "Slideshot and Killing Wind each add ~20 range stat making 86+ range possible. However, pellet spread RNG is the determinant factor for one hit kills.",
             "hash": 2891672170,
+            "name": "",
             "plugs": [
                 [
                     1047830412
@@ -2426,7 +2660,9 @@
             ]
         },
         {
+            "description": "1-2p and TB increase burst DPS but do not increase total DPS due to the time it takes to proc the perk. Pick the perks that have the most synergy with your playstyle.",
             "hash": 2891672170,
+            "name": "",
             "plugs": [
                 [
                     1300023272,
@@ -2455,7 +2691,9 @@
             ]
         },
         {
+            "description": "Slideshot and Killing Wind each add ~20 range stat making 86+ range possible. However, pellet spread RNG is the determinant factor for one hit kills.",
             "hash": 2891672170,
+            "name": "",
             "plugs": [
                 [
                     1047830412,
@@ -2480,7 +2718,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2386979999,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2500,7 +2740,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2386979999,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2520,7 +2762,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2386979999,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2543,7 +2787,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2386979999,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -2567,7 +2813,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2386979999,
+            "name": "",
             "plugs": [
                 [
                     4267945040
@@ -2581,7 +2829,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2386979999,
+            "name": "",
             "plugs": [
                 [
                     47981717,
@@ -2597,7 +2847,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     1300023272
@@ -2617,7 +2869,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     1047830412
@@ -2637,7 +2891,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     1047830412,
@@ -2658,7 +2914,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514144928,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2678,7 +2936,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514144928,
+            "name": "",
             "plugs": [
                 [
                     839105230
@@ -2698,7 +2958,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514144928,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2722,7 +2984,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514144928,
+            "name": "",
             "plugs": [
                 [
                     839105230,
@@ -2746,7 +3010,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514144928,
+            "name": "",
             "plugs": [
                 [
                     3643424744
@@ -2761,7 +3027,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2781,7 +3049,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -2801,7 +3071,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     1844523823
@@ -2821,7 +3093,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 20935540,
+            "name": "",
             "plugs": [
                 [
                     2450788523
@@ -2836,7 +3110,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 20935540,
+            "name": "",
             "plugs": [
                 [
                     1820235745,
@@ -2854,7 +3130,9 @@
             ]
         },
         {
+            "description": "Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
             "hash": 1030895163,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2874,7 +3152,9 @@
             ]
         },
         {
+            "description": "For PvP, just don’t bother. The charge time change neutered the effectiveness of High Impact frames in pretty much any use cases",
             "hash": 1030895163,
+            "name": "",
             "plugs": [
                 [
                     839105230
@@ -2894,7 +3174,9 @@
             ]
         },
         {
+            "description": "Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
             "hash": 1030895163,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2921,7 +3203,9 @@
             ]
         },
         {
+            "description": "For PvP, just don’t bother. The charge time change neutered the effectiveness of High Impact frames in pretty much any use cases",
             "hash": 1030895163,
+            "name": "",
             "plugs": [
                 [
                     839105230,
@@ -2946,7 +3230,9 @@
             ]
         },
         {
+            "description": "Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
             "hash": 1030895163,
+            "name": "",
             "plugs": [
                 [
                     1820235745,
@@ -2963,7 +3249,9 @@
             ]
         },
         {
+            "description": "For PvP, just don’t bother. The charge time change neutered the effectiveness of High Impact frames in pretty much any use cases",
             "hash": 1030895163,
+            "name": "",
             "plugs": [
                 [
                     1645158859,
@@ -2979,7 +3267,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     1300023272
@@ -2999,7 +3289,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     1300023272,
@@ -3023,7 +3315,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     1047830412,
@@ -3048,7 +3342,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     1047830412,
@@ -3072,7 +3368,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     1300023272,
@@ -3096,7 +3394,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     2869569095,
@@ -3112,7 +3412,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     4071163871,
@@ -3129,7 +3431,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -3144,7 +3448,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 532746994,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -3160,7 +3466,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     1392496348
@@ -3180,7 +3488,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -3200,7 +3510,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     1392496348
@@ -3220,7 +3532,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -3246,7 +3560,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     1392496348,
@@ -3269,7 +3585,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -3292,7 +3610,9 @@
             ]
         },
         {
+            "description": "Chosen Variant. Kickstart is a nice perk to reduce the charge time slightly, but has a very small period to proc it (needs charging during slide to ensure that you don’t lose the perk half way through the burst), and requires you to play a certain way to best use the perk (sprinting with a fusion out in order to get the perk to proc, leaving you vulnerable to a shotgun push or ranged primary fire).",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     1392496348,
@@ -3317,7 +3637,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     2869569095,
@@ -3333,7 +3655,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     280464955
@@ -3347,7 +3671,9 @@
             ]
         },
         {
+            "description": "Chosen Variant.",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     3161816588
@@ -3362,7 +3688,9 @@
             ]
         },
         {
+            "description": "Chosen Variant. Kickstart is a nice perk to reduce the charge time slightly, but has a very small period to proc it (needs charging during slide to ensure that you don’t lose the perk half way through the burst), and requires you to play a certain way to best use the perk (sprinting with a fusion out in order to get the perk to proc, leaving you vulnerable to a shotgun push or ranged primary fire).",
             "hash": 276080079,
+            "name": "",
             "plugs": [
                 [
                     3161816588,
@@ -3378,7 +3706,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 981718087,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -3394,7 +3724,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 981718087,
+            "name": "",
             "plugs": [
                 [
                     2010801679,
@@ -3410,7 +3742,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 981718087,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -3426,7 +3760,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1197486957,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -3452,7 +3788,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1197486957,
+            "name": "",
             "plugs": [
                 [
                     2450788523
@@ -3467,7 +3805,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1197486957,
+            "name": "",
             "plugs": [
                 [
                     4071163871,
@@ -3483,7 +3823,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -3503,7 +3845,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     1844523823
@@ -3523,7 +3867,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -3546,7 +3892,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     1844523823,
@@ -3567,7 +3915,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -3592,7 +3942,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     1844523823,
@@ -3614,7 +3966,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     2869569095,
@@ -3630,7 +3984,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     3977735242
@@ -3644,7 +4000,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     3977735242
@@ -3659,7 +4017,9 @@
             ]
         },
         {
+            "description": "Chosen Variant",
             "hash": 1366917989,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -3677,7 +4037,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     1645158859,
@@ -3695,7 +4057,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -3710,7 +4074,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -3728,7 +4094,9 @@
             ]
         },
         {
+            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
             "hash": 1392919471,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -3743,7 +4111,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1513993763,
+            "name": "",
             "plugs": [
                 [
                     2450788523
@@ -3760,7 +4130,9 @@
             ]
         },
         {
+            "description": "If you chose Iron Grip, then Flared Magwell/Alloy Mag become more wanted perks to help counter the greatly decreased reload of Iron Grip.",
             "hash": 1641430382,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3776,7 +4148,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1766088024,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -3800,7 +4174,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1766088024,
+            "name": "",
             "plugs": [
                 [
                     2450788523
@@ -3815,7 +4191,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1766088024,
+            "name": "",
             "plugs": [
                 [
                     2869569095
@@ -3830,7 +4208,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2050789284,
+            "name": "",
             "plugs": [
                 [
                     2869569095,
@@ -3848,7 +4228,9 @@
             ]
         },
         {
+            "description": "Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling.",
             "hash": 2050789284,
+            "name": "",
             "plugs": [
                 [
                     2450788523,
@@ -3865,7 +4247,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2220884262,
+            "name": "",
             "plugs": [
                 [
                     1168162263
@@ -3880,7 +4264,9 @@
             ]
         },
         {
+            "description": "When using Iron Grip, make sure you run a hand cannon loader mod. This returns you to the base reload of the weapon and makes sure you lose nothing.",
             "hash": 2220884262,
+            "name": "",
             "plugs": [
                 [
                     3161816588,
@@ -3900,7 +4286,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2714022207,
+            "name": "",
             "plugs": [
                 [
                     1168162263,
@@ -3916,7 +4304,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2714022207,
+            "name": "",
             "plugs": [
                 [
                     588594999,
@@ -3933,7 +4323,9 @@
             ]
         },
         {
+            "description": "1-2p and TB increase burst DPS but do not increase total DPS due to the time it takes to proc the perk. Pick the perks that have the most synergy with your playstyle.",
             "hash": 2891672170,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -3953,7 +4345,9 @@
             ]
         },
         {
+            "description": "Slideshot and Killing Wind each add ~20 range stat making 86+ range possible. However, pellet spread RNG is the determinant factor for one hit kills.",
             "hash": 2891672170,
+            "name": "",
             "plugs": [
                 [
                     3161816588,
@@ -3970,7 +4364,9 @@
             ]
         },
         {
+            "description": "One For All is much better on primaries, but some may prefer Rampage due to the ease to proc.",
             "hash": 3281285075,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3988,7 +4384,9 @@
             ]
         },
         {
+            "description": "Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower.",
             "hash": 3281285075,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -4004,7 +4402,9 @@
             ]
         },
         {
+            "description": "This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div. PvP: It really doesn’t matter.",
             "hash": 3366545721,
+            "name": "",
             "plugs": [
                 [
                     1749209109,
@@ -4020,7 +4420,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3512349612,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -4046,7 +4448,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3512349612,
+            "name": "",
             "plugs": [
                 [
                     2450788523
@@ -4060,7 +4464,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3512349612,
+            "name": "",
             "plugs": [
                 [
                     2779035018
@@ -4075,7 +4481,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514144928,
+            "name": "",
             "plugs": [
                 [
                     588594999,
@@ -4091,7 +4499,9 @@
             ]
         },
         {
+            "description": "Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 3565520715,
+            "name": "",
             "plugs": [
                 [
                     2869569095,
@@ -4108,7 +4518,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 3565520715,
+            "name": "",
             "plugs": [
                 [
                     4071163871
@@ -4122,7 +4534,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -4142,7 +4556,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -4162,7 +4578,9 @@
             ]
         },
         {
+            "description": "Splicer Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -4182,7 +4600,9 @@
             ]
         },
         {
+            "description": "Splicer Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -4202,7 +4622,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -4225,7 +4647,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -4246,7 +4670,9 @@
             ]
         },
         {
+            "description": "Splicer Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -4271,7 +4697,9 @@
             ]
         },
         {
+            "description": "Splicer Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -4292,7 +4720,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     2869569095
@@ -4306,7 +4736,9 @@
             ]
         },
         {
+            "description": "Worthy Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     957782887
@@ -4320,7 +4752,9 @@
             ]
         },
         {
+            "description": "Splicer Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -4336,7 +4770,9 @@
             ]
         },
         {
+            "description": "Splicer Variant",
             "hash": 3637570176,
+            "name": "",
             "plugs": [
                 [
                     588594999
@@ -4350,7 +4786,9 @@
             ]
         },
         {
+            "description": "Opening Shot is arguably the best in slot perk. Rangefinder is generally the go to (it does add ~3M of base range) but Hawkmoon is a run and gun weapon (in my opinion) - if you want range, run a 120 or Luna Faction boots. Opening Shot gives a serious bonus to accuracy on ground and in air and helps guarantee landing the first crit (or 7 stack OHKO if you wait for perk to reset). Moving Target is nearly worthless due to high base AA stat.",
             "hash": 3856705927,
+            "name": "",
             "plugs": [
                 [
                     2846385770,
@@ -4368,7 +4806,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4037745684,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -4392,7 +4832,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4037745684,
+            "name": "",
             "plugs": [
                 [
                     280464955
@@ -4406,7 +4848,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4037745684,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -4421,7 +4865,9 @@
             ]
         },
         {
+            "description": "Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed).",
             "hash": 4248569242,
+            "name": "",
             "plugs": [
                 [
                     3161816588,
@@ -4437,6 +4883,50 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start.",
+            "hash": 4184808992,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2450788523
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start.",
+            "hash": 4184808992,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         }
     ]

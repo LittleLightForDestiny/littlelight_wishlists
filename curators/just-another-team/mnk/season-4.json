@@ -1,9 +1,11 @@
 {
-    "name": "Just Another Team's MnK rolls - Season 4",
-    "description": "Just Another Team's recommendations for Season 4. Recommended for Mouse and Keyboard.",
+    "description": "",
+    "name": "Just Another Team",
     "data": [
         {
+            "description": "",
             "hash": 640114618,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -25,7 +27,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 640114618,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -47,7 +51,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 640114618,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -73,7 +79,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 640114618,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -101,7 +109,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 640114618,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -132,7 +142,9 @@
             ]
         },
         {
+            "description": "Of the 140 HCs, Waking has a lower base range at 38 therefore it cannot really be a max range weapon, however, it does have great base handling. Due to the inability to fight at the extended ranges of 140s, sight choice can come down to which is preferred visually. Despite this, the sights which are normally ignored because of the stat penalties they incur (Sureshot & Crossfire) can be worth it to push the range out as far as possible.",
             "hash": 334171687,
+            "name": "",
             "plugs": [
                 [
                     1926090094,
@@ -153,7 +165,9 @@
             ]
         },
         {
+            "description": "60 base reload + 10 from mag perk + 10/20/40 form vorpal would be sufficient for reloads. Outlaw would max out reload (+60) but its not as consistently proc’d in higher level content.",
             "hash": 334171687,
+            "name": "",
             "plugs": [
                 [
                     1926090094,
@@ -176,7 +190,9 @@
             ]
         },
         {
+            "description": "Of the 140 HCs, Waking has a lower base range at 38 therefore it cannot really be a max range weapon, however, it does have great base handling. Due to the inability to fight at the extended ranges of 140s, sight choice can come down to which is preferred visually. Despite this, the sights which are normally ignored because of the stat penalties they incur (Sureshot & Crossfire) can be worth it to push the range out as far as possible.",
             "hash": 334171687,
+            "name": "",
             "plugs": [
                 [
                     1926090094,
@@ -203,7 +219,9 @@
             ]
         },
         {
+            "description": "60 base reload + 10 from mag perk + 10/20/40 form vorpal would be sufficient for reloads. Outlaw would max out reload (+60) but its not as consistently proc’d in higher level content.",
             "hash": 334171687,
+            "name": "",
             "plugs": [
                 [
                     1926090094,
@@ -232,7 +250,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3297863558,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -252,7 +272,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3297863558,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -272,7 +294,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3297863558,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -295,7 +319,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3297863558,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -316,7 +342,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3297863558,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -330,7 +358,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3297863558,
+            "name": "",
             "plugs": [
                 [
                     47981717
@@ -344,7 +374,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3242168339,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -364,7 +396,9 @@
             ]
         },
         {
+            "description": "Max ammo is known to be 20 [100 mag stat].",
             "hash": 3242168339,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -384,7 +418,9 @@
             ]
         },
         {
+            "description": "Max ammo is known to be 20 [100 mag stat].",
             "hash": 3242168339,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -410,7 +446,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3242168339,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -434,7 +472,9 @@
             ]
         },
         {
+            "description": "Max ammo is known to be 20 [100 mag stat].",
             "hash": 3242168339,
+            "name": "",
             "plugs": [
                 [
                     247725512
@@ -449,7 +489,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 346136302,
+            "name": "",
             "plugs": [
                 [
                     1047830412
@@ -469,7 +511,9 @@
             ]
         },
         {
+            "description": "Surrounded could be good but it’s activation range is so short.",
             "hash": 346136302,
+            "name": "",
             "plugs": [
                 [
                     1300023272
@@ -489,7 +533,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 346136302,
+            "name": "",
             "plugs": [
                 [
                     1047830412
@@ -511,7 +557,9 @@
             ]
         },
         {
+            "description": "Surrounded could be good but it’s activation range is so short.",
             "hash": 346136302,
+            "name": "",
             "plugs": [
                 [
                     1300023272,
@@ -538,7 +586,9 @@
             ]
         },
         {
+            "description": "Lower velocity results in better tracking.",
             "hash": 3740842661,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -558,7 +608,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3740842661,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -579,7 +631,9 @@
             ]
         },
         {
+            "description": "Lower velocity results in better tracking.",
             "hash": 3740842661,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -601,7 +655,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3740842661,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -626,7 +682,9 @@
             ]
         },
         {
+            "description": "PvP: It’s a sword, it doesn’t matter.",
             "hash": 1644160541,
+            "name": "",
             "plugs": [
                 [
                     3666208348
@@ -646,7 +704,9 @@
             ]
         },
         {
+            "description": "PvP: It’s a sword, it doesn’t matter.",
             "hash": 1644160541,
+            "name": "",
             "plugs": [
                 [
                     1749209109
@@ -660,7 +720,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1972985595,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -680,7 +742,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1972985595,
+            "name": "",
             "plugs": [
                 [
                     1844523823
@@ -700,7 +764,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1972985595,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -722,7 +788,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1972985595,
+            "name": "",
             "plugs": [
                 [
                     1844523823,
@@ -746,7 +814,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1972985595,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -761,7 +831,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1972985595,
+            "name": "",
             "plugs": [
                 [
                     4071163871
@@ -776,7 +848,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1982711279,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -796,7 +870,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1982711279,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -817,7 +893,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1982711279,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -841,7 +919,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1982711279,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -863,7 +943,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 686951703,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -883,7 +965,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 686951703,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -903,7 +987,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 686951703,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -928,7 +1014,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 686951703,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -950,7 +1038,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 686951703,
+            "name": "",
             "plugs": [
                 [
                     957782887,
@@ -965,7 +1055,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 686951703,
+            "name": "",
             "plugs": [
                 [
                     957782887
@@ -979,7 +1071,9 @@
             ]
         },
         {
+            "description": "Curated",
             "hash": 601592879,
+            "name": "",
             "plugs": [
                 [
                     1467527085
@@ -999,7 +1093,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 601592879,
+            "name": "",
             "plugs": [
                 [
                     1392496348
@@ -1019,7 +1115,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 601592879,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1039,7 +1137,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 601592879,
+            "name": "",
             "plugs": [
                 [
                     1392496348
@@ -1061,7 +1161,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 601592879,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1084,7 +1186,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 601592879,
+            "name": "",
             "plugs": [
                 [
                     1359896290,
@@ -1099,7 +1203,9 @@
             ]
         },
         {
+            "description": "Curated",
             "hash": 3799980700,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1119,7 +1225,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3799980700,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1141,7 +1249,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3799980700,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1163,7 +1273,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3799980700,
+            "name": "",
             "plugs": [
                 [
                     3425386926
@@ -1178,7 +1290,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 654370424,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1198,7 +1312,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 654370424,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1218,7 +1334,9 @@
             ]
         },
         {
+            "description": "PvP: (don’t)",
             "hash": 2721249463,
+            "name": "",
             "plugs": [
                 [
                     2801223209
@@ -1238,7 +1356,9 @@
             ]
         },
         {
+            "description": "PvP: (don’t)",
             "hash": 2721249463,
+            "name": "",
             "plugs": [
                 [
                     2801223209,
@@ -1260,7 +1380,9 @@
             ]
         },
         {
+            "description": "PvP: (don’t)",
             "hash": 2721249463,
+            "name": "",
             "plugs": [
                 [
                     201365942
@@ -1274,7 +1396,9 @@
             ]
         },
         {
+            "description": "Curated. Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype.",
             "hash": 568515759,
+            "name": "",
             "plugs": [
                 [
                     4090651448
@@ -1295,7 +1419,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 568515759,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1315,7 +1441,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 568515759,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1335,7 +1463,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 568515759,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1356,7 +1486,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 568515759,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1382,7 +1514,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 568515759,
+            "name": "",
             "plugs": [
                 [
                     2846385770
@@ -1396,7 +1530,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 568515759,
+            "name": "",
             "plugs": [
                 [
                     1168162263,
@@ -1412,7 +1548,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4094657108,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1432,7 +1570,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4094657108,
+            "name": "",
             "plugs": [
                 [
                     1392496348
@@ -1452,7 +1592,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4094657108,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1478,7 +1620,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4094657108,
+            "name": "",
             "plugs": [
                 [
                     1392496348,
@@ -1504,7 +1648,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4094657108,
+            "name": "",
             "plugs": [
                 [
                     1015611457
@@ -1520,7 +1666,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 601592879,
+            "name": "",
             "plugs": [
                 [
                     3400784728
@@ -1534,7 +1682,9 @@
             ]
         },
         {
+            "description": "Don’t use this rocket launcher. Just don’t.",
             "hash": 2545083870,
+            "name": "",
             "plugs": [
                 [
                     1844523823
@@ -1554,7 +1704,9 @@
             ]
         },
         {
+            "description": "Don’t use this rocket launcher. Just don’t.",
             "hash": 2545083870,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -1574,7 +1726,9 @@
             ]
         },
         {
+            "description": "Don’t use this rocket launcher. Just don’t.",
             "hash": 2545083870,
+            "name": "",
             "plugs": [
                 [
                     1844523823,
@@ -1596,7 +1750,9 @@
             ]
         },
         {
+            "description": "Don’t use this rocket launcher. Just don’t.",
             "hash": 2545083870,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -1617,7 +1773,9 @@
             ]
         },
         {
+            "description": "Don’t use this rocket launcher. Just don’t.",
             "hash": 2545083870,
+            "name": "",
             "plugs": [
                 [
                     3977735242
@@ -1631,7 +1789,9 @@
             ]
         },
         {
+            "description": "Don’t use this rocket launcher. Just don’t.",
             "hash": 2545083870,
+            "name": "",
             "plugs": [
                 [
                     2010801679
@@ -1645,7 +1805,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3169616514,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1665,7 +1827,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3169616514,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1685,7 +1849,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3169616514,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1708,7 +1874,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3169616514,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -1732,7 +1900,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 253196586,
+            "name": "",
             "plugs": [
                 [
                     13792278,
@@ -1753,7 +1923,9 @@
             ]
         },
         {
+            "description": "The premier PvP fusion, with multiple excellent rolls. As long as you have a max zoom scope this gun can shine, but Firmly Planted + Rangefinder pushes the map range out the furthest with HIR offering a more forgiving weapon and Under Pressure being an excellent substitute for Firmly Planted.",
             "hash": 253196586,
+            "name": "",
             "plugs": [
                 [
                     2405638014
@@ -1773,7 +1945,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 253196586,
+            "name": "",
             "plugs": [
                 [
                     13792278,
@@ -1801,7 +1975,9 @@
             ]
         },
         {
+            "description": "The premier PvP fusion, with multiple excellent rolls. As long as you have a max zoom scope this gun can shine, but Firmly Planted + Rangefinder pushes the map range out the furthest with HIR offering a more forgiving weapon and Under Pressure being an excellent substitute for Firmly Planted.",
             "hash": 253196586,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -1825,7 +2001,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 253196586,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -1842,7 +2020,9 @@
             ]
         },
         {
+            "description": "In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells.",
             "hash": 3829285960,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -1863,7 +2043,9 @@
             ]
         },
         {
+            "description": "In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels.",
             "hash": 3829285960,
+            "name": "",
             "plugs": [
                 [
                     2405638014
@@ -1883,7 +2065,9 @@
             ]
         },
         {
+            "description": "In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells.",
             "hash": 3829285960,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -1909,7 +2093,9 @@
             ]
         },
         {
+            "description": "In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels.",
             "hash": 3829285960,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -1932,7 +2118,9 @@
             ]
         },
         {
+            "description": "In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels.",
             "hash": 3829285960,
+            "name": "",
             "plugs": [
                 [
                     1168162263
@@ -1947,7 +2135,9 @@
             ]
         },
         {
+            "description": "In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels.",
             "hash": 3829285960,
+            "name": "",
             "plugs": [
                 [
                     280464955,
@@ -1963,7 +2153,9 @@
             ]
         },
         {
+            "description": "In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells.",
             "hash": 3829285960,
+            "name": "",
             "plugs": [
                 [
                     1168162263,
@@ -1978,7 +2170,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2957367743,
+            "name": "",
             "plugs": [
                 [
                     1300023272
@@ -1998,7 +2192,9 @@
             ]
         },
         {
+            "description": "Unless you have a Worthy Variant Astral Horizon spec’d into Handling, this will be the fastest drawing Aggressive Frame shotgun one can get in the kinetic slot.",
             "hash": 2957367743,
+            "name": "",
             "plugs": [
                 [
                     1047830412
@@ -2018,7 +2214,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2957367743,
+            "name": "",
             "plugs": [
                 [
                     1300023272,
@@ -2043,7 +2241,9 @@
             ]
         },
         {
+            "description": "Unless you have a Worthy Variant Astral Horizon spec’d into Handling, this will be the fastest drawing Aggressive Frame shotgun one can get in the kinetic slot.",
             "hash": 2957367743,
+            "name": "",
             "plugs": [
                 [
                     1047830412,
@@ -2068,7 +2268,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2957367743,
+            "name": "",
             "plugs": [
                 [
                     2117683199,
@@ -2083,7 +2285,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3745990145,
+            "name": "",
             "plugs": [
                 [
                     893526893
@@ -2103,7 +2307,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3745990145,
+            "name": "",
             "plugs": [
                 [
                     893526893
@@ -2123,7 +2329,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3745990145,
+            "name": "",
             "plugs": [
                 [
                     893526893,
@@ -2145,7 +2353,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3745990145,
+            "name": "",
             "plugs": [
                 [
                     893526893,
@@ -2166,7 +2376,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3745990145,
+            "name": "",
             "plugs": [
                 [
                     2869569095,
@@ -2181,7 +2393,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3745990145,
+            "name": "",
             "plugs": [
                 [
                     957782887
@@ -2195,7 +2409,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 720351795,
+            "name": "",
             "plugs": [
                 [
                     2801223209
@@ -2215,7 +2431,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 720351795,
+            "name": "",
             "plugs": [
                 [
                     2801223209
@@ -2235,7 +2453,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 720351795,
+            "name": "",
             "plugs": [
                 [
                     2801223209,
@@ -2260,7 +2480,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 720351795,
+            "name": "",
             "plugs": [
                 [
                     2801223209,
@@ -2285,7 +2507,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2009277538,
+            "name": "",
             "plugs": [
                 [
                     445755706,
@@ -2306,7 +2530,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2009277538,
+            "name": "",
             "plugs": [
                 [
                     445755704
@@ -2327,7 +2553,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2009277538,
+            "name": "",
             "plugs": [
                 [
                     445755704,
@@ -2349,7 +2577,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2009277538,
+            "name": "",
             "plugs": [
                 [
                     445755706,
@@ -2376,7 +2606,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2009277538,
+            "name": "",
             "plugs": [
                 [
                     445755704,
@@ -2403,7 +2635,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2009277538,
+            "name": "",
             "plugs": [
                 [
                     4267945040
@@ -2418,7 +2652,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 991314988,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -2438,7 +2674,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 991314988,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -2458,7 +2696,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 991314988,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -2481,7 +2721,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 991314988,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -2504,7 +2746,9 @@
             ]
         },
         {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 4146702548,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -2524,7 +2768,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 4146702548,
+            "name": "",
             "plugs": [
                 [
                     1844523823
@@ -2544,7 +2790,9 @@
             ]
         },
         {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 4146702548,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -2568,7 +2816,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 4146702548,
+            "name": "",
             "plugs": [
                 [
                     1844523823,
@@ -2594,7 +2844,9 @@
             ]
         },
         {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 4146702548,
+            "name": "",
             "plugs": [
                 [
                     4071163871
@@ -2610,7 +2862,9 @@
             ]
         },
         {
+            "description": "The premier PvP fusion, with multiple excellent rolls. As long as you have a max zoom scope this gun can shine, but Firmly Planted + Rangefinder pushes the map range out the furthest with HIR offering a more forgiving weapon and Under Pressure being an excellent substitute for Firmly Planted.",
             "hash": 253196586,
+            "name": "",
             "plugs": [
                 [
                     280464955,
@@ -2626,7 +2880,9 @@
             ]
         },
         {
+            "description": "60 base reload + 10 from mag perk + 10/20/40 form vorpal would be sufficient for reloads. Outlaw would max out reload (+60) but its not as consistently proc’d in higher level content.",
             "hash": 334171687,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -2644,7 +2900,9 @@
             ]
         },
         {
+            "description": "Of the 140 HCs, Waking has a lower base range at 38 therefore it cannot really be a max range weapon, however, it does have great base handling. Due to the inability to fight at the extended ranges of 140s, sight choice can come down to which is preferred visually. Despite this, the sights which are normally ignored because of the stat penalties they incur (Sureshot & Crossfire) can be worth it to push the range out as far as possible.",
             "hash": 334171687,
+            "name": "",
             "plugs": [
                 [
                     2846385770,
@@ -2661,7 +2919,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 346136302,
+            "name": "",
             "plugs": [
                 [
                     706527188,
@@ -2676,7 +2936,9 @@
             ]
         },
         {
+            "description": "Surrounded could be good but it’s activation range is so short.",
             "hash": 346136302,
+            "name": "",
             "plugs": [
                 [
                     2869569095,
@@ -2693,7 +2955,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 640114618,
+            "name": "",
             "plugs": [
                 [
                     1168162263,
@@ -2711,7 +2975,9 @@
             ]
         },
         {
+            "description": "Curated",
             "hash": 654370424,
+            "name": "",
             "plugs": [
                 [
                     202670084
@@ -2731,7 +2997,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 654370424,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -2754,7 +3022,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 654370424,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2777,7 +3047,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 654370424,
+            "name": "",
             "plugs": [
                 [
                     47981717
@@ -2793,7 +3065,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 654370424,
+            "name": "",
             "plugs": [
                 [
                     1168162263
@@ -2807,7 +3081,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 720351795,
+            "name": "",
             "plugs": [
                 [
                     3425386926,
@@ -2823,7 +3099,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 720351795,
+            "name": "",
             "plugs": [
                 [
                     588594999,
@@ -2839,7 +3117,9 @@
             ]
         },
         {
+            "description": "Curated",
             "hash": 991314988,
+            "name": "",
             "plugs": [
                 [
                     1478423395
@@ -2859,7 +3139,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 991314988,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -2874,7 +3156,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 991314988,
+            "name": "",
             "plugs": [
                 [
                     3977735242,
@@ -2890,7 +3174,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 640114618,
+            "name": "",
             "plugs": [
                 [
                     1168162263,
@@ -2908,7 +3194,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 640114618,
+            "name": "",
             "plugs": [
                 [
                     1168162263,
@@ -2928,7 +3216,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1982711279,
+            "name": "",
             "plugs": [
                 [
                     1168162263
@@ -2943,7 +3233,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1982711279,
+            "name": "",
             "plugs": [
                 [
                     280464955
@@ -2959,7 +3251,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2009277538,
+            "name": "",
             "plugs": [
                 [
                     4071163871,
@@ -2976,7 +3270,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2009277538,
+            "name": "",
             "plugs": [
                 [
                     588594999,
@@ -2994,7 +3290,9 @@
             ]
         },
         {
+            "description": "Unless you have a Worthy Variant Astral Horizon spec’d into Handling, this will be the fastest drawing Aggressive Frame shotgun one can get in the kinetic slot.",
             "hash": 2957367743,
+            "name": "",
             "plugs": [
                 [
                     4071163871,
@@ -3010,7 +3308,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3169616514,
+            "name": "",
             "plugs": [
                 [
                     247725512
@@ -3025,7 +3325,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3169616514,
+            "name": "",
             "plugs": [
                 [
                     957782887,
@@ -3041,7 +3343,9 @@
             ]
         },
         {
+            "description": "Max ammo is known to be 20 [100 mag stat].",
             "hash": 3242168339,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -3063,7 +3367,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3242168339,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3080,7 +3386,9 @@
             ]
         },
         {
+            "description": "Lower velocity results in better tracking.",
             "hash": 3740842661,
+            "name": "",
             "plugs": [
                 [
                     3977735242
@@ -3095,7 +3403,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3740842661,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -3112,7 +3422,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4094657108,
+            "name": "",
             "plugs": [
                 [
                     4071163871,
@@ -3128,7 +3440,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4094657108,
+            "name": "",
             "plugs": [
                 [
                     1645158859,
@@ -3144,7 +3458,9 @@
             ]
         },
         {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 4146702548,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -3161,7 +3477,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 4146702548,
+            "name": "",
             "plugs": [
                 [
                     4071163871,
