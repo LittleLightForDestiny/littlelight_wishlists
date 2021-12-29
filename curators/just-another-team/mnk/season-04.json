@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "name": "Just Another Team",
+    "description": "Just Another Team's recommendations for Season 4. Recommended for Mouse and Keyboard.",
+    "name": "Just Another Team's MnK rolls - Season 4",
     "data": [
         {
             "description": "",
@@ -3493,6 +3493,52 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "Second half of the Mida Multi-Tool exotic.",
+            "hash": 3089417788,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    1866048759
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Second half of the Sturm exotic.",
+            "hash": 2362471600,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    588594999
+                ],
+                [
+                    3142289711
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "GodPVE"
             ]
         }
     ]
