@@ -1,9 +1,11 @@
 {
-    "description": "",
-    "name": "Just Another Team",
+    "name": "Just Another Team's MnK rolls - Season 13",
+    "description": "Just Another Team's recommendations for Season 13. Recommended for Mouse and Keyboard.",
     "data": [
         {
+            "description": "Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability.",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -23,7 +25,9 @@
             ]
         },
         {
+            "description": "Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping.",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -46,7 +50,9 @@
             ]
         },
         {
+            "description": "Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping.",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -69,7 +75,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -89,7 +97,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -112,7 +122,9 @@
             ]
         },
         {
+            "description": "Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping.",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -141,7 +153,9 @@
             ]
         },
         {
+            "description": "Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping.",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -170,7 +184,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     280464955
@@ -184,7 +200,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3460122497,
+            "name": "",
             "plugs": [
                 [
                     2801223209
@@ -204,7 +222,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3460122497,
+            "name": "",
             "plugs": [
                 [
                     2801223209
@@ -224,7 +244,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3460122497,
+            "name": "",
             "plugs": [
                 [
                     2801223209,
@@ -250,7 +272,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3460122497,
+            "name": "",
             "plugs": [
                 [
                     2801223209,
@@ -274,7 +298,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3460122497,
+            "name": "",
             "plugs": [
                 [
                     2450788523
@@ -289,7 +315,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2121785039,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -311,7 +339,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2121785039,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -331,7 +361,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2121785039,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -355,7 +387,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2121785039,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -385,7 +419,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2121785039,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -411,7 +447,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2121785039,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -427,7 +465,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2121785039,
+            "name": "",
             "plugs": [
                 [
                     2450788523,
@@ -443,7 +483,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 893527433,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -463,7 +505,9 @@
             ]
         },
         {
+            "description": "This sniper used to be excellent with Quickdraw, but with the changes removing the ads speed from Quickdraw it needs to be replaced. Surplus gives a handling increase, but it’s not the same as the old Quickdraw. If you’re getting your handling from other places, then Slideshot is best in slot for the range increase.",
             "hash": 893527433,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -483,7 +527,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 893527433,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -508,7 +554,9 @@
             ]
         },
         {
+            "description": "This sniper used to be excellent with Quickdraw, but with the changes removing the ads speed from Quickdraw it needs to be replaced. Surplus gives a handling increase, but it’s not the same as the old Quickdraw. If you’re getting your handling from other places, then Slideshot is best in slot for the range increase.",
             "hash": 893527433,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -530,7 +578,9 @@
             ]
         },
         {
+            "description": "This sniper used to be excellent with Quickdraw, but with the changes removing the ads speed from Quickdraw it needs to be replaced. Surplus gives a handling increase, but it’s not the same as the old Quickdraw. If you’re getting your handling from other places, then Slideshot is best in slot for the range increase.",
             "hash": 893527433,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -545,7 +595,9 @@
             ]
         },
         {
+            "description": "Frenzy and Vorpal now give the same damage bonus (15%), so it’s your choice which perk. Vorpal affects majors [champs] and bosses, Frenzy affects all enemies and gives a +50 stat bonus to reload speed but takes some time to proc.",
             "hash": 3075224551,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -566,7 +618,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3075224551,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -586,7 +640,9 @@
             ]
         },
         {
+            "description": "Frenzy and Vorpal now give the same damage bonus (15%), so it’s your choice which perk. Vorpal affects majors [champs] and bosses, Frenzy affects all enemies and gives a +50 stat bonus to reload speed but takes some time to proc.",
             "hash": 3075224551,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -613,7 +669,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3075224551,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -634,7 +692,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3075224551,
+            "name": "",
             "plugs": [
                 [
                     2450788523
@@ -648,7 +708,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2496242052,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -669,7 +731,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2496242052,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -689,7 +753,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2496242052,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -710,7 +776,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2496242052,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -735,7 +803,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2496242052,
+            "name": "",
             "plugs": [
                 [
                     951095735
@@ -750,7 +820,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 409551876,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -771,7 +843,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 409551876,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -793,7 +867,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 409551876,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -817,7 +893,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 409551876,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -848,7 +926,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 409551876,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -876,7 +956,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 409551876,
+            "name": "",
             "plugs": [
                 [
                     3436462433
@@ -892,7 +974,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1402766122,
+            "name": "",
             "plugs": [
                 [
                     1300023272
@@ -912,7 +996,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1402766122,
+            "name": "",
             "plugs": [
                 [
                     1047830412
@@ -932,7 +1018,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1402766122,
+            "name": "",
             "plugs": [
                 [
                     1300023272,
@@ -958,7 +1046,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1402766122,
+            "name": "",
             "plugs": [
                 [
                     1047830412
@@ -979,7 +1069,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1402766122,
+            "name": "",
             "plugs": [
                 [
                     706527188
@@ -993,7 +1085,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3473290087,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1014,7 +1108,9 @@
             ]
         },
         {
+            "description": "This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks.",
             "hash": 3473290087,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1034,7 +1130,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3473290087,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1062,7 +1160,9 @@
             ]
         },
         {
+            "description": "This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks.",
             "hash": 3473290087,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -1090,7 +1190,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3258665412,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1111,7 +1213,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3258665412,
+            "name": "",
             "plugs": [
                 [
                     1392496348
@@ -1131,7 +1235,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3258665412,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1163,7 +1269,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3258665412,
+            "name": "",
             "plugs": [
                 [
                     1392496348,
@@ -1192,7 +1300,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1046651176,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1213,7 +1323,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1046651176,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -1236,7 +1348,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1046651176,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1268,7 +1382,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1046651176,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -1300,7 +1416,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1046651176,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -1318,7 +1436,9 @@
             ]
         },
         {
+            "description": "The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range.",
             "hash": 3717177717,
+            "name": "",
             "plugs": [
                 [
                     663495154
@@ -1338,7 +1458,9 @@
             ]
         },
         {
+            "description": "The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range. Deciding between Kill Clip and Iron Reach comes down to deciding what you want your smg to be. Iron Reach gives it an extra 3m of range (and with smgs, every metre counts) making it a better dueling weapon, while Kill Clip’s damage buff gives it a nutty ttk and an excellent snowball machine.",
             "hash": 3717177717,
+            "name": "",
             "plugs": [
                 [
                     663495154
@@ -1358,7 +1480,9 @@
             ]
         },
         {
+            "description": "The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range.",
             "hash": 3717177717,
+            "name": "",
             "plugs": [
                 [
                     663495154
@@ -1381,7 +1505,9 @@
             ]
         },
         {
+            "description": "The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range. Deciding between Kill Clip and Iron Reach comes down to deciding what you want your smg to be. Iron Reach gives it an extra 3m of range (and with smgs, every metre counts) making it a better dueling weapon, while Kill Clip’s damage buff gives it a nutty ttk and an excellent snowball machine.",
             "hash": 3717177717,
+            "name": "",
             "plugs": [
                 [
                     663495154
@@ -1404,7 +1530,9 @@
             ]
         },
         {
+            "description": "The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range.",
             "hash": 3717177717,
+            "name": "",
             "plugs": [
                 [
                     1820235745,
@@ -1420,7 +1548,9 @@
             ]
         },
         {
+            "description": "The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range. Deciding between Kill Clip and Iron Reach comes down to deciding what you want your smg to be. Iron Reach gives it an extra 3m of range (and with smgs, every metre counts) making it a better dueling weapon, while Kill Clip’s damage buff gives it a nutty ttk and an excellent snowball machine.",
             "hash": 3717177717,
+            "name": "",
             "plugs": [
                 [
                     2450788523,
@@ -1437,7 +1567,9 @@
             ]
         },
         {
+            "description": "Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot.",
             "hash": 3593598010,
+            "name": "",
             "plugs": [
                 [
                     2405638014
@@ -1457,7 +1589,9 @@
             ]
         },
         {
+            "description": "Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot.",
             "hash": 3593598010,
+            "name": "",
             "plugs": [
                 [
                     2405638014
@@ -1477,7 +1611,9 @@
             ]
         },
         {
+            "description": "Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot.",
             "hash": 3593598010,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -1503,7 +1639,9 @@
             ]
         },
         {
+            "description": "Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot.",
             "hash": 3593598010,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -1528,7 +1666,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 432476743,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1548,7 +1688,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 432476743,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1568,7 +1710,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 432476743,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1596,7 +1740,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 432476743,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1622,7 +1768,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 432476743,
+            "name": "",
             "plugs": [
                 [
                     3643424744,
@@ -1639,7 +1787,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2633186522,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1660,7 +1810,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2633186522,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1681,7 +1833,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2633186522,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1708,7 +1862,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2633186522,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -1734,7 +1890,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2633186522,
+            "name": "",
             "plugs": [
                 [
                     3643424744
@@ -1752,7 +1910,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 47772649,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1773,7 +1933,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 47772649,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1793,7 +1955,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 47772649,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1819,7 +1983,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 47772649,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -1841,7 +2007,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 47772649,
+            "name": "",
             "plugs": [
                 [
                     1168162263,
@@ -1858,7 +2026,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 47772649,
+            "name": "",
             "plugs": [
                 [
                     1359896290,
@@ -1873,7 +2043,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1481892490,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -1893,7 +2065,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1481892490,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1913,7 +2087,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1481892490,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -1941,7 +2117,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1481892490,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -1967,7 +2145,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1481892490,
+            "name": "",
             "plugs": [
                 [
                     3643424744,
@@ -1984,7 +2164,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2147010335,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2005,7 +2187,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2147010335,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2026,7 +2210,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2147010335,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2053,7 +2239,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2147010335,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -2079,7 +2267,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2147010335,
+            "name": "",
             "plugs": [
                 [
                     3643424744
@@ -2097,7 +2287,9 @@
             ]
         },
         {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 3836861464,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2118,7 +2310,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 3836861464,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2138,7 +2332,9 @@
             ]
         },
         {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 3836861464,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2164,7 +2360,9 @@
             ]
         },
         {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 3836861464,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -2186,7 +2384,9 @@
             ]
         },
         {
+            "description": "Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active).",
             "hash": 3654674561,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2206,7 +2406,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3654674561,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2226,7 +2428,9 @@
             ]
         },
         {
+            "description": "Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active).",
             "hash": 3654674561,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2249,7 +2453,9 @@
             ]
         },
         {
+            "description": "Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active).",
             "hash": 3654674561,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2275,7 +2481,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3654674561,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2300,7 +2508,9 @@
             ]
         },
         {
+            "description": "Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active).",
             "hash": 3654674561,
+            "name": "",
             "plugs": [
                 [
                     1546637391
@@ -2316,7 +2526,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2448907086,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -2336,7 +2548,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2448907086,
+            "name": "",
             "plugs": [
                 [
                     3525010810
@@ -2356,7 +2570,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2448907086,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -2382,7 +2598,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2448907086,
+            "name": "",
             "plugs": [
                 [
                     3525010810,
@@ -2404,7 +2622,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2448907086,
+            "name": "",
             "plugs": [
                 [
                     951095735
@@ -2419,7 +2639,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2448907086,
+            "name": "",
             "plugs": [
                 [
                     951095735
@@ -2434,7 +2656,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4156253727,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2455,7 +2679,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4156253727,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -2477,7 +2703,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4156253727,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2506,7 +2734,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4156253727,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -2534,7 +2764,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3658188704,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2555,7 +2787,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 3658188704,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2575,7 +2809,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2351180975,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2595,7 +2831,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2351180975,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2617,7 +2855,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2351180975,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2644,7 +2884,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2351180975,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -2674,7 +2916,9 @@
             ]
         },
         {
+            "description": "PvP: It’s a sword in PvP. ",
             "hash": 1313528549,
+            "name": "",
             "plugs": [
                 [
                     3666208348
@@ -2694,7 +2938,9 @@
             ]
         },
         {
+            "description": "PvP: It’s a sword in PvP. ",
             "hash": 1313528549,
+            "name": "",
             "plugs": [
                 [
                     3666208348
@@ -2717,7 +2963,9 @@
             ]
         },
         {
+            "description": "PvP: It’s a sword in PvP. ",
             "hash": 1313528549,
+            "name": "",
             "plugs": [
                 [
                     1749209109,
@@ -2733,7 +2981,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1173780905,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2754,7 +3004,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 1173780905,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2774,7 +3026,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2527666306,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -2794,7 +3048,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2527666306,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -2816,7 +3072,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2527666306,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -2843,7 +3101,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2527666306,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -2873,7 +3133,9 @@
             ]
         },
         {
+            "description": "PvP: It’s a sword in PvP. ",
             "hash": 3847137620,
+            "name": "",
             "plugs": [
                 [
                     3666208348
@@ -2893,7 +3155,9 @@
             ]
         },
         {
+            "description": "PvP: It’s a sword in PvP. ",
             "hash": 3847137620,
+            "name": "",
             "plugs": [
                 [
                     3666208348
@@ -2916,7 +3180,9 @@
             ]
         },
         {
+            "description": "PvP: It’s a sword in PvP. ",
             "hash": 3847137620,
+            "name": "",
             "plugs": [
                 [
                     1749209109,
@@ -2932,7 +3198,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2481881293,
+            "name": "",
             "plugs": [
                 [
                     2405638014
@@ -2952,7 +3220,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2481881293,
+            "name": "",
             "plugs": [
                 [
                     2405638014
@@ -2972,7 +3242,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2481881293,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -3001,7 +3273,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2481881293,
+            "name": "",
             "plugs": [
                 [
                     2405638014,
@@ -3024,7 +3298,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2481881293,
+            "name": "",
             "plugs": [
                 [
                     1645158859
@@ -3038,7 +3314,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514096004,
+            "name": "",
             "plugs": [
                 [
                     1409978309
@@ -3058,7 +3336,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514096004,
+            "name": "",
             "plugs": [
                 [
                     1409978308
@@ -3078,7 +3358,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514096004,
+            "name": "",
             "plugs": [
                 [
                     1409978308,
@@ -3102,7 +3384,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514096004,
+            "name": "",
             "plugs": [
                 [
                     1409978309,
@@ -3130,7 +3414,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514096004,
+            "name": "",
             "plugs": [
                 [
                     1409978308,
@@ -3158,7 +3444,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514096004,
+            "name": "",
             "plugs": [
                 [
                     247725512
@@ -3173,7 +3461,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3335343363,
+            "name": "",
             "plugs": [
                 [
                     1840239774
@@ -3193,7 +3483,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3335343363,
+            "name": "",
             "plugs": [
                 [
                     3250034553
@@ -3213,7 +3505,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3335343363,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -3235,7 +3529,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3335343363,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -3257,7 +3553,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3335343363,
+            "name": "",
             "plugs": [
                 [
                     2869569095
@@ -3271,7 +3569,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3335343363,
+            "name": "",
             "plugs": [
                 [
                     280464955
@@ -3286,7 +3586,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 432476743,
+            "name": "",
             "plugs": [
                 [
                     2450788523,
@@ -3303,7 +3605,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 893527433,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -3319,7 +3623,9 @@
             ]
         },
         {
+            "description": "Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping.",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -3339,7 +3645,9 @@
             ]
         },
         {
+            "description": "Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping.",
             "hash": 1097616550,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -3359,7 +3667,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 409551876,
+            "name": "",
             "plugs": [
                 [
                     4071163871,
@@ -3380,7 +3690,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 409551876,
+            "name": "",
             "plugs": [
                 [
                     2450788523,
@@ -3398,7 +3710,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1046651176,
+            "name": "",
             "plugs": [
                 [
                     3161816588,
@@ -3420,7 +3734,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 1173780905,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -3444,7 +3760,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1173780905,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -3471,7 +3789,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 1173780905,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -3499,7 +3819,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 1173780905,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3515,7 +3837,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1173780905,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3532,7 +3856,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 1173780905,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3550,7 +3876,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1402766122,
+            "name": "",
             "plugs": [
                 [
                     2779035018,
@@ -3566,7 +3894,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1046651176,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3588,7 +3918,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 1481892490,
+            "name": "",
             "plugs": [
                 [
                     2450788523,
@@ -3605,7 +3937,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2121785039,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -3625,7 +3959,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2147010335,
+            "name": "",
             "plugs": [
                 [
                     3643424744,
@@ -3643,7 +3979,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2147010335,
+            "name": "",
             "plugs": [
                 [
                     2450788523,
@@ -3662,7 +4000,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2351180975,
+            "name": "",
             "plugs": [
                 [
                     3643424744,
@@ -3682,7 +4022,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2351180975,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3699,7 +4041,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2448907086,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -3718,7 +4062,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2481881293,
+            "name": "",
             "plugs": [
                 [
                     1556840489,
@@ -3736,7 +4082,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2496242052,
+            "name": "",
             "plugs": [
                 [
                     951095735,
@@ -3754,7 +4102,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2527666306,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3771,7 +4121,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2527666306,
+            "name": "",
             "plugs": [
                 [
                     3643424744,
@@ -3791,7 +4143,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2633186522,
+            "name": "",
             "plugs": [
                 [
                     3643424744,
@@ -3809,7 +4163,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 2633186522,
+            "name": "",
             "plugs": [
                 [
                     2450788523,
@@ -3828,7 +4184,9 @@
             ]
         },
         {
+            "description": "Frenzy and Vorpal now give the same damage bonus (15%), so it’s your choice which perk. Vorpal affects majors [champs] and bosses, Frenzy affects all enemies and gives a +50 stat bonus to reload speed but takes some time to proc.",
             "hash": 3075224551,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3847,7 +4205,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3258665412,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -3869,7 +4229,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3258665412,
+            "name": "",
             "plugs": [
                 [
                     1645158859,
@@ -3889,7 +4251,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3460122497,
+            "name": "",
             "plugs": [
                 [
                     201365942
@@ -3906,7 +4270,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3473290087,
+            "name": "",
             "plugs": [
                 [
                     3300816228,
@@ -3925,7 +4291,9 @@
             ]
         },
         {
+            "description": "This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks.",
             "hash": 3473290087,
+            "name": "",
             "plugs": [
                 [
                     588594999,
@@ -3945,7 +4313,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514096004,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3962,7 +4332,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3514096004,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -3979,7 +4351,9 @@
             ]
         },
         {
+            "description": "Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot.",
             "hash": 3593598010,
+            "name": "",
             "plugs": [
                 [
                     2779035018
@@ -3994,7 +4368,9 @@
             ]
         },
         {
+            "description": "Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot.",
             "hash": 3593598010,
+            "name": "",
             "plugs": [
                 [
                     588594999,
@@ -4011,7 +4387,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 3658188704,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -4035,7 +4413,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3658188704,
+            "name": "",
             "plugs": [
                 [
                     1840239774,
@@ -4062,7 +4442,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 3658188704,
+            "name": "",
             "plugs": [
                 [
                     3250034553,
@@ -4090,7 +4472,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 3658188704,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -4106,7 +4490,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 3658188704,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -4123,7 +4509,9 @@
             ]
         },
         {
+            "description": "Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO.",
             "hash": 3658188704,
+            "name": "",
             "plugs": [
                 [
                     247725512,
@@ -4141,7 +4529,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4156253727,
+            "name": "",
             "plugs": [
                 [
                     3436462433,
@@ -4160,7 +4550,9 @@
             ]
         },
         {
+            "description": "",
             "hash": 4156253727,
+            "name": "",
             "plugs": [
                 [
                     588594999,
@@ -4174,6 +4566,100 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage.",
+            "hash": 2060863616,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage.",
+            "hash": 2060863616,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage.",
+            "hash": 2060863616,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2010801679,
+                    3523296417
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage.",
+            "hash": 2060863616,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3523296417,
+                    2010801679
+                ],
+                [
+                    2396489472,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
