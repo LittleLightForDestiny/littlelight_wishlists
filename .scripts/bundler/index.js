@@ -96,7 +96,7 @@ async function buildCuratorPartials(curator) {
  async function buildWishlistsIndex(curators) {
      /** @type {WishlistIndexFolder} */
     let root = {files:[],folders:[]};
-    const cdnFilesRoot = "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/deliverables";
+    const cdnFilesRoot = "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists@HEAD/deliverables";
     for(let curatorName of curators){
         const curator = await loadCuratorInfo(curatorName);
         let bundles = curator.bundles.filter((b)=>!b.hidden);
