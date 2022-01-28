@@ -1,6 +1,6 @@
 {
-    "name": "Just Another Team's MnK rolls - Season 12",
     "description": "Just Another Team's recommendations for Season 12. Recommended for Mouse and Keyboard.",
+    "name": "Just Another Team's MnK rolls - Season 12",
     "data": [
         {
             "description": "",
@@ -3141,7 +3141,7 @@
                     1687452232
                 ],
                 [
-                    1820235745
+                    3161816588
                 ],
                 [
                     1427256713
@@ -3189,8 +3189,8 @@
                     2680121939
                 ],
                 [
+                    3161816588,
                     1820235745,
-                    3436462433,
                     4071163871
                 ],
                 [
@@ -3227,25 +3227,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
-            "hash": 1030895163,
-            "name": "",
-            "plugs": [
-                [
-                    1820235745,
-                    3436462433,
-                    4071163871
-                ],
-                [
-                    1427256713,
-                    3523296417
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -4927,6 +4908,25 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
+            "hash": 1030895163,
+            "name": "",
+            "plugs": [
+                [
+                    3161816588,
+                    1820235745,
+                    4071163871
+                ],
+                [
+                    1427256713,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
