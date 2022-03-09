@@ -4,7 +4,7 @@
     "bundles": [
         {
             "name": "Just Another Team's MnK rolls",
-            "description": "Just Another Team's recommendations for weapons through seasons 4-15. Recommended for Mouse and Keyboard.",
+            "description": "Just Another Team's recommendations for weapons through seasons 4-16. Recommended for Mouse and Keyboard.",
             "output": "just-another-team-mnk.json",
             "files": [
                 "curators/just-another-team/mnk/season-04.json",
@@ -25,7 +25,7 @@
         {
             "hidden": true,
             "name": "Just Another Team's MnK rolls",
-            "description": "Just Another Team's recommendations for weapons through seasons 4-15. Recommended for Mouse and Keyboard.",
+            "description": "Just Another Team's recommendations for weapons through seasons 4-16. Recommended for Mouse and Keyboard.",
             "output": "justanotherteam-bundle.json",
             "files": [
                 "curators/just-another-team/mnk/season-04.json",
