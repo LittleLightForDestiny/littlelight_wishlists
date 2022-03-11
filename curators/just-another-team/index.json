@@ -21,27 +21,6 @@
                 "curators/just-another-team/mnk/season-15.json",
                 "curators/just-another-team/mnk/season-16.json"
             ]
-        },
-        {
-            "hidden": true,
-            "name": "Just Another Team's MnK rolls",
-            "description": "Just Another Team's recommendations for weapons through seasons 4-16. Recommended for Mouse and Keyboard.",
-            "output": "justanotherteam-bundle.json",
-            "files": [
-                "curators/just-another-team/mnk/season-04.json",
-                "curators/just-another-team/mnk/season-05.json",
-                "curators/just-another-team/mnk/season-06.json",
-                "curators/just-another-team/mnk/season-07.json",
-                "curators/just-another-team/mnk/season-08.json",
-                "curators/just-another-team/mnk/season-09.json",
-                "curators/just-another-team/mnk/season-10.json",
-                "curators/just-another-team/mnk/season-11.json",
-                "curators/just-another-team/mnk/season-12.json",
-                "curators/just-another-team/mnk/season-13.json",
-                "curators/just-another-team/mnk/season-14.json",
-                "curators/just-another-team/mnk/season-15.json",
-                "curators/just-another-team/mnk/season-16.json"
-            ]
         }
     ]
 }
