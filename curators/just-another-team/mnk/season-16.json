@@ -5260,6 +5260,229 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1141547457,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    247725512
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Frontier’s Cry is the only 180 that can reach 140 dueling ranges thanks to Iron Reach, making it unique in that regard. Unfortunately it still suffers from the issues innate to 180s that keep them out of the meta, so I still suggest going for a Kill Clip roll to get a 3 tap cannon in the energy slot if you can only keep a single roll",
+            "hash": 1141547457,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1141547457,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    106909392,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    247725512,
+                    1048183818,
+                    1583705720
+                ],
+                [
+                    4049631843,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Frontier’s Cry is the only 180 that can reach 140 dueling ranges thanks to Iron Reach, making it unique in that regard. Unfortunately it still suffers from the issues innate to 180s that keep them out of the meta, so I still suggest going for a Kill Clip roll to get a 3 tap cannon in the energy slot if you can only keep a single roll",
+            "hash": 1141547457,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553,
+                    1840239774,
+                    4090651448,
+                    202670084
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512,
+                    509074078,
+                    671806388
+                ],
+                [
+                    1015611457,
+                    699525795,
+                    591790007
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Frontier’s Cry is the only 180 that can reach 140 dueling ranges thanks to Iron Reach, making it unique in that regard. Unfortunately it still suffers from the issues innate to 180s that keep them out of the meta, so I still suggest going for a Kill Clip roll to get a 3 tap cannon in the energy slot if you can only keep a single roll",
+            "hash": 1141547457,
+            "name": "",
+            "plugs": [
+                [
+                    247725512
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1141547457,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    1048183818,
+                    1583705720
+                ],
+                [
+                    4049631843,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Frontier’s Cry is the only 180 that can reach 140 dueling ranges thanks to Iron Reach, making it unique in that regard. Unfortunately it still suffers from the issues innate to 180s that keep them out of the meta, so I still suggest going for a Kill Clip roll to get a 3 tap cannon in the energy slot if you can only keep a single roll",
+            "hash": 1141547457,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    509074078,
+                    671806388
+                ],
+                [
+                    1015611457,
+                    699525795,
+                    591790007
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword for PvP, kills anything in one swipe",
+            "hash": 1796949035,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1749209109
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword for PvP, kills anything in one swipe",
+            "hash": 1796949035,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150,
+                    52780822
+                ],
+                [
+                    1749209109,
+                    3108830275,
+                    3592538738
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword for PvP, kills anything in one swipe",
+            "hash": 1796949035,
+            "name": "",
+            "plugs": [
+                [
+                    1749209109,
+                    3108830275,
+                    3592538738
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
