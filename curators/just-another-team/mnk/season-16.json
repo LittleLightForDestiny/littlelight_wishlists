@@ -3767,12 +3767,12 @@
             ]
         },
         {
-            "description": "This handcannon is stacked with good PvP perks, and there very nearly isn’t a bad perk combination on the weapon. The suggested EotS + Opening Shot roll is excellent for 1 on 1 dueling, giving accuracy boosts at practically every part of the gunfight, but it’s not alone at the top. Some other suggested perk combinations; EotS + Rangefinder to duel at 35m, HFG + Opening Shot for closer range primary, Compulsive Reloader + Moving Target to reduce flinch and improve passive aa as much as possible, the possibilities are tremendous.",
+            "description": "This handcannon is stacked with good PvP perks, and there very nearly isn’t a bad perk combination on the weapon. The suggested EotS + Opening Shot roll is excellent for 1 on 1 dueling, giving accuracy boosts at practically every part of the gunfight, but it’s not alone at the top. Some other suggested perk combinations; EotS + Rangefinder to duel at 35m, HFG + Opening Shot for closer range primary, Compulsive Reloader + Moving Target to reduce flinch and improve passive aa as much as possible, the possibilities are tremendous. Cantana has a low recoil direction of 85 (hand canons have a floor of 80) so arrowhead would be a best in slot pick.",
             "hash": 372697604,
             "name": "",
             "plugs": [
                 [
-                    3250034553
+                    839105230
                 ],
                 [
                     3142289711
@@ -3816,13 +3816,13 @@
             ]
         },
         {
-            "description": "This handcannon is stacked with good PvP perks, and there very nearly isn’t a bad perk combination on the weapon. The suggested EotS + Opening Shot roll is excellent for 1 on 1 dueling, giving accuracy boosts at practically every part of the gunfight, but it’s not alone at the top. Some other suggested perk combinations; EotS + Rangefinder to duel at 35m, HFG + Opening Shot for closer range primary, Compulsive Reloader + Moving Target to reduce flinch and improve passive aa as much as possible, the possibilities are tremendous.",
+            "description": "This handcannon is stacked with good PvP perks, and there very nearly isn’t a bad perk combination on the weapon. The suggested EotS + Opening Shot roll is excellent for 1 on 1 dueling, giving accuracy boosts at practically every part of the gunfight, but it’s not alone at the top. Some other suggested perk combinations; EotS + Rangefinder to duel at 35m, HFG + Opening Shot for closer range primary, Compulsive Reloader + Moving Target to reduce flinch and improve passive aa as much as possible, the possibilities are tremendous. Cantana has a low recoil direction of 85 (hand canons have a floor of 80) so arrowhead would be a best in slot pick.",
             "hash": 372697604,
             "name": "",
             "plugs": [
                 [
-                    3250034553,
                     839105230,
+                    3250034553,
                     4090651448,
                     1467527085
                 ],
@@ -3861,28 +3861,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "This handcannon is stacked with good PvP perks, and there very nearly isn’t a bad perk combination on the weapon. The suggested EotS + Opening Shot roll is excellent for 1 on 1 dueling, giving accuracy boosts at practically every part of the gunfight, but it’s not alone at the top. Some other suggested perk combinations; EotS + Rangefinder to duel at 35m, HFG + Opening Shot for closer range primary, Compulsive Reloader + Moving Target to reduce flinch and improve passive aa as much as possible, the possibilities are tremendous.",
-            "hash": 372697604,
-            "name": "",
-            "plugs": [
-                [
-                    699525795,
-                    247725512,
-                    671806388,
-                    1866048759,
-                    1570042021
-                ],
-                [
-                    47981717,
-                    588594999,
-                    2846385770
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -5803,6 +5781,28 @@
             ],
             "tags": [
                 "GodPVP"
+            ]
+        },
+        {
+            "description": "This handcannon is stacked with good PvP perks, and there very nearly isn’t a bad perk combination on the weapon. The suggested EotS + Opening Shot roll is excellent for 1 on 1 dueling, giving accuracy boosts at practically every part of the gunfight, but it’s not alone at the top. Some other suggested perk combinations; EotS + Rangefinder to duel at 35m, HFG + Opening Shot for closer range primary, Compulsive Reloader + Moving Target to reduce flinch and improve passive aa as much as possible, the possibilities are tremendous. Cantana has a low recoil direction of 85 (hand canons have a floor of 80) so arrowhead would be a best in slot pick.",
+            "hash": 372697604,
+            "name": "",
+            "plugs": [
+                [
+                    699525795,
+                    247725512,
+                    671806388,
+                    1866048759,
+                    1570042021
+                ],
+                [
+                    47981717,
+                    588594999,
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]
