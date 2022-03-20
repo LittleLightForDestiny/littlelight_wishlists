@@ -1,0 +1,42 @@
+{
+    "name": "Pandapaxxy (legacy)",
+    "description": "Pandapaxxy's (/u/pandapaxxy) legacy roll recommendations. This wishlist is present just for archive reasons as these rolls are related to an old sandbox.",
+    "bundles": [
+        {
+            "hidden":true,
+            "name": "Pandapaxxy's legacy controller rolls",
+            "description": "Pandapaxxy's recommendations for all weapons through seasons 4-13. Recommended for Controller.",
+            "output": "pandapaxxy-legacy-controller.json",
+            "files": [
+                "curators/pandapaxxy-legacy/controller/season-4.json",
+                "curators/pandapaxxy-legacy/controller/season-5.json",
+                "curators/pandapaxxy-legacy/controller/season-6.json",
+                "curators/pandapaxxy-legacy/controller/season-7.json",
+                "curators/pandapaxxy-legacy/controller/season-8.json",
+                "curators/pandapaxxy-legacy/controller/season-9.json",
+                "curators/pandapaxxy-legacy/controller/season-10.json",
+                "curators/pandapaxxy-legacy/controller/season-11.json",
+                "curators/pandapaxxy-legacy/controller/season-12.json",
+                "curators/pandapaxxy-legacy/controller/season-13.json"
+            ]
+        },
+        {
+            "hidden":true,
+            "name": "Pandapaxxy's legacy MnK rolls",
+            "description": "Pandapaxxy's recommendations for all weapons through seasons 4-13. Recommended for Mouse and Keyboard.",
+            "output": "pandapaxxy-legacy-mnk.json",
+            "files": [
+                "curators/pandapaxxy-legacy/mnk/season-4.json",
+                "curators/pandapaxxy-legacy/mnk/season-5.json",
+                "curators/pandapaxxy-legacy/mnk/season-6.json",
+                "curators/pandapaxxy-legacy/mnk/season-7.json",
+                "curators/pandapaxxy-legacy/mnk/season-8.json",
+                "curators/pandapaxxy-legacy/mnk/season-9.json",
+                "curators/pandapaxxy-legacy/mnk/season-10.json",
+                "curators/pandapaxxy-legacy/mnk/season-11.json",
+                "curators/pandapaxxy-legacy/mnk/season-12.json",
+                "curators/pandapaxxy-legacy/mnk/season-13.json"
+            ]
+        }
+    ]
+}
