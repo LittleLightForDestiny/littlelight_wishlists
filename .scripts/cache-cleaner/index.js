@@ -12,7 +12,7 @@ async function cleanDir(path){
     const dirs = all.filter((f)=>f.isDirectory()).map((f)=>f.name);
     
     for (let file of files) {
-        await clean(`https://purge.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/${path}/${file}`);
+        await clean(`https://purge.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists@HEAD/${path}/${file}`);
     }
 
     for(let dir of dirs){
