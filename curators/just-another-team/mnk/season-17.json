@@ -3745,6 +3745,226 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    732557052
+                ],
+                [
+                    3442762221,
+                    1556840489,
+                    3431277734,
+                    1048183818
+                ],
+                [
+                    2896748467,
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2749775325
+                ],
+                [
+                    2748258257,
+                    1570042021
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2749775325
+                ],
+                [
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    732557052,
+                    2749775325,
+                    2680121939
+                ],
+                [
+                    3442762221,
+                    1556840489,
+                    3431277734,
+                    1048183818,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738,
+                    2541826827,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1482024992,
+                    1392496348,
+                    3250034553
+                ],
+                [
+                    2749775325,
+                    2969185026,
+                    3868766766
+                ],
+                [
+                    2748258257,
+                    1570042021,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    3442762221,
+                    1556840489,
+                    3431277734,
+                    1048183818,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738,
+                    2541826827,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    2748258257,
+                    1570042021,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
