@@ -3745,6 +3745,1210 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    732557052
+                ],
+                [
+                    3442762221,
+                    1556840489,
+                    3431277734,
+                    1048183818
+                ],
+                [
+                    2896748467,
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2749775325
+                ],
+                [
+                    2748258257,
+                    1570042021
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2749775325
+                ],
+                [
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    732557052,
+                    2749775325,
+                    2680121939
+                ],
+                [
+                    3442762221,
+                    1556840489,
+                    3431277734,
+                    1048183818,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738,
+                    2541826827,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1482024992,
+                    1392496348,
+                    3250034553
+                ],
+                [
+                    2749775325,
+                    2969185026,
+                    3868766766
+                ],
+                [
+                    2748258257,
+                    1570042021,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    3442762221,
+                    1556840489,
+                    3431277734,
+                    1048183818,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738,
+                    2541826827,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "(Currently Killing Tally does not increase damage in PvP, if this is fixed then expect Killing Tally to be the best perk in PvP)",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    2748258257,
+                    1570042021,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    2896748467,
+                    557221067,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "hash": 2026087437,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "hash": 2026087437,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "hash": 2026087437,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228,
+                    2010801679
+                ],
+                [
+                    2978966579,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "hash": 2026087437,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    3032599245,
+                    3301904089
+                ],
+                [
+                    3300816228,
+                    2010801679
+                ],
+                [
+                    2978966579,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "hash": 2026087437,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228,
+                    2010801679
+                ],
+                [
+                    2978966579,
+                    3523296417,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "hash": 2026087437,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228,
+                    2010801679
+                ],
+                [
+                    2978966579,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "hash": 2026087437,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228,
+                    2010801679
+                ],
+                [
+                    2978966579,
+                    3523296417,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2263839058,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1687452232
+                ],
+                [
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2541826827,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "A rare PvP fusion that rolls with Rangefinder, putting it as the Adaptive version of Loaded Question for its deeper ohk kills than others of its archetypes. Liquid Coils is an option for ohk at 5 bolts on all resiliences",
+            "hash": 2263839058,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3868766766
+                ],
+                [
+                    4116820839,
+                    957782887
+                ],
+                [
+                    509594246,
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2263839058,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    1687452232,
+                    2680121939,
+                    689005463
+                ],
+                [
+                    2658083589,
+                    3436462433,
+                    2139363611,
+                    744594675
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A rare PvP fusion that rolls with Rangefinder, putting it as the Adaptive version of Loaded Question for its deeper ohk kills than others of its archetypes. Liquid Coils is an option for ohk at 5 bolts on all resiliences",
+            "hash": 2263839058,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    3868766766,
+                    1687452232,
+                    2969185026
+                ],
+                [
+                    4116820839,
+                    957782887,
+                    2658083589,
+                    3436462433,
+                    1961144892,
+                    706527188
+                ],
+                [
+                    509594246,
+                    2846385770,
+                    2717805783,
+                    588594999
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2263839058,
+            "name": "",
+            "plugs": [
+                [
+                    2658083589,
+                    3436462433,
+                    2139363611,
+                    744594675
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A rare PvP fusion that rolls with Rangefinder, putting it as the Adaptive version of Loaded Question for its deeper ohk kills than others of its archetypes. Liquid Coils is an option for ohk at 5 bolts on all resiliences",
+            "hash": 2263839058,
+            "name": "",
+            "plugs": [
+                [
+                    4116820839,
+                    957782887,
+                    2658083589,
+                    3436462433,
+                    1961144892,
+                    706527188
+                ],
+                [
+                    509594246,
+                    2846385770,
+                    2717805783,
+                    588594999
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Another Void 750, but this one blow’s The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability that much more with relatively consistent 45hp Void Overshields",
+            "hash": 3000847393,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3000847393,
+            "name": "",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2946784966
+                ],
+                [
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Another Void 750, but this one blow’s The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability that much more with relatively consistent 45hp Void Overshields",
+            "hash": 3000847393,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3230963543,
+                    1561002382,
+                    1087426260,
+                    679225683
+                ],
+                [
+                    3523296417,
+                    2779035018
+                ],
+                [
+                    4104185692,
+                    3425386926,
+                    2610012052,
+                    11612903,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3000847393,
+            "name": "",
+            "plugs": [
+                [
+                    202670084,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    2946784966,
+                    509074078
+                ],
+                [
+                    3425386926,
+                    2610012052,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Another Void 750, but this one blow’s The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability that much more with relatively consistent 45hp Void Overshields",
+            "hash": 3000847393,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417,
+                    2779035018
+                ],
+                [
+                    4104185692,
+                    3425386926,
+                    2610012052,
+                    11612903,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3000847393,
+            "name": "",
+            "plugs": [
+                [
+                    2946784966,
+                    509074078
+                ],
+                [
+                    3425386926,
+                    2610012052,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The new dps sensation for Season 16, with Frenzy for solo play and Firing Line for team play. Get yourself one of these and marvel as it outstrips every other damage method in the game.",
+            "hash": 3652506829,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    247725512
+                ],
+                [
+                    4104185692,
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3652506829,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    2969185026
+                ],
+                [
+                    2209918983
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "The new dps sensation for Season 16, with Frenzy for solo play and Firing Line for team play. Get yourself one of these and marvel as it outstrips every other damage method in the game.",
+            "hash": 3652506829,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    2680121939,
+                    689005463,
+                    1687452232
+                ],
+                [
+                    247725512,
+                    3300816228,
+                    2284787283
+                ],
+                [
+                    4104185692,
+                    1771339417,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3652506829,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553,
+                    1840239774,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    2969185026,
+                    689005463
+                ],
+                [
+                    2209918983
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The new dps sensation for Season 16, with Frenzy for solo play and Firing Line for team play. Get yourself one of these and marvel as it outstrips every other damage method in the game.",
+            "hash": 3652506829,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    3300816228,
+                    2284787283
+                ],
+                [
+                    4104185692,
+                    1771339417,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3652506829,
+            "name": "",
+            "plugs": [
+                [
+                    2209918983
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1780464822,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    1048183818
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Can’t get a Desperado Messenger or prefer the stat boost that perpetual motion provides over Rapid Hit? Get yourself a New Purpose. Even with the Desperado Nerf coming into S16, it’s still an extremely powerful perk and places this pulse in the upper echelons of PvP pulses",
+            "hash": 1780464822,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    3047969693
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1780464822,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    3047969693,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1780464822,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    3230963543,
+                    1561002382,
+                    1087426260,
+                    679225683
+                ],
+                [
+                    1428297954,
+                    744594675,
+                    2779035018
+                ],
+                [
+                    1048183818,
+                    3047969693,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Can’t get a Desperado Messenger or prefer the stat boost that perpetual motion provides over Rapid Hit? Get yourself a New Purpose. Even with the Desperado Nerf coming into S16, it’s still an extremely powerful perk and places this pulse in the upper echelons of PvP pulses",
+            "hash": 1780464822,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    1428297954,
+                    2946784966,
+                    1570042021
+                ],
+                [
+                    3047969693,
+                    124408337,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1780464822,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954
+                ],
+                [
+                    3047969693,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1780464822,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954,
+                    744594675,
+                    2779035018
+                ],
+                [
+                    1048183818,
+                    3047969693,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Can’t get a Desperado Messenger or prefer the stat boost that perpetual motion provides over Rapid Hit? Get yourself a New Purpose. Even with the Desperado Nerf coming into S16, it’s still an extremely powerful perk and places this pulse in the upper echelons of PvP pulses",
+            "hash": 1780464822,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954,
+                    2946784966,
+                    1570042021
+                ],
+                [
+                    3047969693,
+                    124408337,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a certain Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
+            "hash": 2194955522,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675184851,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2194955522,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3755250867,
+                    1645158859
+                ],
+                [
+                    288411554,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a certain Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
+            "hash": 2194955522,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    106909392,
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    2308090567,
+                    2869569095,
+                    1171147302,
+                    2779035018
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675184851,
+                    4293542123,
+                    395388285,
+                    1771339417,
+                    288411554,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2194955522,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3755250867,
+                    1645158859,
+                    2308090567,
+                    2869569095,
+                    3974407819,
+                    2866798147
+                ],
+                [
+                    288411554,
+                    3425386926,
+                    2675184851,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a certain Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
+            "hash": 2194955522,
+            "name": "",
+            "plugs": [
+                [
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    288411554,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a certain Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
+            "hash": 2194955522,
+            "name": "",
+            "plugs": [
+                [
+                    2308090567,
+                    2869569095,
+                    1171147302,
+                    2779035018
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2675184851,
+                    4293542123,
+                    395388285,
+                    1771339417,
+                    288411554,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2194955522,
+            "name": "",
+            "plugs": [
+                [
+                    3755250867,
+                    1645158859,
+                    2308090567,
+                    2869569095,
+                    3974407819,
+                    2866798147
+                ],
+                [
+                    288411554,
+                    3425386926,
+                    2675184851,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
