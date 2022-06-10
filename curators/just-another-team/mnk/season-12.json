@@ -1,6 +1,6 @@
 {
-    "name": "Just Another Team's MnK rolls - Season 12",
     "description": "Just Another Team's recommendations for Season 12. Recommended for Mouse and Keyboard.",
+    "name": "Just Another Team's MnK rolls - Season 12",
     "data": [
         {
             "description": "",
@@ -2914,119 +2914,6 @@
             ]
         },
         {
-            "description": "",
-            "hash": 3514144928,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    1087426260
-                ],
-                [
-                    3643424744
-                ],
-                [
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3514144928,
-            "name": "",
-            "plugs": [
-                [
-                    839105230
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    588594999
-                ],
-                [
-                    2846385770
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3514144928,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    3250034553,
-                    4090651448
-                ],
-                [
-                    1087426260,
-                    1561002382
-                ],
-                [
-                    3643424744
-                ],
-                [
-                    3425386926,
-                    2848615171
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3514144928,
-            "name": "",
-            "plugs": [
-                [
-                    839105230,
-                    3250034553
-                ],
-                [
-                    1885400500,
-                    1561002382
-                ],
-                [
-                    588594999,
-                    1359896290
-                ],
-                [
-                    2846385770,
-                    3511092054
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3514144928,
-            "name": "",
-            "plugs": [
-                [
-                    3643424744
-                ],
-                [
-                    3425386926,
-                    2848615171
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "Worthy Variant",
             "hash": 276080079,
             "name": "",
@@ -3141,7 +3028,7 @@
                     1687452232
                 ],
                 [
-                    1820235745
+                    3161816588
                 ],
                 [
                     1427256713
@@ -3189,8 +3076,8 @@
                     2680121939
                 ],
                 [
+                    3161816588,
                     1820235745,
-                    3436462433,
                     4071163871
                 ],
                 [
@@ -3227,25 +3114,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
-            "hash": 1030895163,
-            "name": "",
-            "plugs": [
-                [
-                    1820235745,
-                    3436462433,
-                    4071163871
-                ],
-                [
-                    1427256713,
-                    3523296417
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -4481,24 +4349,6 @@
             ]
         },
         {
-            "description": "",
-            "hash": 3514144928,
-            "name": "",
-            "plugs": [
-                [
-                    588594999,
-                    1359896290
-                ],
-                [
-                    2846385770,
-                    3511092054
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 3565520715,
             "name": "",
@@ -4927,6 +4777,353 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
+            "hash": 1030895163,
+            "name": "",
+            "plugs": [
+                [
+                    3161816588,
+                    1820235745,
+                    4071163871
+                ],
+                [
+                    1427256713,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    1428297954,
+                    671806388
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    588594999
+                ],
+                [
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500,
+                    1968497646
+                ],
+                [
+                    2846385770,
+                    1428297954,
+                    671806388,
+                    588594999,
+                    1359896290,
+                    1570042021
+                ],
+                [
+                    3511092054,
+                    2458213969,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    1561002382,
+                    3230963543
+                ],
+                [
+                    1428297954,
+                    671806388,
+                    3643424744
+                ],
+                [
+                    2458213969,
+                    3425386926,
+                    2896038713,
+                    3592538738,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    1561002382
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    3425386926,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    588594999,
+                    1359896290
+                ],
+                [
+                    2846385770,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954,
+                    671806388
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770,
+                    1428297954,
+                    671806388,
+                    588594999,
+                    1359896290,
+                    1570042021
+                ],
+                [
+                    3511092054,
+                    2458213969,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954,
+                    671806388,
+                    3643424744
+                ],
+                [
+                    2458213969,
+                    3425386926,
+                    2896038713,
+                    3592538738,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    3643424744
+                ],
+                [
+                    3425386926,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 3514144928,
+            "name": "",
+            "plugs": [
+                [
+                    588594999,
+                    1359896290
+                ],
+                [
+                    2846385770,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]

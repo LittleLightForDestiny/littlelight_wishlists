@@ -720,7 +720,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 1972985595,
             "name": "",
             "plugs": [
@@ -742,7 +742,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 1972985595,
             "name": "",
             "plugs": [
@@ -764,7 +764,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
             "hash": 1972985595,
             "name": "",
             "plugs": [
@@ -788,7 +788,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
             "hash": 1972985595,
             "name": "",
             "plugs": [
@@ -801,40 +801,6 @@
                 [
                     409831596
                 ],
-                [
-                    4071163871
-                ],
-                [
-                    706527188,
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1972985595,
-            "name": "",
-            "plugs": [
-                [
-                    3300816228,
-                    2869569095
-                ],
-                [
-                    2010801679
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1972985595,
-            "name": "",
-            "plugs": [
                 [
                     4071163871
                 ],
@@ -3539,6 +3505,40 @@
             "tags": [
                 "GodPVP",
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
+            "hash": 1972985595,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228,
+                    2869569095
+                ],
+                [
+                    2010801679
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
+            "hash": 1972985595,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871
+                ],
+                [
+                    706527188,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]

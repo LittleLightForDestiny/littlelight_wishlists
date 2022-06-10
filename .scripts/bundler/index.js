@@ -67,7 +67,6 @@ function createWishlist(name, description) {
 async function buildCuratorBundles(curator) {
     for (let bundle of curator.bundles) {
         const wishlist = await buildBundle(bundle, curator);
-        await saveJSONData(bundle.output, wishlist);
         if (!bundle.hidden) {
             await saveJSONData(`deliverables/bundles/${bundle.output}`, wishlist);
         }
