@@ -3,8 +3,8 @@
     "description": "Big Bird's recommendations for Mouse and Keyboard.",
     "bundles": [
         {
-            "name": "Big Bird's MnK rolls",
-            "description": "Big Bird's recommendations for weapons through seasons 4-15. Recommended for Mouse and Keyboard.",
+            "name": "Big Bird's rolls (Mouse/Keyboard)",
+            "description": "Big Bird's recommendations for weapons through seasons 4-17. Recommended for Mouse and Keyboard.",
             "output": "big-bird-mnk.json",
             "files": [
                 "curators/big-bird/mnk/season-04.json",
@@ -18,7 +18,9 @@
                 "curators/big-bird/mnk/season-12.json",
                 "curators/big-bird/mnk/season-13.json",
                 "curators/big-bird/mnk/season-14.json",
-                "curators/big-bird/mnk/season-15.json"
+                "curators/big-bird/mnk/season-15.json",
+                "curators/big-bird/mnk/season-16.json",
+                "curators/big-bird/mnk/season-17.json"
             ]
         }
     ]
