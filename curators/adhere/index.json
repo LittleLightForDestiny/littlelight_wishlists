@@ -4,14 +4,15 @@
     "bundles":[
         {
             "name":"Avowed Clan recommended perk rolls",
-            "description": "Avowed Clan perk roll recommendations. Includes seasons 10 to 16.",
+            "description": "Avowed Clan perk roll recommendations. Includes seasons 10 to 17.",
             "output":"adhere-controller.json",
             "files":[
                 "curators/adhere/controller/season-10.json",
                 "curators/adhere/controller/season-12.json",
                 "curators/adhere/controller/season-14.json",
                 "curators/adhere/controller/season-15.json",
-                "curators/adhere/controller/season-16.json"
+                "curators/adhere/controller/season-16.json",
+                "curators/adhere/controller/season-17.json"
             ]
         }
     ]
