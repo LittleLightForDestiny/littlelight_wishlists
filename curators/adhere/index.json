@@ -5,6 +5,7 @@
         {
             "name":"Avowed Clan recommended perk rolls",
             "description": "Avowed Clan perk roll recommendations. Includes seasons 10 to 17.",
+
             "output":"adhere-controller.json",
             "files":[
                 "curators/adhere/controller/season-10.json",

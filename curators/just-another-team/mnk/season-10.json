@@ -1,6 +1,6 @@
 {
-    "name": "Just Another Team's MnK rolls - Season 10",
     "description": "Just Another Team's recommendations for Season 10. Recommended for Mouse and Keyboard.",
+    "name": "Just Another Team's MnK rolls - Season 10",
     "data": [
         {
             "description": "",
@@ -217,119 +217,6 @@
             ],
             "tags": [
                 "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1907698332,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    1087426260
-                ],
-                [
-                    3643424744
-                ],
-                [
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1907698332,
-            "name": "",
-            "plugs": [
-                [
-                    839105230
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    588594999
-                ],
-                [
-                    2846385770
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1907698332,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    3250034553,
-                    4090651448
-                ],
-                [
-                    1087426260,
-                    1561002382
-                ],
-                [
-                    3643424744
-                ],
-                [
-                    3425386926,
-                    2848615171
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1907698332,
-            "name": "",
-            "plugs": [
-                [
-                    839105230,
-                    3250034553
-                ],
-                [
-                    1885400500,
-                    1561002382
-                ],
-                [
-                    588594999,
-                    1359896290
-                ],
-                [
-                    2846385770,
-                    3511092054
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1907698332,
-            "name": "",
-            "plugs": [
-                [
-                    3643424744
-                ],
-                [
-                    3425386926,
-                    2848615171
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -2956,24 +2843,6 @@
         },
         {
             "description": "",
-            "hash": 1907698332,
-            "name": "",
-            "plugs": [
-                [
-                    588594999,
-                    1359896290
-                ],
-                [
-                    2846385770,
-                    3511092054
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
             "hash": 2582755344,
             "name": "",
             "plugs": [
@@ -3298,7 +3167,7 @@
             ]
         },
         {
-            "description": "Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc), terrible in every way for PvP.",
+            "description": "Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc)",
             "hash": 3434944005,
             "name": "",
             "plugs": [
@@ -3320,7 +3189,7 @@
             ]
         },
         {
-            "description": "Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc), terrible in every way for PvP.",
+            "description": "Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc)",
             "hash": 3434944005,
             "name": "",
             "plugs": [
@@ -3331,7 +3200,7 @@
                     1500996326
                 ],
                 [
-                    2866798147
+                    201365942
                 ],
                 [
                     699525795
@@ -3429,6 +3298,316 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    1428297954,
+                    671806388
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    588594999
+                ],
+                [
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    1561002382,
+                    3230963543
+                ],
+                [
+                    1428297954,
+                    671806388,
+                    3643424744
+                ],
+                [
+                    2458213969,
+                    3425386926,
+                    2896038713,
+                    3592538738,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500,
+                    1968497646
+                ],
+                [
+                    2846385770,
+                    1428297954,
+                    671806388,
+                    588594999,
+                    1359896290,
+                    1570042021
+                ],
+                [
+                    3511092054,
+                    2458213969,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    1561002382
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    3425386926,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    588594999,
+                    1359896290
+                ],
+                [
+                    2846385770,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954,
+                    671806388,
+                    3643424744
+                ],
+                [
+                    2458213969,
+                    3425386926,
+                    2896038713,
+                    3592538738,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Lost Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770,
+                    1428297954,
+                    671806388,
+                    588594999,
+                    1359896290,
+                    1570042021
+                ],
+                [
+                    3511092054,
+                    2458213969,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    3643424744
+                ],
+                [
+                    3425386926,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hunt Variant",
+            "hash": 1907698332,
+            "name": "",
+            "plugs": [
+                [
+                    588594999,
+                    1359896290
+                ],
+                [
+                    2846385770,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]
