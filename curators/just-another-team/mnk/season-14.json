@@ -1,6 +1,6 @@
 {
-    "name": "Just Another Team's MnK rolls - Season 14",
     "description": "Just Another Team's recommendations for Season 14. Recommended for Mouse and Keyboard.",
+    "name": "Just Another Team's MnK rolls - Season 14",
     "data": [
         {
             "description": "",
@@ -6017,6 +6017,137 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "A mediocre PvE archetype with solid enough perks.",
+            "hash": 2591111628,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "A solid Precision shotgun for PvP, which is unfortunately overshadowed by the strength of the Matador. Run Smallbore and Accurized with a Range mw to maximize the range without dropping Handling. Unfortunately Precisions are struggling in the high resilience meta we find ourselves in, needing an extra pellet to kill on 6 resilience and higher.",
+            "hash": 2591111628,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    706527188
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "A mediocre PvE archetype with solid enough perks.",
+            "hash": 2591111628,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    1546637391,
+                    4293542123,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A solid Precision shotgun for PvP, which is unfortunately overshadowed by the strength of the Matador. Run Smallbore and Accurized with a Range mw to maximize the range without dropping Handling. Unfortunately Precisions are struggling in the high resilience meta we find ourselves in, needing an extra pellet to kill on 6 resilience and higher.",
+            "hash": 2591111628,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    1332244541
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    706527188,
+                    3436462433
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A mediocre PvE archetype with solid enough perks.",
+            "hash": 2591111628,
+            "name": "",
+            "plugs": [
+                [
+                    1556840489
+                ],
+                [
+                    1546637391,
+                    4293542123,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A solid Precision shotgun for PvP, which is unfortunately overshadowed by the strength of the Matador. Run Smallbore and Accurized with a Range mw to maximize the range without dropping Handling. Unfortunately Precisions are struggling in the high resilience meta we find ourselves in, needing an extra pellet to kill on 6 resilience and higher.",
+            "hash": 2591111628,
+            "name": "",
+            "plugs": [
+                [
+                    706527188,
+                    3436462433
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]

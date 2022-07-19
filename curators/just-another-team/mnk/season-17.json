@@ -5111,6 +5111,347 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    791862061
+                ],
+                [
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    788178929,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    1332244541
+                ],
+                [
+                    791862061
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    1609056795,
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    1047830412,
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    788178929,
+                    2679249093,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    1332244541,
+                    1047830412,
+                    1300023272
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    1609056795,
+                    2451262963,
+                    788178929,
+                    2679249093,
+                    711234314,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    788178929,
+                    2679249093,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    1609056795,
+                    2451262963,
+                    788178929,
+                    2679249093,
+                    711234314,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3592538738
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3592538738
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype. MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    3592538738
+                ],
+                [
+                    3523296417,
+                    124408337,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3230963543,
+                    1561002382,
+                    1087426260,
+                    679225683
+                ],
+                [
+                    3592538738,
+                    3400784728
+                ],
+                [
+                    3523296417,
+                    124408337,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1392496348,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    3592538738,
+                    2946784966
+                ],
+                [
+                    124408337,
+                    3523296417,
+                    2458213969,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype. MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    3592538738
+                ],
+                [
+                    3523296417,
+                    124408337,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    3592538738,
+                    3400784728
+                ],
+                [
+                    3523296417,
+                    124408337,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    3592538738,
+                    2946784966
+                ],
+                [
+                    124408337,
+                    3523296417,
+                    2458213969,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
