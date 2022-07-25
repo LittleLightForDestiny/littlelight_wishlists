@@ -1,6 +1,6 @@
 {
-    "name": "Just Another Team's MnK rolls - Season 15",
     "description": "Just Another Team's recommendations for Season 15. Recommended for Mouse and Keyboard.",
+    "name": "Just Another Team's MnK rolls - Season 15",
     "data": [
         {
             "description": "",
@@ -5780,126 +5780,6 @@
             ]
         },
         {
-            "description": "",
-            "hash": 2591111628,
-            "name": "",
-            "plugs": [
-                [
-                    1300023272
-                ],
-                [
-                    791862061
-                ],
-                [
-                    2869569095
-                ],
-                [
-                    1546637391,
-                    2360754333
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "Max range stat is key with the 3.2.1 shotgun update. Looking for ~80 range.",
-            "hash": 2591111628,
-            "name": "",
-            "plugs": [
-                [
-                    1047830412
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    706527188
-                ],
-                [
-                    957782887
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2591111628,
-            "name": "",
-            "plugs": [
-                [
-                    1300023272,
-                    1047830412,
-                    4090651448
-                ],
-                [
-                    791862061,
-                    1087426260,
-                    106909392,
-                    679225683
-                ],
-                [
-                    2869569095,
-                    3436462433,
-                    1556840489
-                ],
-                [
-                    1546637391,
-                    2360754333,
-                    4049631843,
-                    3592538738
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Max range stat is key with the 3.2.1 shotgun update. Looking for ~80 range.",
-            "hash": 2591111628,
-            "name": "",
-            "plugs": [
-                [
-                    1047830412
-                ],
-                [
-                    3142289711,
-                    791862061
-                ],
-                [
-                    706527188,
-                    3436462433
-                ],
-                [
-                    957782887,
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "Max range stat is key with the 3.2.1 shotgun update. Looking for ~80 range.",
-            "hash": 2591111628,
-            "name": "",
-            "plugs": [
-                [
-                    706527188,
-                    3436462433
-                ],
-                [
-                    957782887,
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "Grab a Cold Steel roll if that perk interests you, and Duelist’s Trance is a perk that can see some play in improving dps at the cost of not having the ammo economy of Relentless, especially when combo’d with Swordmasters Guard (assuming you get a kill before going at the boss). PvP: It’s a sword in PvP, you don’t care about the roll",
             "hash": 3400256755,
             "name": "",
@@ -5958,27 +5838,6 @@
                 [
                     3913600130,
                     3650930298
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2591111628,
-            "name": "",
-            "plugs": [
-                [
-                    2869569095,
-                    3436462433,
-                    1556840489
-                ],
-                [
-                    1546637391,
-                    2360754333,
-                    4049631843,
-                    3592538738
                 ]
             ],
             "tags": [
