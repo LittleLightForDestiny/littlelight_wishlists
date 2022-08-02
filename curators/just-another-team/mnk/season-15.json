@@ -147,8 +147,6 @@
                     247725512
                 ],
                 [
-                    1015611457,
-                    4049631843,
                     4104185692
                 ]
             ],
@@ -162,7 +160,7 @@
             "name": "",
             "plugs": [
                 [
-                    3250034553
+                    1840239774
                 ],
                 [
                     3142289711
@@ -185,8 +183,8 @@
             "plugs": [
                 [
                     1840239774,
-                    3250034553,
-                    4090651448
+                    4090651448,
+                    839105230
                 ],
                 [
                     106909392,
@@ -197,13 +195,14 @@
                     247725512,
                     3436462433,
                     1168162263,
-                    1354429876
+                    1354429876,
+                    3700496672
                 ],
                 [
-                    1015611457,
-                    4049631843,
                     4104185692,
+                    1015611457,
                     2458213969,
+                    4049631843,
                     3425386926
                 ]
             ],
@@ -217,9 +216,10 @@
             "name": "",
             "plugs": [
                 [
-                    3250034553,
                     1840239774,
-                    4090651448
+                    4090651448,
+                    3250034553,
+                    1482024992
                 ],
                 [
                     3142289711
@@ -237,25 +237,6 @@
                 ]
             ],
             "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1107446438,
-            "name": "",
-            "plugs": [
-                [
-                    247725512,
-                    3436462433
-                ],
-                [
-                    1015611457,
-                    2458213969
-                ]
-            ],
-            "tags": [
-                "PVE",
                 "PVP"
             ]
         },
@@ -1252,7 +1233,7 @@
             "name": "",
             "plugs": [
                 [
-                    1047830412
+                    1482024992
                 ],
                 [
                     3142289711
@@ -1275,7 +1256,6 @@
             "plugs": [
                 [
                     1300023272,
-                    1047830412,
                     4090651448
                 ],
                 [
@@ -1301,7 +1281,8 @@
             "name": "",
             "plugs": [
                 [
-                    1047830412
+                    1482024992,
+                    4090651448
                 ],
                 [
                     3142289711,
@@ -1335,7 +1316,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "The best rocket in the game right now. Adaptive frames do the most damage of all rocket frames, and Hothead gets both Adept mods and the best perks in the game. FP + CC for a pairing with Gjally, or ALH + Explosive Light/Vorpal/Lasting for an excellent hotswap rocket",
             "hash": 4255171531,
             "name": "",
             "plugs": [
@@ -1346,143 +1327,14 @@
                     3796465595
                 ],
                 [
-                    3523296417,
                     2869569095
                 ],
                 [
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "For super fast rockets.",
-            "hash": 4255171531,
-            "name": "",
-            "plugs": [
-                [
-                    3525010810
-                ],
-                [
-                    2822142346
-                ],
-                [
-                    3523296417
-                ],
-                [
-                    2726471870
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 4255171531,
-            "name": "",
-            "plugs": [
-                [
-                    3525010810,
-                    981914802
-                ],
-                [
-                    3796465595,
-                    2985827016
-                ],
-                [
-                    3523296417,
-                    2869569095
-                ],
-                [
-                    1546637391,
-                    3194351027,
                     2284787283
                 ]
             ],
             "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "For super fast rockets.",
-            "hash": 4255171531,
-            "name": "",
-            "plugs": [
-                [
-                    3525010810,
-                    981914802
-                ],
-                [
-                    2822142346
-                ],
-                [
-                    3523296417,
-                    706527188
-                ],
-                [
-                    2726471870
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "For tracking rockets.",
-            "hash": 4255171531,
-            "name": "",
-            "plugs": [
-                [
-                    1844523823
-                ],
-                [
-                    1996142143
-                ],
-                [
-                    3977735242
-                ],
-                [
-                    2726471870
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "For fast rockets.",
-            "hash": 4255171531,
-            "name": "",
-            "plugs": [
-                [
-                    3523296417,
-                    706527188
-                ],
-                [
-                    2726471870
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "For tracking rockets.",
-            "hash": 4255171531,
-            "name": "",
-            "plugs": [
-                [
-                    3977735242
-                ],
-                [
-                    2726471870
-                ]
-            ],
-            "tags": [
-                "PVP"
+                "GodPVE"
             ]
         },
         {
@@ -1513,7 +1365,7 @@
             "name": "",
             "plugs": [
                 [
-                    1047830412
+                    1482024992
                 ],
                 [
                     3142289711
@@ -1536,7 +1388,6 @@
             "plugs": [
                 [
                     1300023272,
-                    1047830412,
                     4090651448
                 ],
                 [
@@ -1562,11 +1413,12 @@
             "name": "",
             "plugs": [
                 [
-                    1047830412
+                    1482024992,
+                    4090651448
                 ],
                 [
-                    791862061,
-                    3142289711
+                    3142289711,
+                    791862061
                 ],
                 [
                     1866048759
@@ -1606,124 +1458,6 @@
                 ],
                 [
                     1546637391
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1866778462,
-            "name": "",
-            "plugs": [
-                [
-                    3525010810
-                ],
-                [
-                    3796465595
-                ],
-                [
-                    3523296417,
-                    2869569095
-                ],
-                [
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "For super fast rockets.",
-            "hash": 1866778462,
-            "name": "",
-            "plugs": [
-                [
-                    3525010810
-                ],
-                [
-                    2822142346
-                ],
-                [
-                    3523296417
-                ],
-                [
-                    2726471870
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1866778462,
-            "name": "",
-            "plugs": [
-                [
-                    3525010810,
-                    981914802
-                ],
-                [
-                    3796465595,
-                    2985827016
-                ],
-                [
-                    3523296417,
-                    2869569095
-                ],
-                [
-                    1546637391,
-                    3194351027,
-                    2284787283
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "For super fast rockets.",
-            "hash": 1866778462,
-            "name": "",
-            "plugs": [
-                [
-                    3525010810,
-                    981914802
-                ],
-                [
-                    2822142346
-                ],
-                [
-                    3523296417,
-                    706527188
-                ],
-                [
-                    2726471870
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "For tracking rockets.",
-            "hash": 1866778462,
-            "name": "",
-            "plugs": [
-                [
-                    1844523823
-                ],
-                [
-                    1996142143
-                ],
-                [
-                    3977735242
-                ],
-                [
-                    2726471870
                 ]
             ],
             "tags": [
@@ -2478,11 +2212,9 @@
                     1840239774
                 ],
                 [
-                    1087426260
+                    3230963543
                 ],
                 [
-                    3643424744,
-                    1820235745,
                     4071163871
                 ],
                 [
@@ -2499,7 +2231,7 @@
             "name": "",
             "plugs": [
                 [
-                    3250034553
+                    839105230
                 ],
                 [
                     1885400500
@@ -2522,20 +2254,20 @@
             "plugs": [
                 [
                     1840239774,
-                    3250034553,
+                    839105230,
                     4090651448
                 ],
                 [
-                    1087426260,
                     3230963543,
-                    679225683,
-                    1561002382
+                    1561002382,
+                    1087426260,
+                    679225683
                 ],
                 [
-                    3643424744,
-                    1820235745,
                     4071163871,
-                    1631667848
+                    1631667848,
+                    3643424744,
+                    1820235745
                 ],
                 [
                     4104185692,
@@ -2552,9 +2284,11 @@
             "name": "",
             "plugs": [
                 [
-                    3250034553,
+                    839105230,
                     1840239774,
-                    4090651448
+                    4090651448,
+                    3250034553,
+                    1482024992
                 ],
                 [
                     1885400500,
@@ -4760,46 +4494,6 @@
         },
         {
             "description": "",
-            "hash": 378498222,
-            "name": "",
-            "plugs": [
-                [
-                    3643424744,
-                    1820235745,
-                    4071163871,
-                    1631667848
-                ],
-                [
-                    4104185692,
-                    1015611457
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 378498222,
-            "name": "",
-            "plugs": [
-                [
-                    2846385770,
-                    588594999,
-                    2450788523,
-                    3436462433
-                ],
-                [
-                    1015611457,
-                    4082225868
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
             "hash": 507038823,
             "name": "",
             "plugs": [
@@ -5013,27 +4707,6 @@
         },
         {
             "description": "",
-            "hash": 1107446438,
-            "name": "",
-            "plugs": [
-                [
-                    247725512,
-                    3436462433,
-                    1570042021,
-                    2946784966,
-                    2450788523
-                ],
-                [
-                    1015611457,
-                    2458213969
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
             "hash": 1337707096,
             "name": "",
             "plugs": [
@@ -5155,29 +4828,6 @@
         },
         {
             "description": "",
-            "hash": 1107446438,
-            "name": "",
-            "plugs": [
-                [
-                    247725512,
-                    3436462433,
-                    1168162263,
-                    1354429876
-                ],
-                [
-                    1015611457,
-                    4049631843,
-                    4104185692,
-                    2458213969,
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
             "hash": 1622998472,
             "name": "",
             "plugs": [
@@ -5231,58 +4881,6 @@
                 [
                     2846385770,
                     1015611457
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1866778462,
-            "name": "",
-            "plugs": [
-                [
-                    3523296417,
-                    2869569095
-                ],
-                [
-                    1546637391,
-                    3194351027,
-                    2284787283
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "For super fast rockets.",
-            "hash": 1866778462,
-            "name": "",
-            "plugs": [
-                [
-                    3523296417,
-                    706527188
-                ],
-                [
-                    2726471870
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "For tracking rockets.",
-            "hash": 1866778462,
-            "name": "",
-            "plugs": [
-                [
-                    3977735242
-                ],
-                [
-                    2726471870
                 ]
             ],
             "tags": [
@@ -5717,25 +5315,6 @@
             ]
         },
         {
-            "description": "",
-            "hash": 4255171531,
-            "name": "",
-            "plugs": [
-                [
-                    3523296417,
-                    2869569095
-                ],
-                [
-                    1546637391,
-                    3194351027,
-                    2284787283
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "For PvE, the damage boost of Explosive Light and reload boost of Impulse Amplifier make Ascendancy a good pick, only beaten by rng near-perfect rolled Rockets. PvP uses the speed increase of Impulse Amplifier to give your opponents less time to react and Chain to add in a bit more delayed splash damage to potentially get another kill.",
             "hash": 725408022,
             "name": "",
@@ -5842,6 +5421,406 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1107446438,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    3436462433
+                ],
+                [
+                    1015611457,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1107446438,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    3436462433,
+                    1168162263,
+                    1354429876,
+                    3700496672
+                ],
+                [
+                    4104185692,
+                    1015611457,
+                    2458213969,
+                    4049631843,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1107446438,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    3436462433,
+                    1570042021,
+                    2946784966,
+                    2450788523
+                ],
+                [
+                    1015611457,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 378498222,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871,
+                    1631667848,
+                    3643424744,
+                    1820235745
+                ],
+                [
+                    4104185692,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 378498222,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770,
+                    588594999,
+                    2450788523,
+                    3436462433
+                ],
+                [
+                    1015611457,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The best rocket in the game right now. Adaptive frames do the most damage of all rocket frames, and Hothead gets both Adept mods and the best perks in the game. FP + CC for a pairing with Gjally, or ALH + Explosive Light/Vorpal/Lasting for an excellent hotswap rocket",
+            "hash": 4255171531,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4255171531,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "The best rocket in the game right now. Adaptive frames do the most damage of all rocket frames, and Hothead gets both Adept mods and the best perks in the game. FP + CC for a pairing with Gjally, or ALH + Explosive Light/Vorpal/Lasting for an excellent hotswap rocket",
+            "hash": 4255171531,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    3796465595,
+                    2985827016
+                ],
+                [
+                    2869569095,
+                    3300816228,
+                    951095735,
+                    3977735242,
+                    3523296417
+                ],
+                [
+                    2284787283,
+                    3194351027,
+                    1546637391,
+                    3927722942
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4255171531,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The best rocket in the game right now. Adaptive frames do the most damage of all rocket frames, and Hothead gets both Adept mods and the best perks in the game. FP + CC for a pairing with Gjally, or ALH + Explosive Light/Vorpal/Lasting for an excellent hotswap rocket",
+            "hash": 4255171531,
+            "name": "",
+            "plugs": [
+                [
+                    2869569095,
+                    3300816228,
+                    951095735,
+                    3977735242,
+                    3523296417
+                ],
+                [
+                    2284787283,
+                    3194351027,
+                    1546637391,
+                    3927722942
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4255171531,
+            "name": "",
+            "plugs": [
+                [
+                    951095735
+                ],
+                [
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The best rocket in the game right now. Adaptive frames do the most damage of all rocket frames, and Hothead gets both Adept mods and the best perks in the game. FP + CC for a pairing with Gjally, or ALH + Explosive Light/Vorpal/Lasting for an excellent hotswap rocket.",
+            "hash": 1866778462,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    2284787283
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "The best rocket in the game right now. Adaptive frames do the most damage of all rocket frames, and Hothead gets both Adept mods and the best perks in the game. FP + CC for a pairing with Gjally, or ALH + Explosive Light/Vorpal/Lasting for an excellent hotswap rocket.",
+            "hash": 1866778462,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1866778462,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "The best rocket in the game right now. Adaptive frames do the most damage of all rocket frames, and Hothead gets both Adept mods and the best perks in the game. FP + CC for a pairing with Gjally, or ALH + Explosive Light/Vorpal/Lasting for an excellent hotswap rocket.",
+            "hash": 1866778462,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    3796465595,
+                    2985827016
+                ],
+                [
+                    2869569095,
+                    3300816228,
+                    951095735,
+                    3977735242,
+                    3523296417
+                ],
+                [
+                    2284787283,
+                    3194351027,
+                    1546637391,
+                    3927722942
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1866778462,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The best rocket in the game right now. Adaptive frames do the most damage of all rocket frames, and Hothead gets both Adept mods and the best perks in the game. FP + CC for a pairing with Gjally, or ALH + Explosive Light/Vorpal/Lasting for an excellent hotswap rocket.",
+            "hash": 1866778462,
+            "name": "",
+            "plugs": [
+                [
+                    2869569095,
+                    3300816228,
+                    951095735,
+                    3977735242,
+                    3523296417
+                ],
+                [
+                    2284787283,
+                    3194351027,
+                    1546637391,
+                    3927722942
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1866778462,
+            "name": "",
+            "plugs": [
+                [
+                    951095735
+                ],
+                [
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]

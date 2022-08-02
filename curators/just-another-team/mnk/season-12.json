@@ -1572,7 +1572,7 @@
                     4071163871
                 ],
                 [
-                    3425386926
+                    2396489472
                 ]
             ],
             "tags": [
@@ -1623,7 +1623,9 @@
                     4071163871
                 ],
                 [
-                    3425386926
+                    2396489472,
+                    3108830275,
+                    3511092054
                 ]
             ],
             "tags": [
@@ -2625,11 +2627,9 @@
                     791862061
                 ],
                 [
-                    3300816228,
-                    1631667848
+                    3300816228
                 ],
                 [
-                    1546637391,
                     2679249093
                 ]
             ],
@@ -2643,13 +2643,13 @@
             "name": "",
             "plugs": [
                 [
-                    1047830412
+                    1332244541
                 ],
                 [
-                    3142289711
+                    791862061
                 ],
                 [
-                    3161816588
+                    3436462433
                 ],
                 [
                     2450788523
@@ -2666,8 +2666,9 @@
             "plugs": [
                 [
                     1300023272,
-                    1047830412,
-                    4090651448
+                    4090651448,
+                    1482024992,
+                    1047830412
                 ],
                 [
                     791862061,
@@ -2679,11 +2680,9 @@
                     2869569095
                 ],
                 [
-                    1546637391,
                     2679249093,
-                    3523296417,
-                    3708227201,
-                    4082225868
+                    1546637391,
+                    3523296417
                 ]
             ],
             "tags": [
@@ -2696,14 +2695,16 @@
             "name": "",
             "plugs": [
                 [
-                    1047830412,
-                    4090651448
+                    1332244541,
+                    4090651448,
+                    1482024992
                 ],
                 [
-                    3142289711,
-                    791862061
+                    791862061,
+                    3142289711
                 ],
                 [
+                    3436462433,
                     3161816588,
                     972757866
                 ],
@@ -4191,47 +4192,6 @@
             ]
         },
         {
-            "description": "1-2p and TB increase burst DPS but do not increase total DPS due to the time it takes to proc the perk. Pick the perks that have the most synergy with your playstyle.",
-            "hash": 2891672170,
-            "name": "",
-            "plugs": [
-                [
-                    3300816228,
-                    1631667848,
-                    2869569095
-                ],
-                [
-                    1546637391,
-                    2679249093,
-                    3523296417,
-                    3708227201,
-                    4082225868
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Slideshot and Killing Wind each add ~20 range stat making 86+ range possible. However, pellet spread RNG is the determinant factor for one hit kills.",
-            "hash": 2891672170,
-            "name": "",
-            "plugs": [
-                [
-                    3161816588,
-                    972757866
-                ],
-                [
-                    2450788523,
-                    1546637391,
-                    2726471870
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "One For All is much better on primaries, but some may prefer Rampage due to the ease to proc.",
             "hash": 3281285075,
             "name": "",
@@ -4346,41 +4306,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
-            "hash": 3565520715,
-            "name": "",
-            "plugs": [
-                [
-                    2869569095,
-                    4071163871,
-                    2284787283
-                ],
-                [
-                    3523296417,
-                    2396489472
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
-            "hash": 3565520715,
-            "name": "",
-            "plugs": [
-                [
-                    4071163871
-                ],
-                [
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -5119,6 +5044,100 @@
                 ],
                 [
                     2846385770,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "1-2p and TB increase burst DPS but do not increase total DPS due to the time it takes to proc the perk. Pick the perks that have the most synergy with your playstyle.",
+            "hash": 2891672170,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228,
+                    1631667848,
+                    2869569095
+                ],
+                [
+                    2679249093,
+                    1546637391,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Slideshot and Killing Wind each add ~20 range stat making 86+ range possible. However, pellet spread RNG is the determinant factor for one hit kills.",
+            "hash": 2891672170,
+            "name": "",
+            "plugs": [
+                [
+                    3436462433,
+                    3161816588,
+                    972757866
+                ],
+                [
+                    2450788523,
+                    1546637391,
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
+            "hash": 3565520715,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.",
+            "hash": 3565520715,
+            "name": "",
+            "plugs": [
+                [
+                    2869569095,
+                    4071163871,
+                    2284787283
+                ],
+                [
+                    3523296417,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "We want increased blast radius when using Proximity Grenades - but not at the cost of other stats.",
+            "hash": 3565520715,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871
+                ],
+                [
+                    2396489472,
+                    3108830275,
                     3511092054
                 ]
             ],
