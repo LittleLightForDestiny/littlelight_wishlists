@@ -3730,16 +3730,18 @@
             "name": "",
             "plugs": [
                 [
-                    981914802
+                    3525010810
                 ],
                 [
                     3032599245
                 ],
                 [
-                    3300816228
+                    3300816228,
+                    3528046508
                 ],
                 [
-                    3523296417
+                    3523296417,
+                    1906147653
                 ]
             ],
             "tags": [
@@ -3752,20 +3754,23 @@
             "name": "",
             "plugs": [
                 [
-                    981914802
+                    3525010810
                 ],
                 [
-                    409831596
+                    3301904089
                 ],
                 [
-                    2010801679
+                    3300816228,
+                    3528046508
                 ],
                 [
-                    3523296417
+                    3523296417,
+                    1906147653
                 ]
             ],
             "tags": [
-                "GodPVP"
+                "GodPVP",
+                "PVE"
             ]
         },
         {
@@ -3780,10 +3785,12 @@
                     791862061
                 ],
                 [
-                    1556840489
+                    1556840489,
+                    3442762221
                 ],
                 [
-                    2679249093
+                    2679249093,
+                    788178929
                 ]
             ],
             "tags": [
@@ -3796,15 +3803,17 @@
             "name": "",
             "plugs": [
                 [
-                    1047830412
+                    1332244541
                 ],
                 [
                     791862061
                 ],
                 [
-                    3161816588
+                    2014892510,
+                    1428297954
                 ],
                 [
+                    1370847713,
                     47981717
                 ]
             ],
@@ -3826,11 +3835,19 @@
                 ],
                 [
                     1556840489,
-                    2621346526
+                    3442762221,
+                    191144788,
+                    3161816588,
+                    536173722,
+                    691659142
                 ],
                 [
                     2679249093,
-                    2360754333
+                    2360754333,
+                    788178929,
+                    2459015849,
+                    3418165135,
+                    1546637391
                 ]
             ],
             "tags": [
@@ -3843,6 +3860,8 @@
             "name": "",
             "plugs": [
                 [
+                    1332244541,
+                    1482024992,
                     1047830412
                 ],
                 [
@@ -3850,46 +3869,16 @@
                     3142289711
                 ],
                 [
-                    3161816588,
-                    2621346526
+                    2014892510,
+                    1428297954,
+                    191144788,
+                    3161816588
                 ],
                 [
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1679868061,
-            "name": "",
-            "plugs": [
-                [
-                    1556840489,
-                    2621346526
-                ],
-                [
-                    2679249093,
-                    2360754333
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1679868061,
-            "name": "",
-            "plugs": [
-                [
-                    3161816588,
-                    2621346526
-                ],
-                [
-                    47981717
+                    47981717,
+                    1370847713,
+                    788178929,
+                    2679249093
                 ]
             ],
             "tags": [
@@ -3902,16 +3891,18 @@
             "name": "",
             "plugs": [
                 [
-                    1840239774
+                    839105230
                 ],
                 [
                     3230963543
                 ],
                 [
-                    3523296417
+                    3523296417,
+                    1906147653
                 ],
                 [
-                    1015611457
+                    2675184851,
+                    4293542123
                 ]
             ],
             "tags": [
@@ -3930,42 +3921,16 @@
                     1885400500
                 ],
                 [
-                    2450788523
+                    2014892510,
+                    1428297954
                 ],
                 [
-                    1015611457,
-                    699525795
+                    2923251173,
+                    1015611457
                 ]
             ],
             "tags": [
                 "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2708806099,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    839105230,
-                    4090651448
-                ],
-                [
-                    3230963543,
-                    679225683
-                ],
-                [
-                    3523296417,
-                    1168162263
-                ],
-                [
-                    1015611457,
-                    11612903
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -3976,23 +3941,32 @@
                 [
                     839105230,
                     4090651448,
-                    1467527085,
-                    3250034553
+                    3250034553,
+                    1467527085
                 ],
                 [
                     1885400500,
                     3142289711
                 ],
                 [
-                    2450788523,
+                    2014892510,
+                    1428297954,
+                    536173722,
+                    691659142,
+                    1906147653,
                     3523296417,
-                    1168162263
+                    4207509907,
+                    2450788523
                 ],
                 [
+                    2923251173,
                     1015611457,
+                    3719974635,
                     699525795,
-                    3511092054,
-                    2846385770
+                    4200236906,
+                    1365187766,
+                    711234314,
+                    3511092054
                 ]
             ],
             "tags": [
@@ -4008,14 +3982,15 @@
                     1840239774
                 ],
                 [
-                    732557052
+                    2749775325
                 ],
                 [
-                    1820235745
+                    1820235745,
+                    4245865861
                 ],
                 [
                     4104185692,
-                    4049631843
+                    3007133316
                 ]
             ],
             "tags": [
@@ -4028,16 +4003,18 @@
             "name": "",
             "plugs": [
                 [
-                    839105230
+                    1840239774
                 ],
                 [
                     3868766766
                 ],
                 [
-                    2450788523
+                    2014892510,
+                    1428297954
                 ],
                 [
-                    3523296417
+                    4290541820,
+                    2610012052
                 ]
             ],
             "tags": [
@@ -4045,78 +4022,6 @@
             ]
         },
         {
-            "description": "Any subsistence roll could double as a Prometheus-lite in at level content, but the usefulness of trace rifles has always fallen off quickly as soon as you get out of that level range.",
-            "hash": 548958835,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    839105230,
-                    3250034553
-                ],
-                [
-                    732557052,
-                    2680121939,
-                    2749775325
-                ],
-                [
-                    1820235745,
-                    3096702027
-                ],
-                [
-                    4104185692,
-                    4049631843,
-                    3523296417,
-                    1683379515
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 548958835,
-            "name": "",
-            "plugs": [
-                [
-                    839105230,
-                    1840239774,
-                    1467527085,
-                    3250034553
-                ],
-                [
-                    3868766766,
-                    732557052
-                ],
-                [
-                    2450788523
-                ],
-                [
-                    3523296417
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 548958835,
-            "name": "",
-            "plugs": [
-                [
-                    2450788523
-                ],
-                [
-                    3523296417
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "Easier access to Eager Edge due to it being less rare, but cannot be paired with damage perks thanks to Eager rolling in the final column. Pick one up to tide you over with speed while you search for “The Other Half” with Eager Edge and a damage perk. PvP: It’s a sword in PvP, you don’t care about the roll.",
             "hash": 3257091166,
             "name": "",
@@ -4125,13 +4030,15 @@
                     3666208348
                 ],
                 [
-                    52780822
+                    269888150
                 ],
                 [
-                    1749209109
+                    1749209109,
+                    4085959009
                 ],
                 [
-                    2077819806
+                    2077819806,
+                    1618208178
                 ]
             ],
             "tags": [
@@ -4152,29 +4059,15 @@
                 ],
                 [
                     1749209109,
-                    3705817207
+                    3705817207,
+                    1646437399,
+                    4085959009
                 ],
                 [
                     2077819806,
-                    1685431615
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Easier access to Eager Edge due to it being less rare, but cannot be paired with damage perks thanks to Eager rolling in the final column. Pick one up to tide you over with speed while you search for “The Other Half” with Eager Edge and a damage perk. PvP: It’s a sword in PvP, you don’t care about the roll.",
-            "hash": 3257091166,
-            "name": "",
-            "plugs": [
-                [
-                    1749209109,
-                    3705817207
-                ],
-                [
-                    2077819806,
-                    1685431615
+                    1685431615,
+                    1618208178,
+                    3406782879
                 ]
             ],
             "tags": [
@@ -4190,13 +4083,15 @@
                     3666208348
                 ],
                 [
-                    52780822
+                    269888150
                 ],
                 [
-                    2077819806
+                    2077819806,
+                    1618208178
                 ],
                 [
-                    3913600130
+                    3007133316,
+                    4104185692
                 ]
             ],
             "tags": [
@@ -4217,31 +4112,19 @@
                 ],
                 [
                     2077819806,
-                    1749209109
+                    1749209109,
+                    4085959009,
+                    1618208178
                 ],
                 [
                     3913600130,
                     4104185692,
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Eager Edge + a damage perk, making it more useful than “Half Truths”, but you’re searching for Eager Edge anyway - so a good roll on this weapon is a nice to have. PvP: It’s a sword in PvP, you don’t care about the roll.",
-            "hash": 3257091167,
-            "name": "",
-            "plugs": [
-                [
-                    2077819806,
-                    1749209109
-                ],
-                [
-                    3913600130,
-                    4104185692,
-                    1546637391
+                    1546637391,
+                    3007133316,
+                    781192741,
+                    147913470,
+                    3418165135,
+                    3708227201
                 ]
             ],
             "tags": [
@@ -4262,11 +4145,11 @@
                 ],
                 [
                     3300816228,
-                    2010801679
+                    3528046508
                 ],
                 [
                     3523296417,
-                    3592538738
+                    1906147653
                 ]
             ],
             "tags": [
@@ -4290,12 +4173,14 @@
                 [
                     3300816228,
                     2010801679,
-                    2621346526
+                    3528046508,
+                    3797647183
                 ],
                 [
                     3523296417,
-                    3592538738,
-                    1546637391
+                    1546637391,
+                    1906147653,
+                    3418165135
                 ]
             ],
             "tags": [
@@ -4316,72 +4201,17 @@
                     3301904089
                 ],
                 [
-                    2010801679,
-                    3300816228
-                ],
-                [
-                    3523296417,
-                    3592538738
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "The return of an ALH Blinding grenade launcher for PvE. While Ignition Code is better for pure dps thanks to slideshot skipping the wait for a reload, ALH is better for pure blinding.",
-            "hash": 3849810018,
-            "name": "",
-            "plugs": [
-                [
                     3300816228,
-                    2010801679
+                    1428297954,
+                    2014892510,
+                    3528046508
                 ],
                 [
                     3523296417,
-                    3592538738
+                    1906147653
                 ]
             ],
             "tags": [
-                "PVE",
-                "PVP"
-            ]
-        },
-        {
-            "description": "The return of an ALH Blinding grenade launcher for PvE. While Ignition Code is better for pure dps thanks to slideshot skipping the wait for a reload, ALH is better for pure blinding.",
-            "hash": 3849810018,
-            "name": "",
-            "plugs": [
-                [
-                    3300816228,
-                    2010801679,
-                    2621346526
-                ],
-                [
-                    3523296417,
-                    3592538738,
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "PvP: While Rangefinder would appear to be the instant choice, it puts the weapon closer to 22 zoom which is a lot on a pulse. User beware.",
-            "hash": 2708806099,
-            "name": "",
-            "plugs": [
-                [
-                    3523296417,
-                    1168162263
-                ],
-                [
-                    1015611457
-                ]
-            ],
-            "tags": [
-                "PVE",
                 "PVP"
             ]
         },
@@ -4529,26 +4359,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "Any subsistence roll could double as a Prometheus-lite in at level content, but the usefulness of trace rifles has always fallen off quickly as soon as you get out of that level range.",
-            "hash": 548958835,
-            "name": "",
-            "plugs": [
-                [
-                    1820235745,
-                    3096702027
-                ],
-                [
-                    4104185692,
-                    4049631843,
-                    3523296417,
-                    1683379515
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -5102,45 +4912,6 @@
                     3523296417,
                     4082225868,
                     2213355989
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2708806099,
-            "name": "",
-            "plugs": [
-                [
-                    3523296417,
-                    1168162263
-                ],
-                [
-                    1015611457,
-                    11612903
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "While Rangefinder would appear to be the instant choice, it puts the weapon closer to 22 zoom which is a lot on a pulse. User beware.",
-            "hash": 2708806099,
-            "name": "",
-            "plugs": [
-                [
-                    2450788523,
-                    3523296417,
-                    1168162263
-                ],
-                [
-                    1015611457,
-                    699525795,
-                    3511092054,
-                    2846385770
                 ]
             ],
             "tags": [
@@ -5821,6 +5592,444 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "The return of an ALH Blinding grenade launcher for PvE. While Ignition Code is better for pure dps thanks to slideshot skipping the wait for a reload, ALH is better for pure blinding.",
+            "hash": 3849810018,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228,
+                    3528046508
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "The return of an ALH Blinding grenade launcher for PvE. While Ignition Code is better for pure dps thanks to slideshot skipping the wait for a reload, ALH is better for pure blinding.",
+            "hash": 3849810018,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228,
+                    2010801679,
+                    3528046508,
+                    3797647183
+                ],
+                [
+                    3523296417,
+                    1546637391,
+                    1906147653,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3849810018,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228,
+                    1428297954,
+                    2014892510,
+                    3528046508
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1679868061,
+            "name": "",
+            "plugs": [
+                [
+                    1556840489,
+                    3442762221,
+                    191144788,
+                    3161816588,
+                    536173722,
+                    691659142
+                ],
+                [
+                    2679249093,
+                    2360754333,
+                    788178929,
+                    2459015849,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1679868061,
+            "name": "",
+            "plugs": [
+                [
+                    2014892510,
+                    1428297954,
+                    191144788,
+                    3161816588
+                ],
+                [
+                    47981717,
+                    1370847713,
+                    788178929,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2708806099,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3230963543,
+                    679225683
+                ],
+                [
+                    3523296417,
+                    1168162263,
+                    1906147653,
+                    1347741687,
+                    536173722,
+                    691659142
+                ],
+                [
+                    1015611457,
+                    2923251173,
+                    2675184851,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "While Rangefinder would appear to be the instant choice, it puts the weapon closer to 22 zoom which is a lot on a pulse. User beware.",
+            "hash": 2708806099,
+            "name": "",
+            "plugs": [
+                [
+                    536173722,
+                    691659142,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "While Rangefinder would appear to be the instant choice, it puts the weapon closer to 22 zoom which is a lot on a pulse. User beware.",
+            "hash": 2708806099,
+            "name": "",
+            "plugs": [
+                [
+                    2014892510,
+                    1428297954,
+                    536173722,
+                    691659142,
+                    1906147653,
+                    3523296417,
+                    4207509907,
+                    2450788523
+                ],
+                [
+                    2923251173,
+                    1015611457,
+                    3719974635,
+                    699525795,
+                    4200236906,
+                    1365187766,
+                    711234314,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2708806099,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417,
+                    1168162263,
+                    1906147653,
+                    1347741687,
+                    536173722,
+                    691659142
+                ],
+                [
+                    1015611457,
+                    2923251173,
+                    2675184851,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Any subsistence roll could double as a Prometheus-lite in at level content, but the usefulness of trace rifles has always fallen off quickly as soon as you get out of that level range.",
+            "hash": 548958835,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230
+                ],
+                [
+                    732557052
+                ],
+                [
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    3523296417,
+                    4290541820,
+                    1906147653,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Any subsistence roll could double as a Prometheus-lite in at level content, but the usefulness of trace rifles has always fallen off quickly as soon as you get out of that level range.",
+            "hash": 548958835,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    732557052,
+                    2680121939,
+                    2749775325
+                ],
+                [
+                    1820235745,
+                    4245865861,
+                    2014892510,
+                    1171147302,
+                    2779035018,
+                    1428297954
+                ],
+                [
+                    4104185692,
+                    4049631843,
+                    3523296417,
+                    859780267,
+                    4290541820,
+                    3007133316,
+                    2675184851,
+                    1906147653,
+                    4293542123,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 548958835,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    1467527085,
+                    3250034553
+                ],
+                [
+                    3868766766,
+                    732557052
+                ],
+                [
+                    2450788523,
+                    4207509907,
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    3523296417,
+                    1906147653,
+                    4290541820,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Any subsistence roll could double as a Prometheus-lite in at level content, but the usefulness of trace rifles has always fallen off quickly as soon as you get out of that level range.",
+            "hash": 548958835,
+            "name": "",
+            "plugs": [
+                [
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    3523296417,
+                    4290541820,
+                    1906147653,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Any subsistence roll could double as a Prometheus-lite in at level content, but the usefulness of trace rifles has always fallen off quickly as soon as you get out of that level range.",
+            "hash": 548958835,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    4245865861,
+                    2014892510,
+                    1171147302,
+                    2779035018,
+                    1428297954
+                ],
+                [
+                    4104185692,
+                    4049631843,
+                    3523296417,
+                    859780267,
+                    4290541820,
+                    3007133316,
+                    2675184851,
+                    1906147653,
+                    4293542123,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 548958835,
+            "name": "",
+            "plugs": [
+                [
+                    2450788523,
+                    4207509907,
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    3523296417,
+                    1906147653,
+                    4290541820,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Eager Edge + a damage perk, making it more useful than “Half Truths”, but you’re searching for Eager Edge anyway - so a good roll on this weapon is a nice to have. PvP: It’s a sword in PvP, you don’t care about the roll.",
+            "hash": 3257091167,
+            "name": "",
+            "plugs": [
+                [
+                    2077819806,
+                    1749209109,
+                    4085959009,
+                    1618208178
+                ],
+                [
+                    3913600130,
+                    4104185692,
+                    1546637391,
+                    3007133316,
+                    781192741,
+                    147913470,
+                    3418165135,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Easier access to Eager Edge due to it being less rare, but cannot be paired with damage perks thanks to Eager rolling in the final column. Pick one up to tide you over with speed while you search for “The Other Half” with Eager Edge and a damage perk. PvP: It’s a sword in PvP, you don’t care about the roll.",
+            "hash": 3257091166,
+            "name": "",
+            "plugs": [
+                [
+                    1749209109,
+                    3705817207,
+                    1646437399,
+                    4085959009
+                ],
+                [
+                    2077819806,
+                    1685431615,
+                    1618208178,
+                    3406782879
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
