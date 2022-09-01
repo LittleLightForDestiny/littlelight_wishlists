@@ -1739,7 +1739,7 @@
             ]
         },
         {
-            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Solar Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
+            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Void Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
             "hash": 1911060537,
             "name": "",
             "plugs": [
@@ -1765,7 +1765,7 @@
             ]
         },
         {
-            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Solar Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
+            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Void Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
             "hash": 1911060537,
             "name": "",
             "plugs": [
@@ -1813,7 +1813,7 @@
             ]
         },
         {
-            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Solar Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
+            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Void Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
             "hash": 1911060537,
             "name": "",
             "plugs": [
@@ -1872,32 +1872,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Solar Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
-            "hash": 1911060537,
-            "name": "",
-            "plugs": [
-                [
-                    573122728,
-                    3400784728,
-                    3563868667,
-                    2284787283,
-                    2308090567,
-                    2869569095
-                ],
-                [
-                    395388285,
-                    1771339417,
-                    3007133316,
-                    4104185692,
-                    2402480669,
-                    2896038713
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -6107,6 +6081,32 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Void Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
+            "hash": 1911060537,
+            "name": "",
+            "plugs": [
+                [
+                    573122728,
+                    3400784728,
+                    3563868667,
+                    2284787283,
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    395388285,
+                    1771339417,
+                    3007133316,
+                    4104185692,
+                    2402480669,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
