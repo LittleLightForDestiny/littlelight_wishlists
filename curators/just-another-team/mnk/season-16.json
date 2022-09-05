@@ -1969,7 +1969,7 @@
             ]
         },
         {
-            "description": "While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Arc elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll.",
+            "description": "While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Void elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll.",
             "hash": 232928045,
             "name": "",
             "plugs": [
@@ -2019,7 +2019,7 @@
             ]
         },
         {
-            "description": "While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Arc elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll.",
+            "description": "While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Void elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll.",
             "hash": 232928045,
             "name": "",
             "plugs": [
@@ -2078,7 +2078,7 @@
             ]
         },
         {
-            "description": "While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Arc elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll.",
+            "description": "While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Void elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll.",
             "hash": 232928045,
             "name": "",
             "plugs": [
@@ -4904,7 +4904,7 @@
                     1354429876
                 ],
                 [
-                    4049631843
+                    4104185692
                 ]
             ],
             "tags": [
@@ -4957,12 +4957,12 @@
                     1583705720
                 ],
                 [
+                    4104185692,
                     4049631843,
                     124408337,
                     2896038713,
                     1546637391,
-                    3523296417,
-                    4104185692
+                    3523296417
                 ]
             ],
             "tags": [
@@ -4975,7 +4975,9 @@
             "name": "",
             "plugs": [
                 [
-                    202670084
+                    202670084,
+                    4090651448,
+                    3250034553
                 ],
                 [
                     1885400500,
@@ -4994,31 +4996,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1788603939,
-            "name": "",
-            "plugs": [
-                [
-                    1354429876,
-                    1428297954,
-                    1820235745,
-                    3700496672,
-                    1583705720
-                ],
-                [
-                    4049631843,
-                    124408337,
-                    2896038713,
-                    1546637391,
-                    3523296417,
-                    4104185692
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -8953,6 +8930,31 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1788603939,
+            "name": "",
+            "plugs": [
+                [
+                    1354429876,
+                    1428297954,
+                    1820235745,
+                    3700496672,
+                    1583705720
+                ],
+                [
+                    4104185692,
+                    4049631843,
+                    124408337,
+                    2896038713,
+                    1546637391,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]

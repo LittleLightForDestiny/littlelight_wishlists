@@ -3540,6 +3540,70 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP it doesn’t matter",
+            "hash": 4230993599,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1749209109
+                ],
+                [
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP it doesn’t matter",
+            "hash": 4230993599,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348,
+                    1261178282
+                ],
+                [
+                    269888150,
+                    52780822
+                ],
+                [
+                    1749209109
+                ],
+                [
+                    3913600130,
+                    1685431615
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP it doesn’t matter",
+            "hash": 4230993599,
+            "name": "",
+            "plugs": [
+                [
+                    1749209109
+                ],
+                [
+                    3913600130,
+                    1685431615
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

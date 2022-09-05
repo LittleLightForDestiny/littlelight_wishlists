@@ -213,13 +213,16 @@
                 ],
                 [
                     679225683,
+                    3721627275,
                     1087426260
                 ],
                 [
                     1906147653,
                     3523296417,
                     3878366039,
-                    951095735
+                    951095735,
+                    3442762221,
+                    1556840489
                 ],
                 [
                     3007133316,
@@ -270,7 +273,9 @@
                     1906147653,
                     3523296417,
                     3878366039,
-                    951095735
+                    951095735,
+                    3442762221,
+                    1556840489
                 ],
                 [
                     3007133316,
@@ -369,6 +374,8 @@
                 [
                     3528046508,
                     3300816228,
+                    406461158,
+                    3977735242,
                     1906147653,
                     3523296417,
                     2308090567,
@@ -378,7 +385,9 @@
                     3007133316,
                     4104185692,
                     3418165135,
-                    1546637391
+                    1546637391,
+                    344235611,
+                    2978966579
                 ]
             ],
             "tags": [
@@ -410,30 +419,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1959650777,
-            "name": "",
-            "plugs": [
-                [
-                    3528046508,
-                    3300816228,
-                    1906147653,
-                    3523296417,
-                    2308090567,
-                    2869569095
-                ],
-                [
-                    3007133316,
-                    4104185692,
-                    3418165135,
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -496,8 +481,8 @@
                     699525795
                 ],
                 [
-                    1370847713,
-                    47981717
+                    509594246,
+                    2846385770
                 ]
             ],
             "tags": [
@@ -558,15 +543,17 @@
                     3719974635,
                     699525795,
                     4116820839,
-                    957782887
+                    957782887,
+                    2898218424,
+                    3722653512
                 ],
                 [
+                    509594246,
+                    2846385770,
                     1370847713,
                     47981717,
                     1906147653,
-                    3523296417,
-                    509594246,
-                    2846385770
+                    3523296417
                 ]
             ],
             "tags": [
@@ -599,35 +586,11 @@
         },
         {
             "description": "",
-            "hash": 3055790362,
-            "name": "",
-            "plugs": [
-                [
-                    3719974635,
-                    699525795,
-                    4116820839,
-                    957782887
-                ],
-                [
-                    1370847713,
-                    47981717,
-                    1906147653,
-                    3523296417,
-                    509594246,
-                    2846385770
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
             "hash": 502356570,
             "name": "",
             "plugs": [
                 [
-                    1840239774
+                    839105230
                 ],
                 [
                     106909392
@@ -637,8 +600,8 @@
                     3592538738
                 ],
                 [
-                    288411554,
-                    3425386926
+                    2675184851,
+                    4293542123
                 ]
             ],
             "tags": [
@@ -651,14 +614,14 @@
             "name": "",
             "plugs": [
                 [
-                    3250034553
+                    839105230
                 ],
                 [
                     3142289711
                 ],
                 [
-                    3719974635,
-                    699525795
+                    2717805783,
+                    588594999
                 ],
                 [
                     1161469972,
@@ -675,9 +638,9 @@
             "name": "",
             "plugs": [
                 [
+                    839105230,
                     1840239774,
-                    4090651448,
-                    839105230
+                    4090651448
                 ],
                 [
                     106909392,
@@ -691,12 +654,12 @@
                     1683379515
                 ],
                 [
+                    2675184851,
+                    4293542123,
                     288411554,
                     3425386926,
                     1161469972,
-                    4082225868,
-                    2675184851,
-                    4293542123
+                    4082225868
                 ]
             ],
             "tags": [
@@ -709,6 +672,7 @@
             "name": "",
             "plugs": [
                 [
+                    839105230,
                     3250034553,
                     4090651448,
                     1482024992,
@@ -718,56 +682,10 @@
                     3142289711
                 ],
                 [
-                    3719974635,
-                    699525795,
                     2717805783,
-                    588594999
-                ],
-                [
-                    1161469972,
-                    4082225868,
-                    288411554,
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 502356570,
-            "name": "",
-            "plugs": [
-                [
-                    2675361166,
-                    3592538738,
-                    2216471363,
-                    1683379515
-                ],
-                [
-                    288411554,
-                    3425386926,
-                    1161469972,
-                    4082225868,
-                    2675184851,
-                    4293542123
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 502356570,
-            "name": "",
-            "plugs": [
-                [
+                    588594999,
                     3719974635,
-                    699525795,
-                    2717805783,
-                    588594999
+                    699525795
                 ],
                 [
                     1161469972,
@@ -805,7 +723,7 @@
             ]
         },
         {
-            "description": "The same argument as 1k stare arises here. Despite Qd+Snap being the classic option, Moving Target is more useful when sniping as Qd has been nerfed to only effect where you need handling least for a sniper, Draw Speed",
+            "description": "The same argument as 1k stare arises here. Despite Qd+Snap being the classic option, Moving Target is more useful when sniping as Qd has been nerfed to only affect where you need handling least for a sniper, Draw Speed",
             "hash": 3107853529,
             "name": "",
             "plugs": [
@@ -856,7 +774,7 @@
             ]
         },
         {
-            "description": "The same argument as 1k stare arises here. Despite Qd+Snap being the classic option, Moving Target is more useful when sniping as Qd has been nerfed to only effect where you need handling least for a sniper, Draw Speed",
+            "description": "The same argument as 1k stare arises here. Despite Qd+Snap being the classic option, Moving Target is more useful when sniping as Qd has been nerfed to only affect where you need handling least for a sniper, Draw Speed",
             "hash": 3107853529,
             "name": "",
             "plugs": [
@@ -912,32 +830,6 @@
             ]
         },
         {
-            "description": "The same argument as 1k stare arises here. Despite Qd+Snap being the classic option, Moving Target is more useful when sniping as Qd has been nerfed to only effect where you need handling least for a sniper, Draw Speed",
-            "hash": 3107853529,
-            "name": "",
-            "plugs": [
-                [
-                    4116820839,
-                    957782887,
-                    3974407819,
-                    2866798147,
-                    3920370755,
-                    280464955
-                ],
-                [
-                    2717805783,
-                    588594999,
-                    23371658,
-                    2551157718,
-                    1961144892,
-                    706527188
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "",
             "hash": 2490988246,
             "name": "",
@@ -977,8 +869,8 @@
                     588594999
                 ],
                 [
-                    3719974635,
-                    699525795
+                    1523649716,
+                    1890422124
                 ]
             ],
             "tags": [
@@ -1004,7 +896,9 @@
                     494941759,
                     4071163871,
                     402033656,
-                    1631667848
+                    1631667848,
+                    855168139,
+                    3108830275
                 ],
                 [
                     2675184851,
@@ -1043,10 +937,10 @@
                     2039302152
                 ],
                 [
-                    3719974635,
-                    699525795,
                     1523649716,
-                    1890422124
+                    1890422124,
+                    3719974635,
+                    699525795
                 ]
             ],
             "tags": [
@@ -1062,7 +956,9 @@
                     494941759,
                     4071163871,
                     402033656,
-                    1631667848
+                    1631667848,
+                    855168139,
+                    3108830275
                 ],
                 [
                     2675184851,
@@ -1075,30 +971,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2490988246,
-            "name": "",
-            "plugs": [
-                [
-                    2717805783,
-                    588594999,
-                    494941759,
-                    4071163871,
-                    2396422520,
-                    2039302152
-                ],
-                [
-                    3719974635,
-                    699525795,
-                    1523649716,
-                    1890422124
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -1245,7 +1117,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks",
+            "description": "",
             "hash": 575830664,
             "name": "",
             "plugs": [
@@ -1267,7 +1139,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer",
+            "description": "While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper.",
             "hash": 575830664,
             "name": "",
             "plugs": [
@@ -1281,7 +1153,7 @@
                     1428297954
                 ],
                 [
-                    47981717
+                    1954620775
                 ]
             ],
             "tags": [
@@ -1289,7 +1161,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks",
+            "description": "",
             "hash": 575830664,
             "name": "",
             "plugs": [
@@ -1319,7 +1191,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer",
+            "description": "While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper.",
             "hash": 575830664,
             "name": "",
             "plugs": [
@@ -1337,8 +1209,8 @@
                     2946784966
                 ],
                 [
-                    47981717,
-                    1954620775
+                    1954620775,
+                    47981717
                 ]
             ],
             "tags": [
@@ -1346,7 +1218,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks",
+            "description": "",
             "hash": 575830664,
             "name": "",
             "plugs": [
@@ -1366,7 +1238,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer",
+            "description": "While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper.",
             "hash": 575830664,
             "name": "",
             "plugs": [
@@ -1375,8 +1247,8 @@
                     2946784966
                 ],
                 [
-                    47981717,
-                    1954620775
+                    1954620775,
+                    47981717
                 ]
             ],
             "tags": [
@@ -1384,7 +1256,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks",
+            "description": "",
             "hash": 2006308129,
             "name": "",
             "plugs": [
@@ -1406,7 +1278,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer",
+            "description": "While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper.",
             "hash": 2006308129,
             "name": "",
             "plugs": [
@@ -1420,7 +1292,7 @@
                     1428297954
                 ],
                 [
-                    47981717
+                    1954620775
                 ]
             ],
             "tags": [
@@ -1428,7 +1300,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks",
+            "description": "",
             "hash": 2006308129,
             "name": "",
             "plugs": [
@@ -1458,7 +1330,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer",
+            "description": "While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper.",
             "hash": 2006308129,
             "name": "",
             "plugs": [
@@ -1476,8 +1348,8 @@
                     2946784966
                 ],
                 [
-                    47981717,
-                    1954620775
+                    1954620775,
+                    47981717
                 ]
             ],
             "tags": [
@@ -1485,7 +1357,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks",
+            "description": "",
             "hash": 2006308129,
             "name": "",
             "plugs": [
@@ -1505,7 +1377,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer",
+            "description": "While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper.",
             "hash": 2006308129,
             "name": "",
             "plugs": [
@@ -1514,8 +1386,8 @@
                     2946784966
                 ],
                 [
-                    47981717,
-                    1954620775
+                    1954620775,
+                    47981717
                 ]
             ],
             "tags": [
@@ -1523,7 +1395,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 216983039,
             "name": "",
             "plugs": [
@@ -1545,7 +1417,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 216983039,
             "name": "",
             "plugs": [
@@ -1567,7 +1439,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 216983039,
             "name": "",
             "plugs": [
@@ -1596,7 +1468,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 216983039,
             "name": "",
             "plugs": [
@@ -1623,7 +1495,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 216983039,
             "name": "",
             "plugs": [
@@ -1640,7 +1512,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 216983039,
             "name": "",
             "plugs": [
@@ -1659,7 +1531,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 216983039,
             "name": "",
             "plugs": [
@@ -1677,7 +1549,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 1924276978,
             "name": "",
             "plugs": [
@@ -1699,7 +1571,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 1924276978,
             "name": "",
             "plugs": [
@@ -1721,7 +1593,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 1924276978,
             "name": "",
             "plugs": [
@@ -1750,7 +1622,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 1924276978,
             "name": "",
             "plugs": [
@@ -1777,7 +1649,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 1924276978,
             "name": "",
             "plugs": [
@@ -1794,7 +1666,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 1924276978,
             "name": "",
             "plugs": [
@@ -1813,7 +1685,7 @@
             ]
         },
         {
-            "description": "A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip.",
+            "description": "Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses.",
             "hash": 1924276978,
             "name": "",
             "plugs": [
@@ -3967,7 +3839,7 @@
             ]
         },
         {
-            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is the chosen perk, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
             "hash": 2026087437,
             "name": "",
             "plugs": [
@@ -3989,7 +3861,7 @@
             ]
         },
         {
-            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is the chosen perk, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
             "hash": 2026087437,
             "name": "",
             "plugs": [
@@ -4003,7 +3875,7 @@
                     3300816228
                 ],
                 [
-                    2978966579
+                    3523296417
                 ]
             ],
             "tags": [
@@ -4012,7 +3884,7 @@
             ]
         },
         {
-            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is the chosen perk, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
             "hash": 2026087437,
             "name": "",
             "plugs": [
@@ -4038,7 +3910,7 @@
             ]
         },
         {
-            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a the chosen perk, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
             "hash": 2026087437,
             "name": "",
             "plugs": [
@@ -4064,7 +3936,7 @@
             ]
         },
         {
-            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is the chosen perk, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
             "hash": 2026087437,
             "name": "",
             "plugs": [
@@ -4080,8 +3952,8 @@
                     2010801679
                 ],
                 [
-                    2978966579,
                     3523296417,
+                    2978966579,
                     438098033
                 ]
             ],
@@ -4090,7 +3962,7 @@
             ]
         },
         {
-            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is the chosen perk, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
             "hash": 2026087437,
             "name": "",
             "plugs": [
@@ -4109,7 +3981,7 @@
             ]
         },
         {
-            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is a perk option, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
+            "description": "A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is the chosen perk, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies.",
             "hash": 2026087437,
             "name": "",
             "plugs": [
@@ -4118,8 +3990,8 @@
                     2010801679
                 ],
                 [
-                    2978966579,
                     3523296417,
+                    2978966579,
                     438098033
                 ]
             ],
@@ -4143,8 +4015,8 @@
                     3436462433
                 ],
                 [
-                    2541826827,
-                    776531651
+                    1161469972,
+                    4082225868
                 ]
             ],
             "tags": [
@@ -4152,7 +4024,7 @@
             ]
         },
         {
-            "description": "A rare PvP fusion that rolls with Rangefinder, putting it as the Adaptive version of Loaded Question for its deeper ohk kills than others of its archetypes. Liquid Coils is an option for ohk at 5 bolts on all resiliences",
+            "description": "A rare PvP fusion that rolls with Rangefinder, putting it as the Adaptive version of Loaded Question for its slightly deeper ohk kills than others of its archetypes. Liquid Coils is an option for ohk at 5 bolts on all resiliences. Controller users are better off maximizing range for fusions in PvP, so a roll with Hammer Forged + Projection Fuse is more worthwhile",
             "hash": 2263839058,
             "name": "",
             "plugs": [
@@ -4197,10 +4069,10 @@
                     744594675
                 ],
                 [
-                    2541826827,
-                    776531651,
                     1161469972,
-                    4082225868
+                    4082225868,
+                    2541826827,
+                    776531651
                 ]
             ],
             "tags": [
@@ -4208,7 +4080,7 @@
             ]
         },
         {
-            "description": "A rare PvP fusion that rolls with Rangefinder, putting it as the Adaptive version of Loaded Question for its deeper ohk kills than others of its archetypes. Liquid Coils is an option for ohk at 5 bolts on all resiliences",
+            "description": "A rare PvP fusion that rolls with Rangefinder, putting it as the Adaptive version of Loaded Question for its slightly deeper ohk kills than others of its archetypes. Liquid Coils is an option for ohk at 5 bolts on all resiliences. Controller users are better off maximizing range for fusions in PvP, so a roll with Hammer Forged + Projection Fuse is more worthwhile",
             "hash": 2263839058,
             "name": "",
             "plugs": [
@@ -4253,10 +4125,10 @@
                     744594675
                 ],
                 [
-                    2541826827,
-                    776531651,
                     1161469972,
-                    4082225868
+                    4082225868,
+                    2541826827,
+                    776531651
                 ]
             ],
             "tags": [
@@ -4264,7 +4136,7 @@
             ]
         },
         {
-            "description": "A rare PvP fusion that rolls with Rangefinder, putting it as the Adaptive version of Loaded Question for its deeper ohk kills than others of its archetypes. Liquid Coils is an option for ohk at 5 bolts on all resiliences",
+            "description": "A rare PvP fusion that rolls with Rangefinder, putting it as the Adaptive version of Loaded Question for its slightly deeper ohk kills than others of its archetypes. Liquid Coils is an option for ohk at 5 bolts on all resiliences. Controller users are better off maximizing range for fusions in PvP, so a roll with Hammer Forged + Projection Fuse is more worthwhile",
             "hash": 2263839058,
             "name": "",
             "plugs": [
@@ -4288,7 +4160,7 @@
             ]
         },
         {
-            "description": "Another Void 750, but this one blow’s The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability that much more with relatively consistent 45hp Void Overshields",
+            "description": "Another Void 750, but this blows The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability with relatively consistent 45hp Void Overshields",
             "hash": 3000847393,
             "name": "",
             "plugs": [
@@ -4332,7 +4204,7 @@
             ]
         },
         {
-            "description": "Another Void 750, but this one blow’s The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability that much more with relatively consistent 45hp Void Overshields",
+            "description": "Another Void 750, but this blows The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability with relatively consistent 45hp Void Overshields",
             "hash": 3000847393,
             "name": "",
             "plugs": [
@@ -4394,7 +4266,7 @@
             ]
         },
         {
-            "description": "Another Void 750, but this one blow’s The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability that much more with relatively consistent 45hp Void Overshields",
+            "description": "Another Void 750, but this blows The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability with relatively consistent 45hp Void Overshields",
             "hash": 3000847393,
             "name": "",
             "plugs": [
@@ -4434,7 +4306,7 @@
             ]
         },
         {
-            "description": "The new dps sensation for Season 16, with Frenzy for solo play and Firing Line for team play. Get yourself one of these and marvel as it outstrips every other damage method in the game.",
+            "description": "No longer far and beyond the best dps option for the season, Stormchaser still tops the total damage charts, and is still excellent dps. If you can hit all those bolts, Stormchaser is an extremely powerful boss dps choice",
             "hash": 3652506829,
             "name": "",
             "plugs": [
@@ -4479,7 +4351,7 @@
             ]
         },
         {
-            "description": "The new dps sensation for Season 16, with Frenzy for solo play and Firing Line for team play. Get yourself one of these and marvel as it outstrips every other damage method in the game.",
+            "description": "No longer far and beyond the best dps option for the season, Stormchaser still tops the total damage charts, and is still excellent dps. If you can hit all those bolts, Stormchaser is an extremely powerful boss dps choice",
             "hash": 3652506829,
             "name": "",
             "plugs": [
@@ -4535,7 +4407,7 @@
             ]
         },
         {
-            "description": "The new dps sensation for Season 16, with Frenzy for solo play and Firing Line for team play. Get yourself one of these and marvel as it outstrips every other damage method in the game.",
+            "description": "No longer far and beyond the best dps option for the season, Stormchaser still tops the total damage charts, and is still excellent dps. If you can hit all those bolts, Stormchaser is an extremely powerful boss dps choice",
             "hash": 3652506829,
             "name": "",
             "plugs": [
@@ -4593,7 +4465,7 @@
             ]
         },
         {
-            "description": "Can’t get a Desperado Messenger or prefer the stat boost that perpetual motion provides over Rapid Hit? Get yourself a New Purpose. Even with the Desperado Nerf coming into S16, it’s still an extremely powerful perk and places this pulse in the upper echelons of PvP pulses",
+            "description": "Thanks to the Desperado nerf, this pulse lacks the killing power of Messenger with Kill Clip, or even NTTE with the perk proc’d. While the relatively poor feel of the gun when stacked up against its direct competitors in the slot stops this pulse from being among the greats, it still has enough going for it to make it a solid enough option if you can't access Messenger or don’t want to run an exotic",
             "hash": 1780464822,
             "name": "",
             "plugs": [
@@ -4615,7 +4487,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Thanks to the Desperado nerf, this pulse lacks the killing power of Messenger with Kill Clip, or even NTTE with the perk proc’d. While the relatively poor feel of the gun when stacked up against its direct competitors in the slot stops this pulse from being among the greats, it still has enough going for it to make it a solid enough option if you can't access Messenger or don’t want to run an exotic",
             "hash": 1780464822,
             "name": "",
             "plugs": [
@@ -4671,7 +4543,7 @@
             ]
         },
         {
-            "description": "Can’t get a Desperado Messenger or prefer the stat boost that perpetual motion provides over Rapid Hit? Get yourself a New Purpose. Even with the Desperado Nerf coming into S16, it’s still an extremely powerful perk and places this pulse in the upper echelons of PvP pulses",
+            "description": "Thanks to the Desperado nerf, this pulse lacks the killing power of Messenger with Kill Clip, or even NTTE with the perk proc’d. While the relatively poor feel of the gun when stacked up against its direct competitors in the slot stops this pulse from being among the greats, it still has enough going for it to make it a solid enough option if you can't access Messenger or don’t want to run an exotic",
             "hash": 1780464822,
             "name": "",
             "plugs": [
@@ -4702,7 +4574,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Thanks to the Desperado nerf, this pulse lacks the killing power of Messenger with Kill Clip, or even NTTE with the perk proc’d. While the relatively poor feel of the gun when stacked up against its direct competitors in the slot stops this pulse from being among the greats, it still has enough going for it to make it a solid enough option if you can't access Messenger or don’t want to run an exotic",
             "hash": 1780464822,
             "name": "",
             "plugs": [
@@ -4740,7 +4612,7 @@
             ]
         },
         {
-            "description": "Can’t get a Desperado Messenger or prefer the stat boost that perpetual motion provides over Rapid Hit? Get yourself a New Purpose. Even with the Desperado Nerf coming into S16, it’s still an extremely powerful perk and places this pulse in the upper echelons of PvP pulses",
+            "description": "Thanks to the Desperado nerf, this pulse lacks the killing power of Messenger with Kill Clip, or even NTTE with the perk proc’d. While the relatively poor feel of the gun when stacked up against its direct competitors in the slot stops this pulse from being among the greats, it still has enough going for it to make it a solid enough option if you can't access Messenger or don’t want to run an exotic",
             "hash": 1780464822,
             "name": "",
             "plugs": [
@@ -4760,7 +4632,7 @@
             ]
         },
         {
-            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a certain Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
+            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
             "hash": 2194955522,
             "name": "",
             "plugs": [
@@ -4810,7 +4682,7 @@
             ]
         },
         {
-            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a certain Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
+            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
             "hash": 2194955522,
             "name": "",
             "plugs": [
@@ -4880,7 +4752,7 @@
             ]
         },
         {
-            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a certain Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
+            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
             "hash": 2194955522,
             "name": "",
             "plugs": [
@@ -4901,7 +4773,7 @@
             ]
         },
         {
-            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a certain Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
+            "description": "A High Impact MG worth getting for PvE. The return of Killing Tally allows this MG to put in excellent work clearing ads when combined with the 40% s16 MG buff against non-boss enemies. This is the current pick for a Solar MG in GMs, whether that’s with Incandescent to pair with a Solar 3.0 build, or with Killing Tally to enhance its add clearing power",
             "hash": 2194955522,
             "name": "",
             "plugs": [
@@ -4944,6 +4816,659 @@
                     3425386926,
                     2675184851,
                     4293542123
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2778013407,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    848860060,
+                    1354429876
+                ],
+                [
+                    2402480669,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2778013407,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    3118144663,
+                    1866048759
+                ],
+                [
+                    711234314,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2778013407,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    3230963543,
+                    1561002382,
+                    1087426260
+                ],
+                [
+                    848860060,
+                    1354429876,
+                    2139363611,
+                    744594675
+                ],
+                [
+                    2402480669,
+                    2896038713,
+                    781192741,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2778013407,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1392496348,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500,
+                    1968497646
+                ],
+                [
+                    3118144663,
+                    1866048759,
+                    1609056795,
+                    2451262963,
+                    2898218424,
+                    3722653512
+                ],
+                [
+                    711234314,
+                    3511092054,
+                    2889515627,
+                    3673922083
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2778013407,
+            "name": "",
+            "plugs": [
+                [
+                    848860060,
+                    1354429876,
+                    2139363611,
+                    744594675
+                ],
+                [
+                    2402480669,
+                    2896038713,
+                    781192741,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2778013407,
+            "name": "",
+            "plugs": [
+                [
+                    3118144663,
+                    1866048759,
+                    1609056795,
+                    2451262963,
+                    2898218424,
+                    3722653512
+                ],
+                [
+                    711234314,
+                    3511092054,
+                    2889515627,
+                    3673922083
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    791862061
+                ],
+                [
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    788178929,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    1332244541
+                ],
+                [
+                    791862061
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    1609056795,
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    1047830412,
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    788178929,
+                    2679249093,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    1332244541,
+                    1047830412,
+                    1300023272
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    1609056795,
+                    2451262963,
+                    788178929,
+                    2679249093,
+                    711234314,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    788178929,
+                    2679249093,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    1609056795,
+                    2451262963,
+                    788178929,
+                    2679249093,
+                    711234314,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3592538738
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3592538738
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype. MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    3592538738
+                ],
+                [
+                    3523296417,
+                    124408337,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3230963543,
+                    1561002382,
+                    1087426260,
+                    679225683
+                ],
+                [
+                    3592538738,
+                    3400784728
+                ],
+                [
+                    3523296417,
+                    124408337,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1392496348,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    3592538738,
+                    2946784966
+                ],
+                [
+                    124408337,
+                    3523296417,
+                    2458213969,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype. MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    3592538738
+                ],
+                [
+                    3523296417,
+                    124408337,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "A Kinetic option which has Wellspring + Demo is a good pick for PvE, but on an underperforming archetype.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    3592538738,
+                    3400784728
+                ],
+                [
+                    3523296417,
+                    124408337,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MKC and Harmony can two tap in PvP but are resilience gated to 5 and 6 resilience respectively, which is less than optimal in the current high Resilience meta.",
+            "hash": 1856262127,
+            "name": "",
+            "plugs": [
+                [
+                    3592538738,
+                    2946784966
+                ],
+                [
+                    124408337,
+                    3523296417,
+                    2458213969,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1959650777,
+            "name": "",
+            "plugs": [
+                [
+                    3528046508,
+                    3300816228,
+                    406461158,
+                    3977735242,
+                    1906147653,
+                    3523296417,
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    3418165135,
+                    1546637391,
+                    344235611,
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3055790362,
+            "name": "",
+            "plugs": [
+                [
+                    3719974635,
+                    699525795,
+                    4116820839,
+                    957782887,
+                    2898218424,
+                    3722653512
+                ],
+                [
+                    509594246,
+                    2846385770,
+                    1370847713,
+                    47981717,
+                    1906147653,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 502356570,
+            "name": "",
+            "plugs": [
+                [
+                    2675361166,
+                    3592538738,
+                    2216471363,
+                    1683379515
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    288411554,
+                    3425386926,
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 502356570,
+            "name": "",
+            "plugs": [
+                [
+                    2717805783,
+                    588594999,
+                    3719974635,
+                    699525795
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    288411554,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The same argument as 1k stare arises here. Despite Qd+Snap being the classic option, Moving Target is more useful when sniping as Qd has been nerfed to only affect where you need handling least for a sniper, Draw Speed",
+            "hash": 3107853529,
+            "name": "",
+            "plugs": [
+                [
+                    4116820839,
+                    957782887,
+                    3974407819,
+                    2866798147,
+                    3920370755,
+                    280464955
+                ],
+                [
+                    2717805783,
+                    588594999,
+                    23371658,
+                    2551157718,
+                    1961144892,
+                    706527188
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2490988246,
+            "name": "",
+            "plugs": [
+                [
+                    2717805783,
+                    588594999,
+                    494941759,
+                    4071163871,
+                    2396422520,
+                    2039302152
+                ],
+                [
+                    1523649716,
+                    1890422124,
+                    3719974635,
+                    699525795
                 ]
             ],
             "tags": [
