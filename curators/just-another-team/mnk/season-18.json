@@ -1739,7 +1739,7 @@
             ]
         },
         {
-            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Solar Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
+            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Void Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
             "hash": 1911060537,
             "name": "",
             "plugs": [
@@ -1765,7 +1765,7 @@
             ]
         },
         {
-            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Solar Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
+            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Void Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
             "hash": 1911060537,
             "name": "",
             "plugs": [
@@ -1813,7 +1813,7 @@
             ]
         },
         {
-            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Solar Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
+            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Void Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
             "hash": 1911060537,
             "name": "",
             "plugs": [
@@ -1872,32 +1872,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Solar Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
-            "hash": 1911060537,
-            "name": "",
-            "plugs": [
-                [
-                    573122728,
-                    3400784728,
-                    3563868667,
-                    2284787283,
-                    2308090567,
-                    2869569095
-                ],
-                [
-                    395388285,
-                    1771339417,
-                    3007133316,
-                    4104185692,
-                    2402480669,
-                    2896038713
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -6107,6 +6081,501 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Taipan is a LFR with an exceptional perk pool and the best dps heavy weapon origin trait in the game. Triple Tap + Firing Line allows it to be used as an ammo efficient total damage machine, Clown Cartridge + Firing Line allows you to optimise dps while maintaining good innate total damage and Field Prep + Frenzy gives an excellent Nightfall heavy weapon for Void Singe’s. Veist Stinger is the cherry on top, occasionally giving full mag refills, and even more rarely meaning you never need to reload over the entirety of a raid boss damage phase.",
+            "hash": 1911060537,
+            "name": "",
+            "plugs": [
+                [
+                    573122728,
+                    3400784728,
+                    3563868667,
+                    2284787283,
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    395388285,
+                    1771339417,
+                    3007133316,
+                    4104185692,
+                    2402480669,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2603335652,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2603335652,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2603335652,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2603335652,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    3230963543,
+                    1561002382,
+                    1087426260
+                ],
+                [
+                    1820235745,
+                    1428297954
+                ],
+                [
+                    4104185692,
+                    2458213969,
+                    4293542123,
+                    2610012052,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2603335652,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    2846385770,
+                    1428297954,
+                    2946784966,
+                    2450788523
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2603335652,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2603335652,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    1428297954
+                ],
+                [
+                    4104185692,
+                    2458213969,
+                    4293542123,
+                    2610012052,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2603335652,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770,
+                    1428297954,
+                    2946784966,
+                    2450788523
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1280894514,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "A new contender for the best PvP Sniper in the energy slot. 45 Zoom with Snapshot + Opening Shot makes it spectacular and while the 72 rpm archetype may put off some people it’s still a very good archetype. Maxing out handling is probably preferred after the snapshot nerf, but the origin trait can go a good way to making the gun feel good if you like to hit wideflanks.",
+            "hash": 1280894514,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    957782887
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1280894514,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392
+                ],
+                [
+                    3400784728,
+                    3300816228,
+                    2284787283
+                ],
+                [
+                    1546637391,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A new contender for the best PvP Sniper in the energy slot. 45 Zoom with Snapshot + Opening Shot makes it spectacular and while the 72 rpm archetype may put off some people it’s still a very good archetype. Maxing out handling is probably preferred after the snapshot nerf, but the origin trait can go a good way to making the gun feel good if you like to hit wideflanks.",
+            "hash": 1280894514,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3230963543,
+                    3142289711,
+                    3177308360
+                ],
+                [
+                    957782887,
+                    1428297954,
+                    2866798147
+                ],
+                [
+                    47981717,
+                    588594999,
+                    1821614984
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1280894514,
+            "name": "",
+            "plugs": [
+                [
+                    3400784728,
+                    3300816228,
+                    2284787283
+                ],
+                [
+                    1546637391,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A new contender for the best PvP Sniper in the energy slot. 45 Zoom with Snapshot + Opening Shot makes it spectacular and while the 72 rpm archetype may put off some people it’s still a very good archetype. Maxing out handling is probably preferred after the snapshot nerf, but the origin trait can go a good way to making the gun feel good if you like to hit wideflanks.",
+            "hash": 1280894514,
+            "name": "",
+            "plugs": [
+                [
+                    957782887,
+                    1428297954,
+                    2866798147
+                ],
+                [
+                    47981717,
+                    588594999,
+                    1821614984
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2869466318,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    691659142
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2869466318,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2869466318,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3230963543,
+                    1561002382,
+                    1087426260
+                ],
+                [
+                    691659142,
+                    1820235745
+                ],
+                [
+                    1015611457,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2869466318,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    1359896290,
+                    1645158859,
+                    3161816588
+                ],
+                [
+                    1015611457,
+                    4082225868,
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2869466318,
+            "name": "",
+            "plugs": [
+                [
+                    691659142,
+                    1820235745
+                ],
+                [
+                    1015611457,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2869466318,
+            "name": "",
+            "plugs": [
+                [
+                    1359896290,
+                    1645158859,
+                    3161816588
+                ],
+                [
+                    1015611457,
+                    4082225868,
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]
