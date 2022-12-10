@@ -4669,6 +4669,52 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "A good chance for a solid free aggressive pulse ruined by a terrible barrel option, horrific recoil direction for a pulse and a mediocre 3rd column selection. As a 4 burst aggressive it’s a fixed roll option for an otherwise rare archetype but as soon as you get an alternative it’s probably better to swap over to that asap",
+            "hash": 2276328320,
+            "name": "",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2610012052,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "A good chance for a solid free aggressive pulse ruined by a terrible barrel option, horrific recoil direction for a pulse and a mediocre 3rd column selection. As a 4 burst aggressive it’s a fixed roll option for an otherwise rare archetype but as soon as you get an alternative it’s probably better to swap over to that asap",
+            "hash": 2276328320,
+            "name": "",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    2946784966
+                ],
+                [
+                    1015611457,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
