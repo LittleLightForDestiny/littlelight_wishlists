@@ -105,7 +105,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "The best PvE Slug returns in a brand new craftable form. The old classics remain the best for PvE.",
             "hash": 4248569242,
             "name": "",
             "plugs": [
@@ -116,10 +116,12 @@
                     791862061
                 ],
                 [
-                    1523832109
+                    1523832109,
+                    461595545
                 ],
                 [
-                    469285294
+                    469285294,
+                    3335686050
                 ]
             ],
             "tags": [
@@ -127,7 +129,7 @@
             ]
         },
         {
-            "description": "Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed).",
+            "description": "the absolute best in PvP has a lot more options now - some of which are at the same level as our best in slot suggestions",
             "hash": 4248569242,
             "name": "",
             "plugs": [
@@ -135,110 +137,15 @@
                     1840239774
                 ],
                 [
-                    791862061
-                ],
-                [
-                    3161816588
-                ],
-                [
-                    588594999,
-                    2450788523
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 4248569242,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    3250034553,
-                    4090651448
-                ],
-                [
-                    791862061
-                ],
-                [
-                    1523832109
-                ],
-                [
-                    469285294
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed).",
-            "hash": 4248569242,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    791862061
+                    3142289711
                 ],
                 [
                     3161816588,
-                    1523832109,
-                    3300816228
+                    191144788
                 ],
                 [
                     588594999,
-                    2450788523,
-                    469285294,
-                    957782887
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2990047042,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    106909392,
-                    2420895100
-                ],
-                [
-                    1523832109
-                ],
-                [
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2990047042,
-            "name": "",
-            "plugs": [
-                [
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    588594999
-                ],
-                [
-                    957782887
+                    2717805783
                 ]
             ],
             "tags": [
@@ -246,543 +153,55 @@
             ]
         },
         {
-            "description": "",
+            "description": "While most of the PvE roll for Succession has stayed the same, the final perk has diversified quite a bit from the first release. While Vorpal is still excellent for certain places (Cyclops’, etc), Focused Fury rises to the top for single target damage while solo, as it procs off only two shots despite having many more in the mag with Reconstruction.",
             "hash": 2990047042,
             "name": "",
             "plugs": [
                 [
-                    1840239774,
-                    3250034553,
-                    4090651448
+                    1840239774
                 ],
                 [
-                    106909392,
-                    2420895100
+                    106909392
                 ],
                 [
-                    1523832109
+                    1523832109,
+                    461595545
                 ],
                 [
                     1546637391,
-                    469285294
+                    2896038713,
+                    1771339417,
+                    395388285,
+                    3418165135,
+                    2402480669
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "",
+            "description": "In PvP we’ve lost Killing Wind, but No Distractions keeps this sniper as one of the best for PvP",
             "hash": 2990047042,
             "name": "",
             "plugs": [
                 [
-                    3250034553,
-                    1840239774
+                    1482024992
                 ],
                 [
-                    3142289711
+                    3177308360
                 ],
                 [
-                    588594999,
-                    2450788523
+                    3974407819,
+                    2866798147
                 ],
                 [
-                    957782887
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2990047042,
-            "name": "",
-            "plugs": [
-                [
-                    1523832109
-                ],
-                [
-                    1546637391,
-                    469285294
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2990047042,
-            "name": "",
-            "plugs": [
-                [
-                    588594999,
-                    2450788523
-                ],
-                [
-                    957782887
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "One For All is much better on primaries, but some may prefer Rampage due to the ease to proc.",
-            "hash": 3281285075,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    106909392
-                ],
-                [
-                    247725512
-                ],
-                [
-                    4049631843
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower.",
-            "hash": 3281285075,
-            "name": "",
-            "plugs": [
-                [
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    247725512
-                ],
-                [
-                    3425386926,
-                    47981717
+                    957782887,
+                    4116820839
                 ]
             ],
             "tags": [
                 "GodPVP"
-            ]
-        },
-        {
-            "description": "One For All is much better on primaries, but some may prefer Rampage due to the ease to proc.",
-            "hash": 3281285075,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    3250034553,
-                    4090651448
-                ],
-                [
-                    106909392,
-                    1087426260
-                ],
-                [
-                    247725512,
-                    1523832109,
-                    1354429876
-                ],
-                [
-                    4049631843,
-                    3425386926,
-                    3523296417
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower.",
-            "hash": 3281285075,
-            "name": "",
-            "plugs": [
-                [
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    247725512,
-                    2450788523
-                ],
-                [
-                    3425386926,
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    106909392
-                ],
-                [
-                    3436462433
-                ],
-                [
-                    3592538738
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    839105230
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    1645158859
-                ],
-                [
-                    2213355989
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    839105230,
-                    4090651448,
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    1645158859,
-                    3436462433,
-                    2450788523
-                ],
-                [
-                    2213355989,
-                    699525795,
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    4090651448,
-                    3250034553
-                ],
-                [
-                    106909392,
-                    1087426260
-                ],
-                [
-                    3436462433,
-                    1523832109
-                ],
-                [
-                    3592538738
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    839105230,
-                    4090651448,
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    3436462433,
-                    1523832109,
-                    1645158859,
-                    2450788523
-                ],
-                [
-                    47981717,
-                    699525795
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 4230965989,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    106909392
-                ],
-                [
-                    1523832109
-                ],
-                [
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 4230965989,
-            "name": "",
-            "plugs": [
-                [
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    1359896290
-                ],
-                [
-                    588594999
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 4230965989,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    3250034553,
-                    4090651448
-                ],
-                [
-                    106909392,
-                    1087426260
-                ],
-                [
-                    1523832109,
-                    3436462433,
-                    2779035018
-                ],
-                [
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 4230965989,
-            "name": "",
-            "plugs": [
-                [
-                    1523832109,
-                    3436462433,
-                    2779035018
-                ],
-                [
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 4230965989,
-            "name": "",
-            "plugs": [
-                [
-                    1359896290
-                ],
-                [
-                    588594999
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed).",
-            "hash": 4248569242,
-            "name": "",
-            "plugs": [
-                [
-                    1523832109
-                ],
-                [
-                    469285294
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "PVP"
-            ]
-        },
-        {
-            "description": "One For All is much better on primaries, but some may prefer Rampage due to the ease to proc. Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower.",
-            "hash": 3281285075,
-            "name": "",
-            "plugs": [
-                [
-                    247725512
-                ],
-                [
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "PVP"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    4090651448,
-                    3250034553
-                ],
-                [
-                    106909392,
-                    1087426260
-                ],
-                [
-                    3436462433
-                ],
-                [
-                    3592538738,
-                    2213355989
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    3436462433
-                ],
-                [
-                    2213355989
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "PVP"
-            ]
-        },
-        {
-            "description": "This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div. PvP: It really doesn’t matter.",
-            "hash": 3366545721,
-            "name": "",
-            "plugs": [
-                [
-                    3666208348
-                ],
-                [
-                    269888150
-                ],
-                [
-                    1749209109
-                ],
-                [
-                    1685431615
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div. PvP: It really doesn’t matter.",
-            "hash": 3366545721,
-            "name": "",
-            "plugs": [
-                [
-                    3666208348
-                ],
-                [
-                    269888150,
-                    52780822
-                ],
-                [
-                    1749209109,
-                    2726471870
-                ],
-                [
-                    1685431615,
-                    354401740
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -3906,80 +3325,6 @@
             ]
         },
         {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    1645158859,
-                    3436462433,
-                    2450788523
-                ],
-                [
-                    2213355989,
-                    699525795,
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    3436462433,
-                    1523832109
-                ],
-                [
-                    3592538738
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    3436462433,
-                    1523832109,
-                    1645158859,
-                    2450788523
-                ],
-                [
-                    47981717,
-                    699525795
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.",
-            "hash": 1392919471,
-            "name": "",
-            "plugs": [
-                [
-                    3436462433
-                ],
-                [
-                    3592538738,
-                    2213355989
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "",
             "hash": 1513993763,
             "name": "",
@@ -4189,62 +3534,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "One For All is much better on primaries, but some may prefer Rampage due to the ease to proc.",
-            "hash": 3281285075,
-            "name": "",
-            "plugs": [
-                [
-                    247725512,
-                    1523832109,
-                    1354429876
-                ],
-                [
-                    4049631843,
-                    3425386926,
-                    3523296417
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower.",
-            "hash": 3281285075,
-            "name": "",
-            "plugs": [
-                [
-                    247725512,
-                    2450788523
-                ],
-                [
-                    3425386926,
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div. PvP: It really doesn’t matter.",
-            "hash": 3366545721,
-            "name": "",
-            "plugs": [
-                [
-                    1749209109,
-                    2726471870
-                ],
-                [
-                    1685431615,
-                    354401740
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -4637,27 +3926,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed).",
-            "hash": 4248569242,
-            "name": "",
-            "plugs": [
-                [
-                    3161816588,
-                    1523832109,
-                    3300816228
-                ],
-                [
-                    588594999,
-                    2450788523,
-                    469285294,
-                    957782887
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -5143,6 +4411,943 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "The best PvE Slug returns in a brand new craftable form. The old classics remain the best for PvE.",
+            "hash": 4248569242,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    106909392,
+                    1087426260
+                ],
+                [
+                    461595545,
+                    1523832109,
+                    1906147653,
+                    3523296417,
+                    536173722,
+                    691659142
+                ],
+                [
+                    3335686050,
+                    469285294,
+                    2402480669,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "the absolute best in PvP has a lot more options now - some of which are at the same level as our best in slot suggestions",
+            "hash": 4248569242,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    791862061,
+                    3177308360
+                ],
+                [
+                    3161816588,
+                    3118144663,
+                    1866048759,
+                    494941759,
+                    4071163871,
+                    191144788
+                ],
+                [
+                    2717805783,
+                    588594999,
+                    3335686050,
+                    469285294,
+                    4207509907,
+                    2450788523,
+                    4116820839,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The best PvE Slug returns in a brand new craftable form. The old classics remain the best for PvE.",
+            "hash": 4248569242,
+            "name": "",
+            "plugs": [
+                [
+                    461595545,
+                    1523832109,
+                    1906147653,
+                    3523296417,
+                    536173722,
+                    691659142
+                ],
+                [
+                    3335686050,
+                    469285294,
+                    2402480669,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "the absolute best in PvP has a lot more options now - some of which are at the same level as our best in slot suggestions",
+            "hash": 4248569242,
+            "name": "",
+            "plugs": [
+                [
+                    3161816588,
+                    3118144663,
+                    1866048759,
+                    494941759,
+                    4071163871,
+                    191144788
+                ],
+                [
+                    2717805783,
+                    588594999,
+                    3335686050,
+                    469285294,
+                    4207509907,
+                    2450788523,
+                    4116820839,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "While most of the PvE roll for Succession has stayed the same, the final perk has diversified quite a bit from the first release. While Vorpal is still excellent for certain places (Cyclops’, etc), Focused Fury rises to the top for single target damage while solo, as it procs off only two shots despite having many more in the mag with Reconstruction.",
+            "hash": 2990047042,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    106909392,
+                    2420895100
+                ],
+                [
+                    1523832109,
+                    461595545,
+                    3442762221,
+                    1906147653,
+                    1556840489,
+                    3523296417
+                ],
+                [
+                    1546637391,
+                    2896038713,
+                    1771339417,
+                    395388285,
+                    3418165135,
+                    2402480669,
+                    3335686050,
+                    469285294
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "In PvP we’ve lost Killing Wind, but No Distractions keeps this sniper as one of the best for PvP",
+            "hash": 2990047042,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3177308360,
+                    3142289711
+                ],
+                [
+                    3974407819,
+                    2866798147,
+                    2450788523,
+                    2717805783,
+                    588594999
+                ],
+                [
+                    957782887,
+                    4116820839
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "While most of the PvE roll for Succession has stayed the same, the final perk has diversified quite a bit from the first release. While Vorpal is still excellent for certain places (Cyclops’, etc), Focused Fury rises to the top for single target damage while solo, as it procs off only two shots despite having many more in the mag with Reconstruction.",
+            "hash": 2990047042,
+            "name": "",
+            "plugs": [
+                [
+                    1523832109,
+                    461595545,
+                    3442762221,
+                    1906147653,
+                    1556840489,
+                    3523296417
+                ],
+                [
+                    1546637391,
+                    2896038713,
+                    1771339417,
+                    395388285,
+                    3418165135,
+                    2402480669,
+                    3335686050,
+                    469285294
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "In PvP we’ve lost Killing Wind, but No Distractions keeps this sniper as one of the best for PvP",
+            "hash": 2990047042,
+            "name": "",
+            "plugs": [
+                [
+                    3974407819,
+                    2866798147,
+                    2450788523,
+                    2717805783,
+                    588594999
+                ],
+                [
+                    957782887,
+                    4116820839
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "In PvE, the poor performance of the Precision hc is balanced with the excellent and unique perk pool. As the first weapon with Voltshot in the 3rd column, Posterity is worth getting for uniqueness alone - though the perks do elevate it into being usable despite the poor archetype. ",
+            "hash": 3281285075,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1720528630,
+                    2173046394
+                ],
+                [
+                    3007133316,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "In PvP this is just another Precision hc without an especially special damage perk to enable three taps, and no consistency perks. Better to look elsewhere for PvP",
+            "hash": 3281285075,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2938480696,
+                    247725512
+                ],
+                [
+                    288411554,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "In PvE, the poor performance of the Precision hc is balanced with the excellent and unique perk pool. As the first weapon with Voltshot in the 3rd column, Posterity is worth getting for uniqueness alone - though the perks do elevate it into being usable despite the poor archetype. ",
+            "hash": 3281285075,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    106909392,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    1720528630,
+                    2173046394,
+                    2938480696,
+                    247725512,
+                    2675361166,
+                    461595545,
+                    3592538738,
+                    1523832109
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    288411554,
+                    3425386926,
+                    536173722,
+                    3523296417,
+                    4049631843,
+                    691659142
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "In PvP this is just another Precision hc without an especially special damage perk to enable three taps, and no consistency perks. Better to look elsewhere for PvP",
+            "hash": 3281285075,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    2658083589,
+                    4207509907,
+                    3436462433,
+                    2450788523
+                ],
+                [
+                    288411554,
+                    3425386926,
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "In PvE, the poor performance of the Precision hc is balanced with the excellent and unique perk pool. As the first weapon with Voltshot in the 3rd column, Posterity is worth getting for uniqueness alone - though the perks do elevate it into being usable despite the poor archetype. In PvP this is just another Precision hc without an especially special damage perk to enable three taps, and no consistency perks. Better to look elsewhere for PvP",
+            "hash": 3281285075,
+            "name": "",
+            "plugs": [
+                [
+                    2938480696,
+                    247725512
+                ],
+                [
+                    288411554,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "In PvE, the poor performance of the Precision hc is balanced with the excellent and unique perk pool. As the first weapon with Voltshot in the 3rd column, Posterity is worth getting for uniqueness alone - though the perks do elevate it into being usable despite the poor archetype. ",
+            "hash": 3281285075,
+            "name": "",
+            "plugs": [
+                [
+                    1720528630,
+                    2173046394,
+                    2938480696,
+                    247725512,
+                    2675361166,
+                    461595545,
+                    3592538738,
+                    1523832109
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    288411554,
+                    3425386926,
+                    536173722,
+                    3523296417,
+                    4049631843,
+                    691659142
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "In PvP this is just another Precision hc without an especially special damage perk to enable three taps, and no consistency perks. Better to look elsewhere for PvP",
+            "hash": 3281285075,
+            "name": "",
+            "plugs": [
+                [
+                    2938480696,
+                    247725512,
+                    2658083589,
+                    4207509907,
+                    3436462433,
+                    2450788523
+                ],
+                [
+                    288411554,
+                    3425386926,
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Not half bad in PvE as a Incandescent rapid fire scout",
+            "hash": 1392919471,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2938480696,
+                    247725512
+                ],
+                [
+                    2675184851,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Trustee shines in PvP with damage perks like HIR or Focused Fury. Letting a rapid fire lower it’s ttk makes them very strong, and HIR gives a consistent method without needing a kill",
+            "hash": 1392919471,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2938480696,
+                    247725512
+                ],
+                [
+                    2002547233,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Not half bad in PvE as a Incandescent rapid fire scout",
+            "hash": 1392919471,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    106909392,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    2014892510,
+                    1428297954,
+                    2658083589,
+                    3436462433,
+                    536173722,
+                    691659142,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    2002547233,
+                    2213355989,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Trustee shines in PvP with damage perks like HIR or Focused Fury. Letting a rapid fire lower it’s ttk makes them very strong, and HIR gives a consistent method without needing a kill",
+            "hash": 1392919471,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    3177308360
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    2658083589,
+                    2014892510,
+                    3436462433,
+                    1428297954,
+                    3755250867,
+                    1645158859,
+                    4207509907,
+                    2450788523
+                ],
+                [
+                    2002547233,
+                    2213355989,
+                    1370847713,
+                    699525795,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Not half bad in PvE as a Incandescent rapid fire scout",
+            "hash": 1392919471,
+            "name": "",
+            "plugs": [
+                [
+                    2938480696,
+                    247725512,
+                    2014892510,
+                    1428297954,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2002547233,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Not half bad in PvE as a Incandescent rapid fire scout",
+            "hash": 1392919471,
+            "name": "",
+            "plugs": [
+                [
+                    2938480696,
+                    247725512,
+                    2014892510,
+                    1428297954,
+                    2658083589,
+                    3436462433,
+                    536173722,
+                    691659142,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    2002547233,
+                    2213355989,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Trustee shines in PvP with damage perks like HIR or Focused Fury. Letting a rapid fire lower it’s ttk makes them very strong, and HIR gives a consistent method without needing a kill",
+            "hash": 1392919471,
+            "name": "",
+            "plugs": [
+                [
+                    2938480696,
+                    247725512,
+                    2658083589,
+                    2014892510,
+                    3436462433,
+                    1428297954,
+                    3755250867,
+                    1645158859,
+                    4207509907,
+                    2450788523
+                ],
+                [
+                    2002547233,
+                    2213355989,
+                    1370847713,
+                    699525795,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Commemoration reclaims it’s spot as the best Void Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. ",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    169755979,
+                    2848615171,
+                    4245865861,
+                    1820235745,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    2896748467,
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "For PvP - Don’t Bother. No good consistency or damage perks makes this pointless for use there compared to other MGs",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    855168139,
+                    3108830275
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Commemoration reclaims it’s spot as the best Void Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. ",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    106909392,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    169755979,
+                    2848615171,
+                    4245865861,
+                    1820235745,
+                    461595545,
+                    1523832109,
+                    2658083589,
+                    3436462433,
+                    3431277734,
+                    1048183818
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    288411554,
+                    3425386926,
+                    2541826827,
+                    776531651,
+                    395388285,
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For PvP - Don’t Bother. No good consistency or damage perks makes this pointless for use there compared to other MGs",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    3177308360
+                ],
+                [
+                    2658083589,
+                    3436462433,
+                    169755979,
+                    2848615171,
+                    1359896290
+                ],
+                [
+                    855168139,
+                    3108830275,
+                    288411554,
+                    3425386926,
+                    588594999
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Commemoration reclaims it’s spot as the best Void Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. For PvP - Don’t Bother. No good consistency or damage perks makes this pointless for use there compared to other MGs",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    169755979,
+                    2848615171,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    288411554,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Commemoration reclaims it’s spot as the best Void Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. ",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    169755979,
+                    2848615171,
+                    4245865861,
+                    1820235745,
+                    461595545,
+                    1523832109,
+                    2658083589,
+                    3436462433,
+                    3431277734,
+                    1048183818
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    288411554,
+                    3425386926,
+                    2541826827,
+                    776531651,
+                    395388285,
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For PvP - Don’t Bother. No good consistency or damage perks makes this pointless for use there compared to other MGs",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    2658083589,
+                    3436462433,
+                    169755979,
+                    2848615171,
+                    1359896290
+                ],
+                [
+                    855168139,
+                    3108830275,
+                    288411554,
+                    3425386926,
+                    588594999
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Bequest now has a unique place as a craftable sword with Surrounded - one of the best damage perks on Swords in places where it can be proc’d. Otherwise it has Chain Reaction for sword add clear, and a number of other classic sword perks",
+            "hash": 3366545721,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    781192741,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bequest now has a unique place as a craftable sword with Surrounded - one of the best damage perks on Swords in places where it can be proc’d. Otherwise it has Chain Reaction for sword add clear, and a number of other classic sword perks",
+            "hash": 3366545721,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150,
+                    52780822
+                ],
+                [
+                    4085959009,
+                    1749209109,
+                    1172413778,
+                    2726471870,
+                    2675361166,
+                    3592538738,
+                    1646437399,
+                    3705817207
+                ],
+                [
+                    781192741,
+                    3708227201,
+                    598607952,
+                    2396489472,
+                    1906147653,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Bequest now has a unique place as a craftable sword with Surrounded - one of the best damage perks on Swords in places where it can be proc’d. Otherwise it has Chain Reaction for sword add clear, and a number of other classic sword perks",
+            "hash": 3366545721,
+            "name": "",
+            "plugs": [
+                [
+                    4085959009,
+                    1749209109,
+                    1172413778,
+                    2726471870,
+                    2675361166,
+                    3592538738,
+                    1646437399,
+                    3705817207
+                ],
+                [
+                    781192741,
+                    3708227201,
+                    598607952,
+                    2396489472,
+                    1906147653,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
