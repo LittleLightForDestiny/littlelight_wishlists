@@ -1,0 +1,22 @@
+{
+    "name": "virpyre",
+    "description": "virpyre's recommended wishlist for weapons of Season 19",
+    "bundles": [
+        {
+            "name": "virpyre's rolls (Mouse/Keyboard).",
+            "description": "virpyre's recommendations for weapons of Season 19. Recommended for Mouse and Keyboard.",
+            "output": "virpyre-mnk-season19.json",
+            "files": [
+                "curators/virpyre/mnk/Season19.json"
+            ]
+        },
+        {
+            "name": "virpyre's rolls (Controller).",
+            "description": "virpyre's recommendations for weapons of Season 19. Recommended for Controller.",
+            "output": "virpyre-controller-season19.json",
+            "files": [
+                "curators/virpyre/controller/Season19.json"
+            ]
+        }
+    ]
+}
