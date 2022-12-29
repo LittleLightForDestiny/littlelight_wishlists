@@ -4,7 +4,7 @@
     "bundles": [
         {
             "name": "virpyre's rolls (Mouse/Keyboard).",
-            "description": "virpyre's recommendations for all weapons through Season 17-19. Recommended for Mouse and Keyboard.",
+            "description": "virpyre's recommendations for all weapons through Season 16-19. Recommended for Mouse and Keyboard.",
             "output": "virpyre-mnk-seasons.json",
             "files": [
                 "curators/virpyre/mnk/Season16.json"
@@ -15,7 +15,7 @@
         },
         {
             "name": "virpyre's rolls (Controller).",
-            "description": "virpyre's recommendations for all weapons through Season 17-19. Recommended for Controller.",
+            "description": "virpyre's recommendations for all weapons through Season 16-19. Recommended for Controller.",
             "output": "virpyre-controller-seasons.json",
             "files": [
                 "curators/virpyre/controller/Season16.json"
