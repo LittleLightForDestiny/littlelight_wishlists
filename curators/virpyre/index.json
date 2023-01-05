@@ -7,9 +7,9 @@
             "description": "virpyre's recommendations for all weapons through Season 16-19. Recommended for Mouse and Keyboard.",
             "output": "virpyre-mnk-seasons.json",
             "files": [
-                "curators/virpyre/mnk/Season16.json"
-                "curators/virpyre/mnk/Season17.json"
-                "curators/virpyre/mnk/Season18.json"
+                "curators/virpyre/mnk/Season16.json",
+                "curators/virpyre/mnk/Season17.json",
+                "curators/virpyre/mnk/Season18.json",
                 "curators/virpyre/mnk/Season19.json"
             ]
         },
@@ -18,9 +18,9 @@
             "description": "virpyre's recommendations for all weapons through Season 16-19. Recommended for Controller.",
             "output": "virpyre-controller-seasons.json",
             "files": [
-                "curators/virpyre/controller/Season16.json"
-                "curators/virpyre/controller/Season17.json"
-                "curators/virpyre/controller/Season18.json"
+                "curators/virpyre/controller/Season16.json",
+                "curators/virpyre/controller/Season17.json",
+                "curators/virpyre/controller/Season18.json",
                 "curators/virpyre/controller/Season19.json"
                 
             ]
