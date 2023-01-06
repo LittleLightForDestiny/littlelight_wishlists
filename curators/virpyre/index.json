@@ -3,7 +3,7 @@
     "description": "virpyre's recommendations for all weapons.",
     "bundles": [
         {
-            "name": "virpyre's rolls (Mouse/Keyboard).",
+            "name": "virpyre's rolls (Mouse/Keyboard)",
             "description": "virpyre's recommendations for Season 15-19.",
             "output": "virpyre-mnk-seasons.json",
             "files": [
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "name": "virpyre's rolls (Controller).",
+            "name": "virpyre's rolls (Controller)",
             "description": "virpyre's recommendations for Season 15-19.",
             "output": "virpyre-controller-seasons.json",
             "files": [
