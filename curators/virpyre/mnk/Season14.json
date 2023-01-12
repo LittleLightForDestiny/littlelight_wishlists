@@ -1,5 +1,5 @@
 {
-    "description": "virpyre's recommendations for weapons of Season 14.",
+    "description": "virpyre's recommendations for weapons from Season of the Splicer (Season 14).",
     "name": "Season 14",
     "data": [
         {
@@ -3001,8 +3001,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "GodPVP"
+                "GodPVE"
             ]
         },
         {
@@ -4247,7 +4246,6 @@
                     3300816228
                 ],
                 [
-                    3425386926,
                     2213355989
                 ]
             ],
@@ -4358,6 +4356,30 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1644680957,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2969185026
+                ],
+                [
+                    1570042021,
+                    2779035018
+                ],
+                [
+                    2213355989,
+                    1427256713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ]
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "description": "virpyre's recommendations for weapons of Season 16.\n",
+    "description": "virpyre's recommendations for weapons of Witch Queen (Season 16).",
     "name": "Season 16",
     "data": [
         {
@@ -2603,17 +2603,20 @@
                     791862061
                 ],
                 [
-                    1428297954,
-                    509074078
+                    509074078,
+                    1428297954
                 ],
                 [
                     4082225868,
                     957782887
+                ],
+                [
+                    744217850,
+                    4091460919
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "GodPVP"
+                "GodPVE"
             ]
         },
         {
@@ -5443,6 +5446,33 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3216652511,
+            "name": "",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1428297954,
+                    509074078
+                ],
+                [
+                    957782887,
+                    4082225868
+                ],
+                [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ]
         }
     ]
