@@ -1,5 +1,5 @@
 {
-    "description": "virpyre's recommendations for weapons of Season 17. ",
+    "description": "virpyre's recommendations for weapons from Season of the Haunted (Season 17).",
     "name": "Season 17",
     "data": [
         {
@@ -3257,17 +3257,20 @@
                     1561002382
                 ],
                 [
-                    11612903,
-                    2997472817
+                    2997472817,
+                    11612903
                 ],
                 [
                     3523296417,
                     1048183818
+                ],
+                [
+                    744217850,
+                    4091460919
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "GodPVP"
+                "GodPVE"
             ]
         },
         {
@@ -3475,6 +3478,33 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3105930175,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    11612903,
+                    2997472817
+                ],
+                [
+                    3523296417,
+                    1048183818
+                ],
+                [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ]
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "description": "virpyre's recommendations for weapons of Season 15.",
+    "description": "virpyre's recommendations for weapons of the 30th Anniversery Pack & Season of the Lost (Season 15).",
     "name": "Season 15",
     "data": [
         {
@@ -3227,8 +3227,8 @@
                     3796465595
                 ],
                 [
-                    951095735,
-                    2010801679
+                    2010801679,
+                    951095735
                 ],
                 [
                     3194351027,
@@ -3236,8 +3236,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "GodPVP"
+                "GodPVE"
             ]
         },
         {
@@ -4161,6 +4160,30 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 725408022,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    951095735,
+                    2010801679
+                ],
+                [
+                    2396489472,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ]
         }
     ]
