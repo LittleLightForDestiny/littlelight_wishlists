@@ -129,7 +129,7 @@
             ]
         },
         {
-            "description": "the absolute best in PvP has a lot more options now - some of which are at the same level as our best in slot suggestions",
+            "description": "The absolute best in PvP has a lot more options now - some of which are at the same level as our best in slot suggestions. Heritage has a unique combo of Hip Fire Grip and Offhand Strike, turning it into a miniature Legendary Chaperone after a kill, with hipfire kills at 14 metres with Offhand proc’d",
             "hash": 4248569242,
             "name": "",
             "plugs": [
@@ -153,7 +153,7 @@
             ]
         },
         {
-            "description": "While most of the PvE roll for Succession has stayed the same, the final perk has diversified quite a bit from the first release. While Vorpal is still excellent for certain places (Cyclops’, etc), Focused Fury rises to the top for single target damage while solo, as it procs off only two shots despite having many more in the mag with Reconstruction.",
+            "description": "While most of the PvE roll for Succession has stayed the same, the final perk has diversified quite a bit from the first release. While Vorpal is still excellent for certain places (Cyclops’, etc), Focused Fury rises to the top for single target damage while solo, as it procs off only two shots despite having many more in the mag with Reconstruction and having Firing Line for dps in a team.",
             "hash": 2990047042,
             "name": "",
             "plugs": [
@@ -4448,7 +4448,7 @@
             ]
         },
         {
-            "description": "the absolute best in PvP has a lot more options now - some of which are at the same level as our best in slot suggestions",
+            "description": "The absolute best in PvP has a lot more options now - some of which are at the same level as our best in slot suggestions. Heritage has a unique combo of Hip Fire Grip and Offhand Strike, turning it into a miniature Legendary Chaperone after a kill, with hipfire kills at 14 metres with Offhand proc’d",
             "hash": 4248569242,
             "name": "",
             "plugs": [
@@ -4479,7 +4479,9 @@
                     4207509907,
                     2450788523,
                     4116820839,
-                    957782887
+                    957782887,
+                    3050799639,
+                    2416023159
                 ]
             ],
             "tags": [
@@ -4511,35 +4513,7 @@
             ]
         },
         {
-            "description": "the absolute best in PvP has a lot more options now - some of which are at the same level as our best in slot suggestions",
-            "hash": 4248569242,
-            "name": "",
-            "plugs": [
-                [
-                    3161816588,
-                    3118144663,
-                    1866048759,
-                    494941759,
-                    4071163871,
-                    191144788
-                ],
-                [
-                    2717805783,
-                    588594999,
-                    3335686050,
-                    469285294,
-                    4207509907,
-                    2450788523,
-                    4116820839,
-                    957782887
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "While most of the PvE roll for Succession has stayed the same, the final perk has diversified quite a bit from the first release. While Vorpal is still excellent for certain places (Cyclops’, etc), Focused Fury rises to the top for single target damage while solo, as it procs off only two shots despite having many more in the mag with Reconstruction.",
+            "description": "While most of the PvE roll for Succession has stayed the same, the final perk has diversified quite a bit from the first release. While Vorpal is still excellent for certain places (Cyclops’, etc), Focused Fury rises to the top for single target damage while solo, as it procs off only two shots despite having many more in the mag with Reconstruction and having Firing Line for dps in a team.",
             "hash": 2990047042,
             "name": "",
             "plugs": [
@@ -4607,7 +4581,7 @@
             ]
         },
         {
-            "description": "While most of the PvE roll for Succession has stayed the same, the final perk has diversified quite a bit from the first release. While Vorpal is still excellent for certain places (Cyclops’, etc), Focused Fury rises to the top for single target damage while solo, as it procs off only two shots despite having many more in the mag with Reconstruction.",
+            "description": "While most of the PvE roll for Succession has stayed the same, the final perk has diversified quite a bit from the first release. While Vorpal is still excellent for certain places (Cyclops’, etc), Focused Fury rises to the top for single target damage while solo, as it procs off only two shots despite having many more in the mag with Reconstruction and having Firing Line for dps in a team.",
             "hash": 2990047042,
             "name": "",
             "plugs": [
@@ -5059,7 +5033,7 @@
             ]
         },
         {
-            "description": "Commemoration reclaims it’s spot as the best Void Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. ",
+            "description": "Commemoration reclaims its spot as the best Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. Reconstruction especially can let you fire all the reserves without ever losing your Killing Tally stacks.",
             "hash": 4230965989,
             "name": "",
             "plugs": [
@@ -5111,7 +5085,7 @@
             ]
         },
         {
-            "description": "Commemoration reclaims it’s spot as the best Void Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. ",
+            "description": "Commemoration reclaims its spot as the best Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. Reconstruction especially can let you fire all the reserves without ever losing your Killing Tally stacks.",
             "hash": 4230965989,
             "name": "",
             "plugs": [
@@ -5167,83 +5141,6 @@
                     3142289711,
                     3177308360
                 ],
-                [
-                    2658083589,
-                    3436462433,
-                    169755979,
-                    2848615171,
-                    1359896290
-                ],
-                [
-                    855168139,
-                    3108830275,
-                    288411554,
-                    3425386926,
-                    588594999
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "Commemoration reclaims it’s spot as the best Void Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. For PvP - Don’t Bother. No good consistency or damage perks makes this pointless for use there compared to other MGs",
-            "hash": 4230965989,
-            "name": "",
-            "plugs": [
-                [
-                    169755979,
-                    2848615171,
-                    2658083589,
-                    3436462433
-                ],
-                [
-                    288411554,
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "PVP"
-            ]
-        },
-        {
-            "description": "Commemoration reclaims it’s spot as the best Void Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. ",
-            "hash": 4230965989,
-            "name": "",
-            "plugs": [
-                [
-                    169755979,
-                    2848615171,
-                    4245865861,
-                    1820235745,
-                    461595545,
-                    1523832109,
-                    2658083589,
-                    3436462433,
-                    3431277734,
-                    1048183818
-                ],
-                [
-                    2896748467,
-                    557221067,
-                    288411554,
-                    3425386926,
-                    2541826827,
-                    776531651,
-                    395388285,
-                    1771339417
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "For PvP - Don’t Bother. No good consistency or damage perks makes this pointless for use there compared to other MGs",
-            "hash": 4230965989,
-            "name": "",
-            "plugs": [
                 [
                     2658083589,
                     3436462433,
@@ -5348,6 +5245,113 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "The absolute best in PvP has a lot more options now - some of which are at the same level as our best in slot suggestions. Heritage has a unique combo of Hip Fire Grip and Offhand Strike, turning it into a miniature Legendary Chaperone after a kill, with hipfire kills at 14 metres with Offhand proc’d",
+            "hash": 4248569242,
+            "name": "",
+            "plugs": [
+                [
+                    3161816588,
+                    3118144663,
+                    1866048759,
+                    494941759,
+                    4071163871,
+                    191144788
+                ],
+                [
+                    2717805783,
+                    588594999,
+                    3335686050,
+                    469285294,
+                    4207509907,
+                    2450788523,
+                    4116820839,
+                    957782887,
+                    3050799639,
+                    2416023159
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Commemoration reclaims its spot as the best Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. Reconstruction especially can let you fire all the reserves without ever losing your Killing Tally stacks.",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    2658083589,
+                    3436462433,
+                    169755979,
+                    2848615171
+                ],
+                [
+                    288411554,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Commemoration reclaims its spot as the best Machine Gun in the game. The only Adaptive MG with Killing Tally and methods to get around manual reloading with Subsistence and Reconstruction makes this easily the best PvE Machine Gun. Reconstruction especially can let you fire all the reserves without ever losing your Killing Tally stacks.",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    169755979,
+                    2848615171,
+                    4245865861,
+                    1820235745,
+                    461595545,
+                    1523832109,
+                    2658083589,
+                    3436462433,
+                    3431277734,
+                    1048183818
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    288411554,
+                    3425386926,
+                    2541826827,
+                    776531651,
+                    395388285,
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For PvP - Don’t Bother. No good consistency or damage perks makes this pointless for use there compared to other MGs",
+            "hash": 4230965989,
+            "name": "",
+            "plugs": [
+                [
+                    2658083589,
+                    3436462433,
+                    169755979,
+                    2848615171,
+                    1359896290
+                ],
+                [
+                    855168139,
+                    3108830275,
+                    288411554,
+                    3425386926,
+                    588594999
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]

@@ -42,8 +42,8 @@
                     699525795
                 ],
                 [
-                    624891305,
-                    3047969693
+                    2923251173,
+                    1015611457
                 ]
             ],
             "tags": [
@@ -69,7 +69,9 @@
                     536173722,
                     691659142,
                     2938480696,
-                    247725512
+                    247725512,
+                    1168162263,
+                    1347741687
                 ],
                 [
                     3007133316,
@@ -149,36 +151,6 @@
             "tags": [
                 "PVE",
                 "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1751893422,
-            "name": "",
-            "plugs": [
-                [
-                    536173722,
-                    691659142,
-                    2938480696,
-                    247725512
-                ],
-                [
-                    3007133316,
-                    4104185692,
-                    624891305,
-                    3047969693,
-                    2923251173,
-                    1015611457,
-                    859780267,
-                    4049631843,
-                    1161469972,
-                    4082225868,
-                    1171887445,
-                    124408337
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -902,7 +874,9 @@
                     848860060,
                     1354429876,
                     2682205016,
-                    3643424744
+                    3643424744,
+                    2658083589,
+                    3436462433
                 ],
                 [
                     2002547233,
@@ -952,28 +926,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2302346155,
-            "name": "",
-            "plugs": [
-                [
-                    848860060,
-                    1354429876,
-                    2682205016,
-                    3643424744
-                ],
-                [
-                    2002547233,
-                    2213355989,
-                    2402480669,
-                    2896038713
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -1071,7 +1023,9 @@
                     494941759,
                     4071163871,
                     2014892510,
-                    1428297954
+                    1428297954,
+                    2840833776,
+                    3700496672
                 ],
                 [
                     1720528630,
@@ -1108,59 +1062,9 @@
                     494941759,
                     4071163871,
                     3060983774,
-                    1359896290
-                ],
-                [
-                    509594246,
-                    2846385770,
-                    1523649716,
-                    1890422124
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2149683300,
-            "name": "",
-            "plugs": [
-                [
-                    1171147302,
-                    2779035018,
-                    494941759,
-                    4071163871,
-                    2014892510,
-                    1428297954
-                ],
-                [
-                    1720528630,
-                    2173046394,
-                    3007133316,
-                    4104185692,
-                    536173722,
-                    691659142
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2149683300,
-            "name": "",
-            "plugs": [
-                [
-                    4207509907,
-                    2450788523,
-                    2014892510,
-                    1428297954,
-                    494941759,
-                    4071163871,
-                    3060983774,
-                    1359896290
+                    1359896290,
+                    2840833776,
+                    3700496672
                 ],
                 [
                     509594246,
@@ -1276,7 +1180,9 @@
                 ],
                 [
                     331667533,
-                    3751912585
+                    3751912585,
+                    1161469972,
+                    4082225868
                 ]
             ],
             "tags": [
@@ -1556,7 +1462,9 @@
                 ],
                 [
                     2308090567,
-                    2869569095
+                    2869569095,
+                    2658083589,
+                    3436462433
                 ],
                 [
                     3007133316,
@@ -1612,30 +1520,6 @@
             "name": "",
             "plugs": [
                 [
-                    2308090567,
-                    2869569095
-                ],
-                [
-                    3007133316,
-                    4104185692,
-                    2402480669,
-                    2896038713,
-                    2002547233,
-                    2213355989,
-                    3418165135,
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2272041093,
-            "name": "",
-            "plugs": [
-                [
                     2658083589,
                     3436462433,
                     1171887445,
@@ -1655,7 +1539,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "A surprising new perk - Target Lock - let Retrofit Escapade fight with some of the top options. Despite now no longer being a top option - now beaten handily by Linears - Retrofit with Target Lock is a weapon to keep an eye on if Machine Guns ever get buffed",
             "hash": 3103325054,
             "name": "",
             "plugs": [
@@ -1670,8 +1554,8 @@
                     2869569095
                 ],
                 [
-                    3007133316,
-                    4104185692
+                    2939589096,
+                    365154968
                 ]
             ],
             "tags": [
@@ -1703,7 +1587,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "A surprising new perk - Target Lock - let Retrofit Escapade fight with some of the top options. Despite now no longer being a top option - now beaten handily by Linears - Retrofit with Target Lock is a weapon to keep an eye on if Machine Guns ever get buffed",
             "hash": 3103325054,
             "name": "",
             "plugs": [
@@ -1770,34 +1654,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3103325054,
-            "name": "",
-            "plugs": [
-                [
-                    2308090567,
-                    2869569095,
-                    1409206216,
-                    1583705720
-                ],
-                [
-                    3007133316,
-                    4104185692,
-                    2939589096,
-                    365154968,
-                    859780267,
-                    4049631843,
-                    288411554,
-                    3425386926,
-                    4290541820,
-                    2610012052
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -2038,7 +1894,8 @@
                 [
                     247725512,
                     3436462433,
-                    1820235745
+                    1820235745,
+                    3700496672
                 ],
                 [
                     3038247973,
@@ -2094,26 +1951,6 @@
             "tags": [
                 "PVE",
                 "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 772231794,
-            "name": "",
-            "plugs": [
-                [
-                    247725512,
-                    3436462433,
-                    1820235745
-                ],
-                [
-                    3038247973,
-                    3824105627,
-                    4104185692
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -2195,7 +2032,8 @@
                 [
                     247725512,
                     3436462433,
-                    1820235745
+                    1820235745,
+                    3700496672
                 ],
                 [
                     3038247973,
@@ -2251,26 +2089,6 @@
             "tags": [
                 "PVE",
                 "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 4074251943,
-            "name": "",
-            "plugs": [
-                [
-                    247725512,
-                    3436462433,
-                    1820235745
-                ],
-                [
-                    3038247973,
-                    3824105627,
-                    4104185692
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -2597,7 +2415,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Despite generally being slightly worse than the other 72rpm energy sniper alternatives (Frozen Orbit, Mechabre, Occluded Finality, The Long Walk), Albruna does have one very specific niche. With Harmony and High Energy Fire you can oneshot body after getting a kill with another weapon - making it excellent in Gambit",
             "hash": 676270382,
             "name": "",
             "plugs": [
@@ -2649,7 +2467,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Despite generally being slightly worse than the other 72rpm energy sniper alternatives (Frozen Orbit, Mechabre, Occluded Finality, The Long Walk), Albruna does have one very specific niche. With Harmony and High Energy Fire you can oneshot body after getting a kill with another weapon - making it excellent in Gambit",
             "hash": 676270382,
             "name": "",
             "plugs": [
@@ -2674,7 +2492,8 @@
                     957782887,
                     47981717,
                     2213355989,
-                    1821614984
+                    1821614984,
+                    438098033
                 ]
             ],
             "tags": [
@@ -2698,29 +2517,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 676270382,
-            "name": "",
-            "plugs": [
-                [
-                    3511092054,
-                    588594999,
-                    2866798147,
-                    3436462433,
-                    1428297954
-                ],
-                [
-                    957782887,
-                    47981717,
-                    2213355989,
-                    1821614984
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -2955,7 +2751,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "With Hothead having been removed from the pool, Blowout is the best rocket launcher for new players. With access to Explosive Light and Field Prep, you have a solid dps rocket which can also get some unique dps options such as Demo + EL for Starfire Warlocks",
             "hash": 1903182562,
             "name": "",
             "plugs": [
@@ -2999,7 +2795,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "With Hothead having been removed from the pool, Blowout is the best rocket launcher for new players. With access to Explosive Light and Field Prep, you have a solid dps rocket which can also get some unique dps options such as Demo + EL for Starfire Warlocks",
             "hash": 1903182562,
             "name": "",
             "plugs": [
@@ -3049,27 +2845,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1903182562,
-            "name": "",
-            "plugs": [
-                [
-                    2869569095,
-                    951095735,
-                    3523296417
-                ],
-                [
-                    3194351027,
-                    1546637391,
-                    4104185692,
-                    3927722942
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -3391,7 +3166,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
             "hash": 3102421004,
             "name": "",
             "plugs": [
@@ -3442,7 +3217,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
             "hash": 3102421004,
             "name": "",
             "plugs": [
@@ -3489,26 +3264,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3102421004,
-            "name": "",
-            "plugs": [
-                [
-                    2846385770,
-                    2450788523,
-                    1821614984
-                ],
-                [
-                    699525795,
-                    1015611457,
-                    1195158366
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -3534,7 +3289,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
             "hash": 3920882229,
             "name": "",
             "plugs": [
@@ -3585,7 +3340,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
             "hash": 3920882229,
             "name": "",
             "plugs": [
@@ -3636,26 +3391,6 @@
         },
         {
             "description": "",
-            "hash": 3920882229,
-            "name": "",
-            "plugs": [
-                [
-                    2846385770,
-                    2450788523,
-                    1821614984
-                ],
-                [
-                    699525795,
-                    1015611457,
-                    1195158366
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
             "hash": 3624844116,
             "name": "",
             "plugs": [
@@ -3669,7 +3404,7 @@
                     1820235745
                 ],
                 [
-                    1771339417
+                    557221067
                 ]
             ],
             "tags": [
@@ -3812,7 +3547,7 @@
                     1820235745
                 ],
                 [
-                    1771339417
+                    557221067
                 ]
             ],
             "tags": [
@@ -3977,7 +3712,7 @@
                     1428297954
                 ],
                 [
-                    1015611457
+                    365154968
                 ]
             ],
             "tags": [
@@ -4222,63 +3957,8 @@
                 ],
                 [
                     3511092054,
-                    2610012052
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 963710795,
-            "name": "",
-            "plugs": [
-                [
-                    2039302152
-                ],
-                [
-                    2610012052
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "PVP"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 963710795,
-            "name": "",
-            "plugs": [
-                [
-                    1523832109,
-                    2039302152,
-                    1820235745
-                ],
-                [
-                    2978966579,
                     2610012052,
                     3523296417
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 963710795,
-            "name": "",
-            "plugs": [
-                [
-                    1866048759,
-                    2039302152,
-                    280464955
-                ],
-                [
-                    3511092054,
-                    2610012052
                 ]
             ],
             "tags": [
@@ -4403,7 +4083,6 @@
                 [
                     247725512,
                     1428297954,
-                    1866048759,
                     2946784966
                 ],
                 [
@@ -4452,27 +4131,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 1851521408,
-            "name": "",
-            "plugs": [
-                [
-                    247725512,
-                    1428297954,
-                    1866048759,
-                    2946784966
-                ],
-                [
-                    124408337,
-                    1365187766,
-                    957782887
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -4898,7 +4556,7 @@
             ]
         },
         {
-            "description": "The Legendary DMT appears. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
+            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
             "hash": 8293111,
             "name": "",
             "plugs": [
@@ -4943,7 +4601,7 @@
             ]
         },
         {
-            "description": "The Legendary DMT appears. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo. For PvP leaning into the Legendary DMT vibe is probably best, with Hipfire Grip to improve the hipfire and Explosive Payload or Opening Shot for consistency/flinch",
+            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo. For PvP leaning into the Legendary DMT vibe is probably best, with Hipfire Grip to improve the hipfire and Explosive Payload or Opening Shot for consistency/flinch",
             "hash": 8293111,
             "name": "",
             "plugs": [
@@ -4967,7 +4625,7 @@
             ]
         },
         {
-            "description": "The Legendary DMT appears. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
+            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
             "hash": 8293111,
             "name": "",
             "plugs": [
@@ -5028,63 +4686,6 @@
             ]
         },
         {
-            "description": "The Legendary DMT appears. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo. For PvP leaning into the Legendary DMT vibe is probably best, with Hipfire Grip to improve the hipfire and Explosive Payload or Opening Shot for consistency/flinch",
-            "hash": 8293111,
-            "name": "",
-            "plugs": [
-                [
-                    671806388
-                ],
-                [
-                    3038247973
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "PVP"
-            ]
-        },
-        {
-            "description": "The Legendary DMT appears. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
-            "hash": 8293111,
-            "name": "",
-            "plugs": [
-                [
-                    3592538738,
-                    671806388,
-                    1820235745
-                ],
-                [
-                    3038247973,
-                    2213355989,
-                    2848615171,
-                    11612903
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "leaning into the Legendary DMT vibe is probably best, with Hipfire Grip to improve the hipfire and Explosive Payload or Opening Shot for consistency/flinch",
-            "hash": 8293111,
-            "name": "",
-            "plugs": [
-                [
-                    1866048759,
-                    671806388,
-                    1645158859
-                ],
-                [
-                    3038247973,
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
             "hash": 4070357005,
             "name": "",
@@ -5121,110 +4722,11 @@
                     1359896290
                 ],
                 [
-                    3511092054
+                    365154968
                 ]
             ],
             "tags": [
                 "GodPVP"
-            ]
-        },
-        {
-            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
-            "hash": 4070357005,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774,
-                    4090651448,
-                    839105230
-                ],
-                [
-                    106909392,
-                    1140096971,
-                    1087426260,
-                    3230963543
-                ],
-                [
-                    691659142,
-                    1523832109,
-                    1354429876
-                ],
-                [
-                    4104185692,
-                    4082225868
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "PvP - don’t bother. Bad perks and bad frame leads to a bad time",
-            "hash": 4070357005,
-            "name": "",
-            "plugs": [
-                [
-                    1482024992,
-                    1840239774,
-                    4090651448,
-                    3250034553
-                ],
-                [
-                    1140096971,
-                    3177308360
-                ],
-                [
-                    1359896290,
-                    691659142,
-                    1866048759
-                ],
-                [
-                    3511092054,
-                    588594999,
-                    365154968
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
-            "hash": 4070357005,
-            "name": "",
-            "plugs": [
-                [
-                    691659142,
-                    1523832109,
-                    1354429876
-                ],
-                [
-                    4104185692,
-                    4082225868
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "PvP - don’t bother. Bad perks and bad frame leads to a bad time",
-            "hash": 4070357005,
-            "name": "",
-            "plugs": [
-                [
-                    1359896290,
-                    691659142,
-                    1866048759
-                ],
-                [
-                    3511092054,
-                    588594999,
-                    365154968
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -5475,7 +4977,8 @@
                     1890422124,
                     124408337,
                     691659142,
-                    1428297954
+                    1428297954,
+                    2946784966
                 ],
                 [
                     2846385770,
@@ -5523,27 +5026,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": " A monster PvP sidearm with tons of great combo’s. The first time Desperado has rolled on a Sidearm, but personally I think going full consistency with Tap the Trigger + Rangefinder is best. However don’t knock Headstone in PvP as rez denial and Stasis subclass combo",
-            "hash": 3138208275,
-            "name": "",
-            "plugs": [
-                [
-                    1890422124,
-                    124408337,
-                    691659142,
-                    1428297954
-                ],
-                [
-                    2846385770,
-                    3047969693,
-                    1015611457
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -6195,7 +5677,8 @@
                 [
                     4293542123,
                     1546637391,
-                    4082225868
+                    4082225868,
+                    365154968
                 ]
             ],
             "tags": [
@@ -6227,26 +5710,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "If you don’t have an old Avalanche with a nice scope, there’s not really much reason to use this gun. The new version with Incandescent has a niche, but it’s still not that interesting",
-            "hash": 495940989,
-            "name": "",
-            "plugs": [
-                [
-                    1820235745,
-                    3300816228,
-                    3436462433
-                ],
-                [
-                    4293542123,
-                    1546637391,
-                    4082225868
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -6325,6 +5788,775 @@
                 [
                     3650930298,
                     3913600130
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1751893422,
+            "name": "",
+            "plugs": [
+                [
+                    536173722,
+                    691659142,
+                    2938480696,
+                    247725512,
+                    1168162263,
+                    1347741687
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    624891305,
+                    3047969693,
+                    2923251173,
+                    1015611457,
+                    859780267,
+                    4049631843,
+                    1161469972,
+                    4082225868,
+                    1171887445,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2302346155,
+            "name": "",
+            "plugs": [
+                [
+                    848860060,
+                    1354429876,
+                    2682205016,
+                    3643424744,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2002547233,
+                    2213355989,
+                    2402480669,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2149683300,
+            "name": "",
+            "plugs": [
+                [
+                    1171147302,
+                    2779035018,
+                    494941759,
+                    4071163871,
+                    2014892510,
+                    1428297954,
+                    2840833776,
+                    3700496672
+                ],
+                [
+                    1720528630,
+                    2173046394,
+                    3007133316,
+                    4104185692,
+                    536173722,
+                    691659142
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2149683300,
+            "name": "",
+            "plugs": [
+                [
+                    4207509907,
+                    2450788523,
+                    2014892510,
+                    1428297954,
+                    494941759,
+                    4071163871,
+                    3060983774,
+                    1359896290,
+                    2840833776,
+                    3700496672
+                ],
+                [
+                    509594246,
+                    2846385770,
+                    1523649716,
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1168625549,
+            "name": "",
+            "plugs": [
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    331667533,
+                    3751912585,
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2272041093,
+            "name": "",
+            "plugs": [
+                [
+                    2308090567,
+                    2869569095,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    2402480669,
+                    2896038713,
+                    2002547233,
+                    2213355989,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A surprising new perk - Target Lock - let Retrofit Escapade fight with some of the top options. Despite now no longer being a top option - now beaten handily by Linears - Retrofit with Target Lock is a weapon to keep an eye on if Machine Guns ever get buffed",
+            "hash": 3103325054,
+            "name": "",
+            "plugs": [
+                [
+                    2308090567,
+                    2869569095,
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    2939589096,
+                    365154968,
+                    859780267,
+                    4049631843,
+                    288411554,
+                    3425386926,
+                    4290541820,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
+            "hash": 8293111,
+            "name": "",
+            "plugs": [
+                [
+                    671806388
+                ],
+                [
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
+            "hash": 8293111,
+            "name": "",
+            "plugs": [
+                [
+                    3592538738,
+                    671806388,
+                    1820235745
+                ],
+                [
+                    3038247973,
+                    2213355989,
+                    2848615171,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "leaning into the Legendary DMT vibe is probably best, with Hipfire Grip to improve the hipfire and Explosive Payload or Opening Shot for consistency/flinch",
+            "hash": 8293111,
+            "name": "",
+            "plugs": [
+                [
+                    1866048759,
+                    671806388,
+                    1645158859
+                ],
+                [
+                    3038247973,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it. PvP - don’t bother. Bad perks and bad frame leads to a bad time.",
+            "hash": 4070357005,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    1140096971
+                ],
+                [
+                    691659142
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
+            "hash": 4070357005,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    106909392,
+                    1140096971,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    691659142,
+                    1523832109,
+                    1354429876
+                ],
+                [
+                    4104185692,
+                    4082225868,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP - don’t bother. Bad perks and bad frame leads to a bad time",
+            "hash": 4070357005,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1140096971,
+                    3177308360
+                ],
+                [
+                    1359896290,
+                    691659142,
+                    1866048759
+                ],
+                [
+                    3511092054,
+                    588594999,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it. PvP - don’t bother. Bad perks and bad frame leads to a bad time.",
+            "hash": 4070357005,
+            "name": "",
+            "plugs": [
+                [
+                    691659142
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
+            "hash": 4070357005,
+            "name": "",
+            "plugs": [
+                [
+                    691659142,
+                    1523832109,
+                    1354429876
+                ],
+                [
+                    4104185692,
+                    4082225868,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP - don’t bother. Bad perks and bad frame leads to a bad time",
+            "hash": 4070357005,
+            "name": "",
+            "plugs": [
+                [
+                    1359896290,
+                    691659142,
+                    1866048759
+                ],
+                [
+                    3511092054,
+                    588594999,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": " A monster PvP sidearm with tons of great combo’s. The first time Desperado has rolled on a Sidearm, but personally I think going full consistency with Tap the Trigger + Rangefinder is best. However don’t knock Headstone in PvP as rez denial and Stasis subclass combo",
+            "hash": 3138208275,
+            "name": "",
+            "plugs": [
+                [
+                    1890422124,
+                    124408337,
+                    691659142,
+                    1428297954,
+                    2946784966
+                ],
+                [
+                    2846385770,
+                    3047969693,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 772231794,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    3436462433,
+                    1820235745,
+                    3700496672
+                ],
+                [
+                    3038247973,
+                    3824105627,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4074251943,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    3436462433,
+                    1820235745,
+                    3700496672
+                ],
+                [
+                    3038247973,
+                    3824105627,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Despite generally being slightly worse than the other 72rpm energy sniper alternatives (Frozen Orbit, Mechabre, Occluded Finality, The Long Walk), Albruna does have one very specific niche. With Harmony and High Energy Fire you can oneshot body after getting a kill with another weapon - making it excellent in Gambit",
+            "hash": 676270382,
+            "name": "",
+            "plugs": [
+                [
+                    3511092054,
+                    588594999,
+                    2866798147,
+                    3436462433,
+                    1428297954
+                ],
+                [
+                    957782887,
+                    47981717,
+                    2213355989,
+                    1821614984,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "With Hothead having been removed from the pool, Blowout is the best rocket launcher for new players. With access to Explosive Light and Field Prep, you have a solid dps rocket which can also get some unique dps options such as Demo + EL for Starfire Warlocks",
+            "hash": 1903182562,
+            "name": "",
+            "plugs": [
+                [
+                    2869569095,
+                    951095735,
+                    3523296417
+                ],
+                [
+                    3194351027,
+                    1546637391,
+                    4104185692,
+                    3927722942
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
+            "hash": 3102421004,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770,
+                    2450788523,
+                    1821614984
+                ],
+                [
+                    699525795,
+                    1015611457,
+                    1195158366
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
+            "hash": 3920882229,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770,
+                    2450788523,
+                    1821614984
+                ],
+                [
+                    699525795,
+                    1015611457,
+                    1195158366
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 963710795,
+            "name": "",
+            "plugs": [
+                [
+                    2039302152
+                ],
+                [
+                    2610012052,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 963710795,
+            "name": "",
+            "plugs": [
+                [
+                    1523832109,
+                    2039302152,
+                    1820235745
+                ],
+                [
+                    2978966579,
+                    2610012052,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 963710795,
+            "name": "",
+            "plugs": [
+                [
+                    1866048759,
+                    2039302152,
+                    280464955
+                ],
+                [
+                    3511092054,
+                    2610012052,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1851521408,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    1428297954,
+                    2946784966
+                ],
+                [
+                    124408337,
+                    1365187766,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "If you don’t have an old Avalanche with a nice scope, there’s not really much reason to use this gun. The new version with Incandescent has a niche, but it’s still not that interesting",
+            "hash": 495940989,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    3300816228,
+                    3436462433
+                ],
+                [
+                    4293542123,
+                    1546637391,
+                    4082225868,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Revision Zero is another extremely customisable exotic, with many choices for the perks. The biggest choices outside of stat perks is whether to go for the two shot Heavy Burst or the four shot Light Burst. In general this is another choice for the player - the two burst tends to be better in general but stacks the exotic perk much slower, while the four burst is slightly worse for general usage but stacks the exotic perk much faster.",
+            "hash": 1473821207,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    699525795
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    4152458172
+                ],
+                [
+                    1266037484
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Revision Zero is another extremely customisable exotic, with many choices for the perks. The biggest choices outside of stat perks is whether to go for the two shot Heavy Burst or the four shot Light Burst. In general this is another choice for the player - the two burst tends to be better in general but stacks the exotic perk much slower, while the four burst is slightly worse for AB shield breaking and general usage but stacks the exotic perk much faster. In reference to using Revision as a primary dps option - you need to stack up the perk before-hand and limit yourself from using an alternative DPS option or a kinetic special. As such, it’s much better to use Touch of Malice (if you have 3 or more people eventually planning to use it and can cycle the debuff), Hierarchy of Needs (if you have the needed distance) or Outbreak Perfected (if you’ve nothing else - as it’s a better primary dps weapon to swap to)",
+            "hash": 1473821207,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    4152458172
+                ],
+                [
+                    1266037486
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Revision Zero is another extremely customisable exotic, with many choices for the perks. The biggest choices outside of stat perks is whether to go for the two shot Heavy Burst or the four shot Light Burst. In general this is another choice for the player - the two burst tends to be better in general but stacks the exotic perk much slower, while the four burst is slightly worse for general usage but stacks the exotic perk much faster.",
+            "hash": 1473821207,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448,
+                    1482024992,
+                    1467527085,
+                    1392496348
+                ],
+                [
+                    1885400500,
+                    3230963543,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    699525795,
+                    588594999,
+                    3511092054,
+                    1428297954
+                ],
+                [
+                    1067908860,
+                    4259401308,
+                    990298390,
+                    3465198467
+                ],
+                [
+                    4152458172,
+                    2206869417
+                ],
+                [
+                    1266037484
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Revision Zero is another extremely customisable exotic, with many choices for the perks. The biggest choices outside of stat perks is whether to go for the two shot Heavy Burst or the four shot Light Burst. In general this is another choice for the player - the two burst tends to be better in general but stacks the exotic perk much slower, while the four burst is slightly worse for AB shield breaking and general usage but stacks the exotic perk much faster. In reference to using Revision as a primary dps option - you need to stack up the perk before-hand and limit yourself from using an alternative DPS option or a kinetic special. As such, it’s much better to use Touch of Malice (if you have 3 or more people eventually planning to use it and can cycle the debuff), Hierarchy of Needs (if you have the needed distance) or Outbreak Perfected (if you’ve nothing else - as it’s a better primary dps weapon to swap to)",
+            "hash": 1473821207,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3230963543,
+                    1561002382,
+                    1087426260,
+                    679225683
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    1067908860,
+                    4259401308,
+                    990298390,
+                    3465198467
+                ],
+                [
+                    4152458172,
+                    2206869417
+                ],
+                [
+                    1266037486
                 ]
             ],
             "tags": [
