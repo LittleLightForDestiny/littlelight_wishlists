@@ -386,7 +386,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Reload on Master.",
             "hash": 1751893422,
             "name": "",
             "plugs": [
@@ -397,12 +397,12 @@
                     106909392
                 ],
                 [
-                    1168162263,
-                    1347741687
+                    247725512,
+                    2938480696
                 ],
                 [
-                    124408337,
-                    1171887445
+                    3047969693,
+                    624891305
                 ]
             ],
             "tags": [
@@ -410,21 +410,21 @@
             ]
         },
         {
-            "description": "",
+            "description": "Handling on Master",
             "hash": 1851521408,
             "name": "",
             "plugs": [
                 [
-                    839105230
+                    1840239774
                 ],
                 [
-                    2420895100
+                    3230963543
                 ],
                 [
-                    247725512
+                    1354429876
                 ],
                 [
-                    124408337
+                    2610012052
                 ]
             ],
             "tags": [
@@ -478,7 +478,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Tunnel Vision grants the following for 6 seconds after a Reload from a kill for 5 seconds: +20 AIM Assist, -20% Accuracy Cone Size, ADS Handling x 2.\n\nRepulsor Brace grants 45HP Overshield on Void-debuffed kill.\n\nHandling on Master.",
             "hash": 2566006935,
             "name": "",
             "plugs": [
@@ -486,7 +486,7 @@
                     4090651448
                 ],
                 [
-                    2420895100
+                    3230963543
                 ],
                 [
                     2946784966
@@ -2034,13 +2034,17 @@
                 ],
                 [
                     691659142,
-                    536173722
+                    536173722,
+                    1168162263,
+                    1347741687
                 ],
                 [
                     4049631843,
                     859780267,
                     4104185692,
-                    3007133316
+                    3007133316,
+                    124408337,
+                    1171887445
                 ]
             ],
             "tags": [
@@ -2048,7 +2052,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Range on Master.",
             "hash": 1751893422,
             "name": "",
             "plugs": [
@@ -2093,13 +2097,17 @@
                     699525795,
                     3719974635,
                     588594999,
-                    2717805783
+                    2717805783,
+                    1168162263,
+                    1347741687
                 ],
                 [
                     460017080,
                     4045335048,
                     1015611457,
-                    2923251173
+                    2923251173,
+                    124408337,
+                    1171887445
                 ]
             ],
             "tags": [
@@ -2107,29 +2115,28 @@
             ]
         },
         {
-            "description": "",
+            "description": "It should be noted that the proc chance on Veist Stinger has different ranges auto rifle/smg/scout rifle has a 2% chance to proc, sidearm has a 4% chance to proc, and bow/lfr has a 10% chance to proc.\n\nCurrently, Kill Clip is bugged and doesn't Activate on Kill.",
             "hash": 1851521408,
             "name": "",
             "plugs": [
                 [
                     4090651448,
-                    1840239774,
                     3661387068,
-                    1392496348,
-                    1482024992
+                    839105230
                 ],
                 [
                     1087426260,
                     679225683,
                     3230963543,
-                    1968497646
+                    2420895100
                 ],
                 [
-                    1354429876
+                    247725512
                 ],
                 [
                     2896038713,
-                    2610012052
+                    1015611457,
+                    124408337
                 ]
             ],
             "tags": [
@@ -2137,21 +2144,21 @@
             ]
         },
         {
-            "description": "",
+            "description": "Stability or Range on Master",
             "hash": 1851521408,
             "name": "",
             "plugs": [
                 [
-                    839105230
+                    1482024992
                 ],
                 [
                     1885400500
                 ],
                 [
-                    247725512
+                    1428297954
                 ],
                 [
-                    1015611457
+                    957782887
                 ]
             ],
             "tags": [
@@ -2159,31 +2166,27 @@
             ]
         },
         {
-            "description": "",
+            "description": "It should be noted that the proc chance on Veist Stinger has different ranges auto rifle/smg/scout rifle has a 2% chance to proc, sidearm has a 4% chance to proc, and bow/lfr has a 10% chance to proc.\n\nCurrently, Kill Clip is bugged and doesn't Activate on Kill.",
             "hash": 1851521408,
             "name": "",
             "plugs": [
                 [
-                    1467527085,
-                    1482024992,
                     3661387068,
-                    1840239774,
-                    1392496348,
-                    3250034553
+                    3250034553,
+                    839105230,
+                    1467527085
                 ],
                 [
                     1968497646,
-                    1561002382,
-                    679225683,
-                    3230963543
+                    1561002382
                 ],
                 [
                     2946784966,
-                    1428297954
+                    247725512
                 ],
                 [
-                    957782887,
-                    1365187766
+                    1015611457,
+                    124408337
                 ]
             ],
             "tags": [
@@ -2786,17 +2789,16 @@
                 [
                     1087426260,
                     679225683,
-                    1968497646,
-                    3230963543
+                    2420895100
                 ],
                 [
                     691659142,
-                    2387244414,
                     4071163871
                 ],
                 [
                     4082225868,
-                    2610012052
+                    2610012052,
+                    1015611457
                 ]
             ],
             "tags": [
@@ -2804,7 +2806,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Killing Wind grants the following for 5 seconds, and is refreshed to 5 seconds after each kill to a max of 8 seconds: +20 Range, 50 Mobility, 40 Handling, +30% reduced ADS movement penalty, +5% increased damage falloff.\n\nRepulsor Brace grants 45HP Overshield on Void-debuffed kill.\n\nRange on Master.",
             "hash": 2566006935,
             "name": "",
             "plugs": [
@@ -2818,7 +2820,7 @@
                     2450788523
                 ],
                 [
-                    1015611457
+                    776531651
                 ]
             ],
             "tags": [
@@ -2826,7 +2828,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Armor Piercing boosts damage by 5%, Range +5, and penetrates the target shield.",
             "hash": 2566006935,
             "name": "",
             "plugs": [
@@ -2840,20 +2842,17 @@
                 [
                     1561002382,
                     1431678320,
-                    679225683,
-                    3230963543,
                     1968497646
                 ],
                 [
-                    2387244414,
-                    1866048759,
                     691659142,
-                    4071163871
+                    4071163871,
+                    2387244414
                 ],
                 [
-                    588594999,
                     4082225868,
-                    2416023159
+                    1015611457,
+                    588594999
                 ]
             ],
             "tags": [
@@ -4168,13 +4167,13 @@
                     1840239774
                 ],
                 [
-                    3230963543
+                    1968497646
                 ],
                 [
                     1546637391
                 ],
                 [
-                    1067908860
+                    3465198467
                 ],
                 [
                     1266037486
@@ -4190,7 +4189,6 @@
             "name": "",
             "plugs": [
                 [
-                    4090651448,
                     3661387068,
                     1392496348,
                     839105230,
@@ -4198,10 +4196,9 @@
                 ],
                 [
                     1087426260,
-                    1968497646,
                     2420895100,
                     1561002382,
-                    679225683
+                    3230963543
                 ],
                 [
                     1428297954,
@@ -4209,7 +4206,7 @@
                 ],
                 [
                     990298390,
-                    3465198467
+                    1067908860
                 ],
                 [
                     1266037485
@@ -4225,16 +4222,16 @@
             "name": "",
             "plugs": [
                 [
-                    1840239774
+                    4090651448
                 ],
                 [
-                    3230963543
+                    1885400500
                 ],
                 [
                     588594999
                 ],
                 [
-                    4259401308
+                    3465198467
                 ],
                 [
                     1266037487
@@ -4250,20 +4247,15 @@
             "name": "",
             "plugs": [
                 [
-                    4090651448,
                     1467527085,
                     3661387068,
                     1482024992,
-                    1392496348,
-                    3250034553,
-                    839105230
+                    3250034553
                 ],
                 [
                     1431678320,
                     679225683,
-                    1968497646,
-                    1561002382,
-                    1885400500
+                    1561002382
                 ],
                 [
                     699525795,
@@ -4271,8 +4263,8 @@
                     1428297954
                 ],
                 [
-                    990298390,
-                    3465198467
+                    4259401308,
+                    1067908860
                 ],
                 [
                     1266037484
