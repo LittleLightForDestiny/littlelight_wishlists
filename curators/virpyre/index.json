@@ -4,7 +4,7 @@
     "bundles": [
         {
             "name": "virpyre's rolls (Mouse/Keyboard).",
-            "description": "virpyre's recommendations through Season 8-19.",
+            "description": "virpyre's recommendations through Season 8-20.",
             "output": "virpyre-mnk-seasons.json",
             "files": [
                 "curators/virpyre/mnk/Season8.json",
@@ -18,11 +18,12 @@
                 "curators/virpyre/mnk/Season17.json",
                 "curators/virpyre/mnk/Season18.json",
                 "curators/virpyre/mnk/Season19.json"
+                "curators/virpyre/mnk/Season20.json"
             ]
         },
         {
             "name": "virpyre's rolls (Controller).",
-            "description": "virpyre's recommendations through Season 8-19.",
+            "description": "virpyre's recommendations through Season 8-20.",
             "output": "virpyre-controller-seasons.json",
             "files": [
                 "curators/virpyre/controller/Season8.json",
@@ -36,6 +37,7 @@
                 "curators/virpyre/controller/Season17.json",
                 "curators/virpyre/controller/Season18.json",
                 "curators/virpyre/controller/Season19.json"
+                "curators/virpyre/controller/Season20.json"
             ]
         }
     ]
