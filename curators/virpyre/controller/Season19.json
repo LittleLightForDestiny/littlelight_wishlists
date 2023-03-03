@@ -1,5 +1,5 @@
 {
-    "description": "virpyre's recommendations for weapons from Season of the Seraph (Season 19).",
+    "description": "virpyre's recommendations for weapons from Season of the Seraph.",
     "name": "Season 19",
     "data": [
         {
@@ -606,7 +606,7 @@
                     1820235745
                 ],
                 [
-                    124408337
+                    4104185692
                 ]
             ],
             "tags": [
@@ -2704,7 +2704,8 @@
                 [
                     3708227201,
                     2458213969,
-                    4104185692
+                    124408337,
+                    365154968
                 ]
             ],
             "tags": [
