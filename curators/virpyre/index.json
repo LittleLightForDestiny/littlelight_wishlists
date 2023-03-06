@@ -1,10 +1,10 @@
 {
     "name": "virpyre",
-    "description": "virpyre's recommendations for all weapons.",
+    "description": "virpyre's roll recommendations for all weapons.",
     "bundles": [
         {
             "name": "virpyre's rolls (Mouse/Keyboard).",
-            "description": "virpyre's recommendations through Season 8-20.",
+            "description": "virpyre's recommendations through Seasons 8-20.",
             "output": "virpyre-mnk-seasons.json",
             "files": [
                 "curators/virpyre/mnk/Season8.json",
@@ -23,7 +23,7 @@
         },
         {
             "name": "virpyre's rolls (Controller).",
-            "description": "virpyre's recommendations through Season 8-20.",
+            "description": "virpyre's recommendations through Seasons 8-20.",
             "output": "virpyre-controller-seasons.json",
             "files": [
                 "curators/virpyre/controller/Season8.json",
