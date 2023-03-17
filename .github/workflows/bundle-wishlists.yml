@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-
+    if: github.triggering_actor != 'LittleLightBot'
     runs-on: ubuntu-latest
 
     steps:
