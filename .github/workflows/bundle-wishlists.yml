@@ -15,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        token: ${{ secrets.BOT_PAT }}
+        token: ${{ GITHUB_TOKEN }}
     - name: Create wishlist bundles
       uses: actions/setup-node@v2
       with:
