@@ -5,6 +5,10 @@ name: Clean jsdelivr.net cache
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: [Bundle Wishlists]
+    types:
+      - completed
 
 jobs:
   build:
