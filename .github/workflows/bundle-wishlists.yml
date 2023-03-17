@@ -9,13 +9,13 @@ on:
 
 jobs:
   build:
-
+    if: github.triggering_actor != 'LittleLightBot'
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
       with:
-        token: ${{ GITHUB_TOKEN }}
+        token: ${{ secrets.BOT_PAT }}
     - name: Create wishlist bundles
       uses: actions/setup-node@v2
       with:
