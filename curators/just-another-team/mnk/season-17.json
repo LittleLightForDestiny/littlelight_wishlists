@@ -4162,7 +4162,7 @@
             ]
         },
         {
-            "description": "Another Void 750, but this blows The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability with relatively consistent 45hp Void Overshields",
+            "description": "Another Void 750, but this blows The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this). Don’t knock Repulsor Brace for a full Void build to assist survivability with relatively consistent 45hp Void Overshields",
             "hash": 3000847393,
             "name": "",
             "plugs": [
@@ -4206,7 +4206,7 @@
             ]
         },
         {
-            "description": "Another Void 750, but this blows The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability with relatively consistent 45hp Void Overshields",
+            "description": "Another Void 750, but this blows The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this). Don’t knock Repulsor Brace for a full Void build to assist survivability with relatively consistent 45hp Void Overshields",
             "hash": 3000847393,
             "name": "",
             "plugs": [
@@ -4265,27 +4265,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "Another Void 750, but this blows The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this) Rampage for a classic. Don’t knock Repulsor Brace for a full Void build to assist survivability with relatively consistent 45hp Void Overshields",
-            "hash": 3000847393,
-            "name": "",
-            "plugs": [
-                [
-                    3523296417,
-                    2779035018
-                ],
-                [
-                    4104185692,
-                    3425386926,
-                    2610012052,
-                    11612903,
-                    776531651
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -5475,6 +5454,27 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "Another Void 750, but this blows The Title out of the water with its wide selection of perks. 3rd column Best In Slot is easily Demo, but this can be paired well with practically any final column damage perk. Frenzy for a consistent damage increase, Golden Tricorn for the largest damage increase after fully proccing the perk (Demo helps grenade uptime just for this). Don’t knock Repulsor Brace for a full Void build to assist survivability with relatively consistent 45hp Void Overshields",
+            "hash": 3000847393,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417,
+                    2779035018
+                ],
+                [
+                    4104185692,
+                    3425386926,
+                    2610012052,
+                    11612903,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
