@@ -9283,6 +9283,166 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "A kinetic Drang equivalent, without the inbuilt zoom increase which makes Drag so dominant. Still able to reach 19m with full range investment, although it might be more worthwhile to go for less range investment and other consistency and/or damage perks.",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    591790007
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "A kinetic Drang equivalent, without the inbuilt zoom increase which makes Drag so dominant. Still able to reach 19m with full range investment, although it might be more worthwhile to go for less range investment and other consistency and/or damage perks.",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    1820235745,
+                    247725512
+                ],
+                [
+                    4104185692,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A kinetic Drang equivalent, without the inbuilt zoom increase which makes Drag so dominant. Still able to reach 19m with full range investment, although it might be more worthwhile to go for less range investment and other consistency and/or damage perks.",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1968497646,
+                    1561002382
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    591790007,
+                    699525795,
+                    2458213969,
+                    1365187766
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    247725512
+                ],
+                [
+                    4104185692,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A kinetic Drang equivalent, without the inbuilt zoom increase which makes Drag so dominant. Still able to reach 19m with full range investment, although it might be more worthwhile to go for less range investment and other consistency and/or damage perks.",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770
+                ],
+                [
+                    591790007,
+                    699525795,
+                    2458213969,
+                    1365187766
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
