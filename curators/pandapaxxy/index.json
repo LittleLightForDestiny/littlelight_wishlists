@@ -4,7 +4,7 @@
     "bundles": [
         {
             "name": "Pandapaxxy's controller rolls",
-            "description": "Pandapaxxy's recommendations for all weapons through seasons 4-19. Recommended for Controller.",
+            "description": "Pandapaxxy's recommendations for all weapons through seasons 4-20. Recommended for Controller.",
             "output": "pandapaxxy-controller.json",
             "files": [
                 "curators/pandapaxxy/controller/season-01.json",
@@ -23,12 +23,13 @@
                 "curators/pandapaxxy/controller/season-16.json",
                 "curators/pandapaxxy/controller/season-17.json",
                 "curators/pandapaxxy/controller/season-18.json",
-                "curators/pandapaxxy/controller/season-19.json"
+                "curators/pandapaxxy/controller/season-19.json",
+                "curators/pandapaxxy/controller/season-20.json"
             ]
         },
         {
             "name": "Pandapaxxy's MnK rolls",
-            "description": "Pandapaxxy's recommendations for all weapons through seasons 4-19. Recommended for Mouse and Keyboard.",
+            "description": "Pandapaxxy's recommendations for all weapons through seasons 4-20. Recommended for Mouse and Keyboard.",
             "output": "pandapaxxy-mnk.json",
             "files": [
                 "curators/pandapaxxy/mnk/season-01.json",
@@ -47,7 +48,8 @@
                 "curators/pandapaxxy/mnk/season-16.json",
                 "curators/pandapaxxy/mnk/season-17.json",
                 "curators/pandapaxxy/mnk/season-18.json",
-                "curators/pandapaxxy/mnk/season-19.json"
+                "curators/pandapaxxy/mnk/season-19.json",
+                "curators/pandapaxxy/mnk/season-20.json"
             ]
         }
     ]
