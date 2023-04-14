@@ -193,7 +193,8 @@
                     1840239774
                 ],
                 [
-                    106909392
+                    106909392,
+                    3230963543
                 ],
                 [
                     1820235745
@@ -240,8 +241,8 @@
                 ],
                 [
                     106909392,
-                    1087426260,
-                    3230963543
+                    3230963543,
+                    1087426260
                 ],
                 [
                     1820235745,
@@ -269,10 +270,18 @@
                     1482024992
                 ],
                 [
-                    11551321
+                    1885400500,
+                    1561002382,
+                    1968497646
                 ],
                 [
-                    2846385770
+                    11551321,
+                    1359896290
+                ],
+                [
+                    2846385770,
+                    2610012052,
+                    1365187766
                 ]
             ],
             "tags": [
@@ -1317,16 +1326,17 @@
             "name": "",
             "plugs": [
                 [
-                    839105230
+                    1840239774
                 ],
                 [
-                    1687452232
+                    2680121939
                 ],
                 [
-                    3619207468
+                    509074078
                 ],
                 [
-                    2652708987
+                    2652708987,
+                    2173046394
                 ]
             ],
             "tags": [
@@ -2737,28 +2747,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 906840740,
-            "name": "",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    106909392
-                ],
-                [
-                    1820235745
-                ],
-                [
-                    557221067
-                ]
-            ],
-            "tags": [
-                "GodPVE"
             ]
         },
         {
@@ -7541,6 +7529,2652 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "For the S17 rolls, Under Pressure + Iron Grip works excellently as a workhorse, with the S20 roll unfortunately only being able to get one of the stability improving perks with Iron Grip + HIR. However S20 Wizened Rebukes have access to the exceptional perk combination of Offhand Strike + Successful Warm-Up, turning this Fusion into a excellent kill chaining weapon",
+            "hash": 2290416,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3868766766
+                ],
+                [
+                    1645158859,
+                    11551321,
+                    2416023159
+                ],
+                [
+                    2652708987,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2290416,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    2680121939,
+                    1687452232
+                ],
+                [
+                    509074078
+                ],
+                [
+                    2652708987,
+                    2173046394,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For the S17 rolls, Under Pressure + Iron Grip works excellently as a workhorse, with the S20 roll unfortunately only being able to get one of the stability improving perks with Iron Grip + HIR. However S20 Wizened Rebukes have access to the exceptional perk combination of Offhand Strike + Successful Warm-Up, turning this Fusion into a excellent kill chaining weapon",
+            "hash": 2290416,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1392496348
+                ],
+                [
+                    3868766766,
+                    2969185026
+                ],
+                [
+                    1645158859,
+                    11551321,
+                    2416023159
+                ],
+                [
+                    2652708987,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2290416,
+            "name": "",
+            "plugs": [
+                [
+                    509074078
+                ],
+                [
+                    2652708987,
+                    2173046394,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For the S17 rolls, Under Pressure + Iron Grip works excellently as a workhorse, with the S20 roll unfortunately only being able to get one of the stability improving perks with Iron Grip + HIR. However S20 Wizened Rebukes have access to the exceptional perk combination of Offhand Strike + Successful Warm-Up, turning this Fusion into a excellent kill chaining weapon",
+            "hash": 2290416,
+            "name": "",
+            "plugs": [
+                [
+                    1645158859,
+                    11551321,
+                    2416023159
+                ],
+                [
+                    2652708987,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2573900604,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2573900604,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2573900604,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    106909392,
+                    1087426260
+                ],
+                [
+                    1556840489,
+                    1428297954,
+                    1631667848,
+                    968510818
+                ],
+                [
+                    2360754333,
+                    2048641572,
+                    691659142,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2573900604,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    1332244541,
+                    1047830412
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1428297954,
+                    744594675
+                ],
+                [
+                    47981717,
+                    3673922083
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2573900604,
+            "name": "",
+            "plugs": [
+                [
+                    1556840489,
+                    1428297954,
+                    1631667848,
+                    968510818
+                ],
+                [
+                    2360754333,
+                    2048641572,
+                    691659142,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2573900604,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954,
+                    744594675
+                ],
+                [
+                    47981717,
+                    3673922083
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3635821806,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3198323828,
+                    3619207468
+                ],
+                [
+                    3007133316,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3635821806,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    987673306,
+                    2946784966
+                ],
+                [
+                    4045335048,
+                    460017080
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3635821806,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    3198323828,
+                    3619207468,
+                    595108252,
+                    671806388
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    2923251173,
+                    1015611457,
+                    1720528630,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3635821806,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    987673306,
+                    2946784966,
+                    3198323828,
+                    3619207468
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    2923251173,
+                    1015611457,
+                    711234314,
+                    3511092054,
+                    4200236906,
+                    1365187766
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3635821806,
+            "name": "",
+            "plugs": [
+                [
+                    3198323828,
+                    3619207468
+                ],
+                [
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3635821806,
+            "name": "",
+            "plugs": [
+                [
+                    3198323828,
+                    3619207468,
+                    595108252,
+                    671806388
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    2923251173,
+                    1015611457,
+                    1720528630,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3635821806,
+            "name": "",
+            "plugs": [
+                [
+                    987673306,
+                    2946784966,
+                    3198323828,
+                    3619207468
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    2923251173,
+                    1015611457,
+                    711234314,
+                    3511092054,
+                    4200236906,
+                    1365187766
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 318443586,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    3300816228,
+                    3528046508
+                ],
+                [
+                    2459015849,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "The return of Astral Horizon has been overshadowed by this gun. With Imperial Decree being craftable, getting the same PvP god roll as Astral and having more points in literally every single stat Astral is now pointless against this gun. If you’re looking for a kinetic Aggressive shotgun for PvP, then this is the place to go",
+            "hash": 318443586,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 318443586,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    3300816228,
+                    3528046508,
+                    494941759,
+                    4071163871,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2459015849,
+                    2360754333,
+                    1161469972,
+                    4082225868,
+                    781192741,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The return of Astral Horizon has been overshadowed by this gun. With Imperial Decree being craftable, getting the same PvP god roll as Astral and having more points in literally every single stat Astral is now pointless against this gun. If you’re looking for a kinetic Aggressive shotgun for PvP, then this is the place to go",
+            "hash": 318443586,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    791862061
+                ],
+                [
+                    494941759,
+                    4071163871,
+                    2658083589,
+                    3436462433,
+                    191144788,
+                    3161816588
+                ],
+                [
+                    1370847713,
+                    47981717,
+                    4116820839,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 318443586,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228,
+                    3528046508,
+                    494941759,
+                    4071163871,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2459015849,
+                    2360754333,
+                    1161469972,
+                    4082225868,
+                    781192741,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The return of Astral Horizon has been overshadowed by this gun. With Imperial Decree being craftable, getting the same PvP god roll as Astral and having more points in literally every single stat Astral is now pointless against this gun. If you’re looking for a kinetic Aggressive shotgun for PvP, then this is the place to go",
+            "hash": 318443586,
+            "name": "",
+            "plugs": [
+                [
+                    494941759,
+                    4071163871,
+                    2658083589,
+                    3436462433,
+                    191144788,
+                    3161816588
+                ],
+                [
+                    1370847713,
+                    47981717,
+                    4116820839,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP, literally anything works",
+            "hash": 3371413056,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    2363751990
+                ],
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    3708227201,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP, literally anything works",
+            "hash": 3371413056,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    2363751990
+                ],
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    3708227201,
+                    781192741,
+                    147913470,
+                    3913600130,
+                    1926441324,
+                    2048641572,
+                    1906147653,
+                    3523296417,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP, literally anything works",
+            "hash": 3371413056,
+            "name": "",
+            "plugs": [
+                [
+                    1749209109,
+                    4085959009
+                ],
+                [
+                    3708227201,
+                    781192741,
+                    147913470,
+                    3913600130,
+                    1926441324,
+                    2048641572,
+                    1906147653,
+                    3523296417,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1854753405,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    2039302152
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2759590322,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2759590322,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2759590322,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    106909392,
+                    1087426260
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    365154968,
+                    2610012052,
+                    1546637391,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2759590322,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    3142289711
+                ],
+                [
+                    1359896290,
+                    744594675
+                ],
+                [
+                    1890422124,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2759590322,
+            "name": "",
+            "plugs": [
+                [
+                    2779035018
+                ],
+                [
+                    365154968,
+                    2610012052,
+                    1546637391,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2759590322,
+            "name": "",
+            "plugs": [
+                [
+                    1359896290,
+                    744594675
+                ],
+                [
+                    1890422124,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 566740455,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 566740455,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 566740455,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    106909392,
+                    1087426260
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    365154968,
+                    2610012052,
+                    1546637391,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 566740455,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    3142289711
+                ],
+                [
+                    1359896290,
+                    744594675
+                ],
+                [
+                    1890422124,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 566740455,
+            "name": "",
+            "plugs": [
+                [
+                    2779035018
+                ],
+                [
+                    365154968,
+                    2610012052,
+                    1546637391,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 566740455,
+            "name": "",
+            "plugs": [
+                [
+                    1359896290,
+                    744594675
+                ],
+                [
+                    1890422124,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1144014195,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    744594675
+                ],
+                [
+                    2173046394,
+                    2610012052,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1144014195,
+            "name": "",
+            "plugs": [
+                [
+                    11551321,
+                    1359896290
+                ],
+                [
+                    2846385770,
+                    2610012052,
+                    1365187766
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1028124540,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 548809020,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
+            "hash": 548809020,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 548809020,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    4104185692,
+                    3425386926,
+                    2458213969,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
+            "hash": 548809020,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    3230963543,
+                    3177308360,
+                    2420895100
+                ],
+                [
+                    2846385770,
+                    2450788523,
+                    1821614984
+                ],
+                [
+                    699525795,
+                    1195158366
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 548809020,
+            "name": "",
+            "plugs": [
+                [
+                    1168162263
+                ],
+                [
+                    4104185692,
+                    3425386926,
+                    2458213969,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
+            "hash": 548809020,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770,
+                    2450788523,
+                    1821614984
+                ],
+                [
+                    699525795,
+                    1195158366
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
+            "hash": 1705843397,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1705843397,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1705843397,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    4104185692,
+                    3425386926,
+                    2458213969,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
+            "hash": 1705843397,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    3230963543,
+                    3177308360,
+                    2420895100
+                ],
+                [
+                    2846385770,
+                    2450788523,
+                    1821614984
+                ],
+                [
+                    699525795,
+                    1195158366
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1705843397,
+            "name": "",
+            "plugs": [
+                [
+                    1168162263
+                ],
+                [
+                    4104185692,
+                    3425386926,
+                    2458213969,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A weapon to match up against Palindrome as the new best PvP Energy Handcannon. With good PvE rolls, this gun truly shines in PvP. With a huge number of PvP perks, a pure dueling roll with Rangefinder and EotS might be the best for general use - but you can get a lot of work out of many of the more kill focused perks",
+            "hash": 1705843397,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770,
+                    2450788523,
+                    1821614984
+                ],
+                [
+                    699525795,
+                    1195158366
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 906840740,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 906840740,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 906840740,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    106909392,
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    1820235745,
+                    2869569095,
+                    3300816228
+                ],
+                [
+                    557221067,
+                    4293542123,
+                    1771339417,
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 906840740,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    3230963543,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    1359896290,
+                    2450788523
+                ],
+                [
+                    1890422124,
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 906840740,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    2869569095,
+                    3300816228
+                ],
+                [
+                    557221067,
+                    4293542123,
+                    1771339417,
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 906840740,
+            "name": "",
+            "plugs": [
+                [
+                    1359896290,
+                    2450788523
+                ],
+                [
+                    1890422124,
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3444632029,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3444632029,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3444632029,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    106909392,
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    1820235745,
+                    2869569095,
+                    3300816228
+                ],
+                [
+                    557221067,
+                    4293542123,
+                    1771339417,
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3444632029,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    3230963543,
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    1359896290,
+                    2450788523
+                ],
+                [
+                    1890422124,
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3444632029,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    2869569095,
+                    3300816228
+                ],
+                [
+                    557221067,
+                    4293542123,
+                    1771339417,
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3444632029,
+            "name": "",
+            "plugs": [
+                [
+                    1359896290,
+                    2450788523
+                ],
+                [
+                    1890422124,
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Budge over a bit Forbearance, there’s a new add clear Wave Frame in town. Being able to match Forbearance in add clear potential with Destabilising Rounds, Harsh Language takes it’s place at the top alongside Forebearance as a spectacular add clear wave frame. However don’t let it’s pure add clear potential steer you away from other perk options, Repulsor Brace works great with various Volatile Round builds (especially Gyrfalcons)",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2586829431
+                ],
+                [
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Budge over a bit Forbearance, there’s a new add clear Wave Frame in town. Being able to match Forbearance in add clear potential with Destabilising Rounds, Harsh Language takes it’s place at the top alongside Forebearance as a spectacular add clear wave frame. However don’t let it’s pure add clear potential steer you away from other perk options, Repulsor Brace works great with various Volatile Round builds (especially Gyrfalcons)",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2869569095,
+                    3592538738,
+                    1583705720,
+                    968510818
+                ],
+                [
+                    2048641572,
+                    1683379515,
+                    776531651,
+                    2610012052,
+                    3108830275
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    981914802
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2586829431,
+                    3592538738
+                ],
+                [
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Budge over a bit Forbearance, there’s a new add clear Wave Frame in town. Being able to match Forbearance in add clear potential with Destabilising Rounds, Harsh Language takes it’s place at the top alongside Forebearance as a spectacular add clear wave frame. However don’t let it’s pure add clear potential steer you away from other perk options, Repulsor Brace works great with various Volatile Round builds (especially Gyrfalcons)",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    2869569095,
+                    3592538738,
+                    1583705720,
+                    968510818
+                ],
+                [
+                    2048641572,
+                    1683379515,
+                    776531651,
+                    2610012052,
+                    3108830275
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    2586829431,
+                    3592538738
+                ],
+                [
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "A kinetic Drang equivalent, without the inbuilt zoom increase which makes Drag so dominant. Still able to reach 19m with full range investment, although it might be more worthwhile to go for less range investment and other consistency and/or damage perks.",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    591790007
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "A kinetic Drang equivalent, without the inbuilt zoom increase which makes Drag so dominant. Still able to reach 19m with full range investment, although it might be more worthwhile to go for less range investment and other consistency and/or damage perks.",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    1820235745,
+                    247725512
+                ],
+                [
+                    4104185692,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A kinetic Drang equivalent, without the inbuilt zoom increase which makes Drag so dominant. Still able to reach 19m with full range investment, although it might be more worthwhile to go for less range investment and other consistency and/or damage perks.",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1968497646,
+                    1561002382
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    591790007,
+                    699525795,
+                    2458213969,
+                    1365187766
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    247725512
+                ],
+                [
+                    4104185692,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A kinetic Drang equivalent, without the inbuilt zoom increase which makes Drag so dominant. Still able to reach 19m with full range investment, although it might be more worthwhile to go for less range investment and other consistency and/or damage perks.",
+            "hash": 3166250992,
+            "name": "",
+            "plugs": [
+                [
+                    2846385770
+                ],
+                [
+                    591790007,
+                    699525795,
+                    2458213969,
+                    1365187766
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1586231351,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1586231351,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1586231351,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    4071163871,
+                    2039302152
+                ],
+                [
+                    1546637391,
+                    4293542123,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1586231351,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1332244541
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1586231351,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871,
+                    2039302152
+                ],
+                [
+                    1546637391,
+                    4293542123,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1586231351,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871
+                ],
+                [
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2074041946,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2074041946,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2074041946,
+            "name": "",
+            "plugs": [
+                [
+                    1300023272,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    4071163871,
+                    2039302152
+                ],
+                [
+                    1546637391,
+                    4293542123,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2074041946,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    1332244541
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2074041946,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871,
+                    2039302152
+                ],
+                [
+                    1546637391,
+                    4293542123,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2074041946,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871
+                ],
+                [
+                    2451262963
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1028124540,
+            "name": "",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2946784966
+                ],
+                [
+                    591790007
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1028124540,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2946784966
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1028124540,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    2048641572,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1028124540,
+            "name": "",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2946784966
+                ],
+                [
+                    591790007,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1028124540,
+            "name": "",
+            "plugs": [
+                [
+                    2779035018
+                ],
+                [
+                    2048641572,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1028124540,
+            "name": "",
+            "plugs": [
+                [
+                    2946784966
+                ],
+                [
+                    591790007,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP, literally anything works",
+            "hash": 3371413059,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    2349202967
+                ],
+                [
+                    855168139,
+                    3108830275
+                ],
+                [
+                    2675184851,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP, literally anything works",
+            "hash": 3371413059,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    2349202967
+                ],
+                [
+                    855168139,
+                    3108830275,
+                    2860991074,
+                    2244851822
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    4274613598,
+                    4274614370,
+                    3418165135,
+                    1546637391,
+                    781192741,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP, literally anything works",
+            "hash": 3371413059,
+            "name": "",
+            "plugs": [
+                [
+                    855168139,
+                    3108830275,
+                    2860991074,
+                    2244851822
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    4274613598,
+                    4274614370,
+                    3418165135,
+                    1546637391,
+                    781192741,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP, literally anything works",
+            "hash": 3371413057,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    855168139,
+                    3108830275
+                ],
+                [
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP, literally anything works",
+            "hash": 3371413057,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    855168139,
+                    3108830275,
+                    4274613598,
+                    4274614370,
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    598607952,
+                    2396489472,
+                    147913470,
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP: It’s a sword in PvP, literally anything works",
+            "hash": 3371413057,
+            "name": "",
+            "plugs": [
+                [
+                    855168139,
+                    3108830275,
+                    4274613598,
+                    4274614370,
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    598607952,
+                    2396489472,
+                    147913470,
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3001205424,
+            "name": "",
+            "plugs": [
+                [
+                    1263609309
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    1966281507
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3001205424,
+            "name": "",
+            "plugs": [
+                [
+                    1263609309
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    3800201097
+                ],
+                [
+                    1782407750
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3118061005,
+            "name": "",
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    679225683
+                ],
+                [
+                    2171805903
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    3146691100
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3118061005,
+            "name": "",
+            "plugs": [
+                [
+                    1934171651
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2171805903
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    3146691103
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3118061005,
+            "name": "",
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    679225683,
+                    3721627275
+                ],
+                [
+                    2171805903
+                ],
+                [
+                    1067908860,
+                    3465198467
+                ],
+                [
+                    3146691103
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3118061005,
+            "name": "",
+            "plugs": [
+                [
+                    1934171651,
+                    2713678205
+                ],
+                [
+                    3142289711,
+                    679225683,
+                    3721627275
+                ],
+                [
+                    2171805903
+                ],
+                [
+                    1067908860,
+                    3465198467
+                ],
+                [
+                    3146691103,
+                    3146691101
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3118061005,
+            "name": "",
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    679225683,
+                    1087426260,
+                    3721627275
+                ],
+                [
+                    2171805903
+                ],
+                [
+                    1067908860,
+                    3465198467
+                ],
+                [
+                    3146691100,
+                    3146691103
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
