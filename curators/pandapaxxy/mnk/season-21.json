@@ -884,6 +884,168 @@
             ]
         },
         {
+            "hash": 233896077,
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "One of my favorite weapons this season is Until Its Return with enhanced Overflow and enhanced Cascade Point, being able to grind out a Lead from Gold version in the energy slot diversifies my loadout a bit and allows me to flex into different builds while still keeping one of my favorite weapons around.\n\nIn PvP I am not entirely sure if this shotgun will shake up the meta. It is the best frame in the game right now, but without Opening Shot a lot of players might write this off. Quickdraw is a shell of its former self but does allow reactionary shotgunning to feel snappy. If you constantly swap weapons it falls off a bit more because the stow won't be as fast. Building into the neutral handling will alleviate some of the sluggishness.\n\nThere isn't a lot that needs to be said that wasn't said for the controller recommendations. The only extra bit of information is that the shotgun looks pretty.\nMasterworks: PvE: Handling PvP: Handling"
+        },
+        {
+            "hash": 233896077,
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 233896077,
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    706527188
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 233896077,
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    706527188
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3256453690,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Strand Booms?? Surely you have a good rocket launcher for damage and one for add clearing right? Well if you need the latter this... exists. Bungie was hyping up this rocket as being the first Strand Rocket and the best perk on it isn't even strand related. If you could get Hatchling and Chain Reaction for better chances or more common threadlings then I would change my answer but this shipped underwhelming.\n\nIn PvP you only get one rocket, might as well make sure it gets to its target. High velocity is the name of the game. Most players prefer high blast radius for more kills but Chain Reaction will help nab you doubles and triples. I just dislike seeing my rocket launch and the enemy casually walk behind cover and my heavy was wasted. At least if it gets there fast it can possibly do damage for a clean up.\nMasterworks: PvE: Velocity PvP: Velocity"
+        },
+        {
+            "hash": 3256453690,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3256453690,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 3256453690,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
             "hash": 3016891299,
             "plugs": [
                 [
@@ -2926,6 +3088,87 @@
                 ],
                 [
                     699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3240434620,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    247725512
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Rapid Hit on the new Something New (ew that sentence was gross) is great. I love Rapid Hit and being able to have a harder hitting Eyasluna will be a nice addition. I find 120s to scale a bit better in higher end content, but until we get that hand cannon PvE damage buff I won't use this.\n\nWill this replace your Round Robin? Probably not but it will be a good hand cannon if you, like me, don't have a crafted version yet. But having Rapid Hit instead of Keep Away is personal preference. Something New does have better stats in every category except handling where the two are tied. While the stat margins are not large it is something to note.\n\nI will guess that MnK players will prefer Round Robin for the bonus range with Keep Away as you value less stability than Controller players. Having enhanced perks will also be a big draw. While I implore you to try Something New I will not be upset if you disregard it and continue using Round Robin.\nMasterworks: PvE: Reload Speed PvP: Handling"
+        },
+        {
+            "hash": 3240434620,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    247725512
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3240434620,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    247725512
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 3240434620,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    247725512
+                ],
+                [
+                    1015611457
                 ]
             ],
             "tags": [
