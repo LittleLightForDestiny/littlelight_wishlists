@@ -8,15 +8,7 @@
 
             "output":"adhere-controller.json",
             "files":[
-                "curators/adhere/controller/season-10.json",
-                "curators/adhere/controller/season-12.json",
-                "curators/adhere/controller/season-14.json",
-                "curators/adhere/controller/season-15.json",
-                "curators/adhere/controller/season-16.json",
-                "curators/adhere/controller/season-17.json",
-                "curators/adhere/controller/season-18.json",
-                "curators/adhere/controller/season-19.json",
-                "curators/adhere/controller/season-21.json",
+                
                 "curators/adhere/controller/season-22-crota.json"
 
             ]
