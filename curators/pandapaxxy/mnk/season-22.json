@@ -215,6 +215,87 @@
             ]
         },
         {
+            "hash": 413901114,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    1119449540
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Similar to how Geodetic HSM is the best sword for void mains, Acosmic GSp will be the best grenade launcher for void mains. Loose Change is a laughable perk on its own, but coupled with Destabilizing Rounds you won't need to rely as heavily on your abilities to get a whopping +50 reload speed. You'll be able to clear rooms with ease and be able to bridge your loadout into higher DPS weapons.\n\nGrenade launchers in PvP need to do two things. Hit their targets, and kill them. With high velocity coming at base with these grenade launchers you'll know your grenade gets to where it needs to go. Explosive Light will max out your blast radius and with how often you'll generate an orb the tricky part is actually securing heavy. Proximity Grenades will make this more forgiving. It might just take your heavy slot up from Wendigo.\nMasterworks: PvE: Blast Radius PvP: Velocity"
+        },
+        {
+            "hash": 413901114,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    1119449540
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 413901114,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    409831596
+                ],
+                [
+                    951095735
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 413901114,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    409831596
+                ],
+                [
+                    951095735
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
             "hash": 2779821308,
             "plugs": [
                 [
@@ -1111,6 +1192,87 @@
             ]
         },
         {
+            "hash": 177568179,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3828510309
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "So Horror Story is stasis now. Kinda cool, but not the biggest draw. The combo I'm looking for is Enlightened Action and Target Lock. The two of them together give you bonus handling, reload, and damage. As long as you're connecting shots you'll get the benefits of both!\n\nIn PvP you could swap out Enlightened Action for Dynamic Sway Reduction or maybe even Demolitionist. But I'd say that the handling bonus will feel really nice. A base of 37 handling isn't ideal, so the slight bonus from Arrowhead Brake coupled with Enlightened Action will make this auto rifle feel more like an SMG.\nMasterworks: PvE: Stability PvP: Range"
+        },
+        {
+            "hash": 177568179,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3828510309
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 177568179,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3828510309
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 177568179,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3828510309
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
             "hash": 1973107014,
             "plugs": [
                 [
@@ -1294,6 +1456,87 @@
                 ],
                 [
                     699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3103255595,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Jurassic Green is an interesting pulse. It can roll Incandescent and Subsistence, but I think it shines with Golden Tricorn. You can make use of Heal Clip if you want a bit more healing but on solar hunter? This is going to be the bomb dot com.\n\nBoth rolls for PvP are very similar except for two differences in stat investments. On controller you'll want a bit more stability, on MnK you can invest those stat points into range. Headseeker and Keep Away are the key points, but definitely keep an eye out for Arrowhead Brake to correct that recoil direction.\nMasterworks: PvE: Stability PvP: Range"
+        },
+        {
+            "hash": 3103255595,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3103255595,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    460017080
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 3103255595,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    460017080
                 ]
             ],
             "tags": [
@@ -1679,6 +1922,87 @@
                 ],
                 [
                     3038247973
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3871226707,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    2284787283
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Mechabre returns in all its Gundam glory. In order to, in my humble opinion, get the most out of it in PvE, you'll want a base of 4 in your magazine. This way with Clown Cartridge there's a very high chance you'll be with 5 going into engagements. With Vorpal Weapon you won't need to hit crits in order to do good damage and you can take this solo without any drop in damage. Reload MW helps speed up those reloads getting you back to 4 or higher.\n\nEva spoiled us last year and gave us a god roll, snapshot and opening shot, right off the rip. This year she might not be so giving. If you're looking for max handling, fluted and a handling MW will get you there. You can also opt for Smallbore / Accurized Rounds / Range MW for max range. I am a little sour that Slickdraw was removed, especially after the buff. I might be in the less than 1% for that. Let me know if you miss Slickdraw.\nMasterworks: PvE: Reload PvP: Handling"
+        },
+        {
+            "hash": 3871226707,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    2284787283
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3871226707,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    957782887
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 3871226707,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    957782887
+                ],
+                [
+                    47981717
                 ]
             ],
             "tags": [
