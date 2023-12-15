@@ -1,0 +1,492 @@
+{
+    "name": "Pandapaxxy's Mouse and Keyboard rolls - Season 23",
+    "description": "Recommendations based on Pandapaxxy's breakdowns on r/sharditorkeepit for Mouse and Keyboard on Season 23 weapons.",
+    "data": [
+        {
+            "hash": 2680976411,
+            "plugs": [
+                [
+                    1934171651
+                ],
+                [
+                    679225683
+                ],
+                [
+                    2859149211
+                ],
+                [
+                    1782407750
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "PvE: I don't know how often this glaive will be used over the crafted gloves but there's a nice niche between Beacon Rounds and Close to Melee. If you get any glaive kill you'll activate Beacon Rounds, with the added tracking you can shoot off in the general direction of a thrall and with that kill you'll activate Close to Melee to deal an extra 30% more melee damage. Any additional damage with your melee or projectile you'll keep up Beacon Rounds and Close to Melee to continue the chaining of better tracking and better damage.\nPvP: With Auxiliary Reserves you get some great shield duration. With Light Mag and Keep Away you negate the reload speed loss from Auxiliary Reserves. All the range gives you a velocity of 130 m/s which is 1.11x times faster than the base 117 m/s. This extra speed will make the hit registration feel better. If you can manage to get Golden Tricorn 2x with one surge mod you can one hit kill any guardian 6 resilience or below. As you add one surge mod you can down an additional resilience tier. It scales 1:1.\nMasterworks: PvE: Range PvP: Range"
+        },
+        {
+            "hash": 2680976411,
+            "plugs": [
+                [
+                    1934171651
+                ],
+                [
+                    679225683
+                ],
+                [
+                    2859149211
+                ],
+                [
+                    1782407750
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2680976411,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    679225683
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 2680976411,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    679225683
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 4220529694,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "PvE: How many bullets can you shoot before reloading? Will this be a power weapon alternative of Sweet Business? Quite possibly. With Actium War Rig, Extended Mag, and Rewind Rounds you'll never have to reload before the target is dead. Especially so if you stack on damage from a spec mod and Vorpal Weapon.\nPvP: While you don't see many machine guns running around in the crucible, you can with Avalanche. Arrowhead Brake brings up the recoil direction to 100. Adding in either range or stability (or both) with Dynamic Sway Reduction will make the shooting experience enjoyable. Incandescent is a bit of an odd choice but being able to apply some Scorch and make the second kill easier will allow you to go on a nice spree.\nMasterworks: PvE: Reload PvP: Range"
+        },
+        {
+            "hash": 4220529694,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 4220529694,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 4220529694,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3206190066,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "PvE: While there aren't a lot of amazing submachine guns, Cold Front is reliable in that we get Subsistence and Frenzy for low level PvE activities. It's not going to replace any of your more specified submachine guns for any particular subclass. But if you want something to turn your brain off and still clear rooms with ease. Cold Front can be it.\nPvP: Now I know what you're saying, Rangefinder was nerfed. I know it was. But having lower range for the SMG class you'll feel some of the forgiveness factors from Rangefinder coupled with Tap the Trigger bringing you better accuracy and stability.\nMasterworks: PvE: Stability PvP: Range"
+        },
+        {
+            "hash": 3206190066,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3206190066,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1890422124
+                ],
+                [
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 3206190066,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1890422124
+                ],
+                [
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2728851518,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    2594592626
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "PvE: One of my favorite fusions as of late has been Loaded Question with Envious Assassin and Controlled Burst. Glacioclasm will have a similar roll but with Overflow. Both will allow you to destroy majors and bosses with ease.\nPvP: Slideshot makes this roll. With Slideshot you can invest the rest of your stats into a mix of range and stability to still hit 100 range and have a whopping 76 stability. If you can somehow wrangle up full ammo you'll only sit 4 points less than 100 stability. High-Impact Reserves helps those long shots keep their damage at range.\nMasterworks: PvE: Charge Time PvP: Range"
+        },
+        {
+            "hash": 2728851518,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    2594592626
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2728851518,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3868766766
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 2728851518,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3868766766
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 1891321753,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3828510309
+                ],
+                [
+                    3047969693
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "PvE: Stay Frosty is a bit of an odd weapon. It lost a bit of utility from last years model, but gained a quality of life perk in Enlightened Action. Desperado is a fun perk but nothing about this weapon will break the meta or shake up the game.\nPvP: There are two versions of this weapon you can get. Don't take into MnK or controller as seriously. The MnK roll is better for 6v6 or slaying play styles. The controller roll is better for 3v3 or more neutral play styles. Both will feel great but have different utilities.\nMasterworks: PvE: Stability PvP: Range"
+        },
+        {
+            "hash": 1891321753,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3828510309
+                ],
+                [
+                    3047969693
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 1891321753,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2450788523
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 1891321753,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2450788523
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 1911078836,
+            "plugs": [
+                [
+                    938542991
+                ],
+                [
+                    269888150
+                ],
+                [
+                    3705817207
+                ],
+                [
+                    3650930298
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "PvE: Cold Steel is Zephyr's claim to fame. Zephyr is the only sword with Cold Steel and you'll want to stack as many charge time benefits as possible. Duelist's Trance grants +60 to charge rate and both Guard Resistance and Endurance. This all allows you to heavy swing more frequently. Stacking the extra slow debuff faster. Tempered Edge also gives you more ammo while adding more impact as well. Dealing better damage is always good.\nPvP: Zephyr was one of my favorite swords when it was introduced in season 2. I still think it looks incredible. In PvP you'll want some good guard resistance so you can get close and if you happen to have multiple enemies stacked up you can get Chain Reaction kills. More booms equals better, no?\nMasterworks: PvE: Impact PvP: Impact"
+        },
+        {
+            "hash": 1911078836,
+            "plugs": [
+                [
+                    938542991
+                ],
+                [
+                    269888150
+                ],
+                [
+                    3705817207
+                ],
+                [
+                    3650930298
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 1911078836,
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    3625355092
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "hash": 1911078836,
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    3625355092
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        }
+    ]
+}
