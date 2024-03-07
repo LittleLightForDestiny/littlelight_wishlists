@@ -1509,6 +1509,88 @@
             ]
         },
         {
+            "hash": 657927352,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    968510818
+                ],
+                [
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Oh this is gonna be fun. I love a large mag and Cascade Point. My Until It's Return gets a lot of use due to being a better Fourth Horseman. This roll will get a ton of smiles clearing rooms and taking down beefier enemies with relative safety.\nMasterworks: Velocity"
+        },
+        {
+            "hash": 657927352,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    968510818
+                ],
+                [
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 657927352,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "While I don't think anyone will be vying for this roll in PvP I think the best use case is a swap build. Not ideal for \"wasting\" heavy to not get the kill with it. But being a wave frame you won't get a ton of direct hits to kill. If a guardian jumps it's all over. Ideal for pubs, not ideal for most PvP situations.\nMasterworks: Velocity"
+        },
+        {
+            "hash": 657927352,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
             "hash": 2045811635,
             "plugs": [
                 [
@@ -3473,6 +3555,171 @@
                 [
                     2451262963,
                     1609056795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3007479950,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "We all probably have a scout in our vault we use for PvE. Do we need another? Well technically no. Taraxippos doesn't do anything another scout couldn't do equally or better. If you somehow don't have one, then yeah. Grind yourself one out this Guardian Games. It's easy to get and you'll probably have more than you know what to do with.\nMasterworks: Stability"
+        },
+        {
+            "hash": 3007479950,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3007479950,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    2387244414,
+                    588594999
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "With the update to scout rifle damage, I think there's a good case for this scout being a low-key meta choice. It won't have as good of a feeling as the rapid-fire frames, nor the oomph of the high-impacts. But the extra movement speed and the extra flexibility could aid certain builds and loadouts. I love kill clip for really deleting guardians in 6s, but it falls off hard in 3s.\nMasterworks: Stability"
+        },
+        {
+            "hash": 3007479950,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    2387244414
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 655712834,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Void mains rejoice. I don't think anyone is surprised to see this pick. Smallbore plus ricochet rounds boosts your stability and range enough to not worry about engagement ranges and compete with auto rifles. The extra overshield and add clearing capabilities will also allow you to allocate different fragments into your builds.\nMasterworks: Reload"
+        },
+        {
+            "hash": 655712834,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 655712834,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Swashbuckler is really the only standout perk in the fourth column. Some more niche options exist but there's also not really a big pull to use this year's version of the Title for PvP. Rangefinder does help push out your zoom but with the recent changes to rangefinder it's less than stellar.\nMasterworks: Stability"
+        },
+        {
+            "hash": 655712834,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    4082225868
                 ]
             ],
             "tags": [
