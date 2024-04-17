@@ -778,6 +778,103 @@
             ]
         },
         {
+            "hash": 2533990645,
+            "plugs": [
+                [
+                    839105230,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    3891536761,
+                    3619207468,
+                    3700496672
+                ],
+                [
+                    3824105627,
+                    247725512,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Blast Furnace is probably the best feeling 450 aggressive frame pulse. Personally I liked the Meyrin RDL scope as it highlighted targets, but I can understand it wasn't everyone's cup of tea. The best combo that I will be farming for will be Kinetic Tremors and Firefly for AoE on top of AoE. Keep Away also serves as a good reload perk, while also making it easier to get yellow numbers. Shoot to Loot combined with Firefly will allow you to pick up orbs and ammo from afar.\n\nThe curated roll of Blast Furnace comes with Perpetual Motion and Kill Clip allowing you to bump up your stats by moving and get extra damage on top. While I don't believe it's the best roll overall, it does allow for some utility in both PvE and PvP.\nMasterworks: Range, Stability, Handling, Reload Speed"
+        },
+        {
+            "hash": 2533990645,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2533990645,
+            "plugs": [
+                [
+                    3250034553,
+                    839105230,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    3177308360
+                ],
+                [
+                    460017080,
+                    2387244414,
+                    3619207468
+                ],
+                [
+                    1015611457,
+                    247725512,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over in the Crucible Blast Furnace has yet to make its mark. It has some stiff competition in the form of both Belisarius-D and Disparity. Both of which come with some incredible rolls. Outside of its frame you have some other strong pulses like the new Relentless or Messenger (Adept). Blast Furnace does have a leg up over recent additions with the combination of Zen Moment and Kill Clip for easy follow-up two burst kills. Outside of S16 Messenger (which might not be possible due to the perk updates) no other aggressive frame pulse has that combination. (Elsie's Rifle also gets this combo but we will talk about that later).\n\nAnother lethal combo is Headseeker and Kill Clip which allows for double damage, the only other pulse to get this combination is Chattering Bone.\nMasterworks: Range"
+        },
+        {
+            "hash": 2533990645,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    460017080
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
             "hash": 2026755633,
             "plugs": [
                 [
@@ -1513,6 +1610,193 @@
             ]
         },
         {
+            "hash": 568611923,
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    1441682018
+                ],
+                [
+                    3301904089,
+                    1771897777,
+                    2822142346
+                ],
+                [
+                    3751912585,
+                    968510818,
+                    2396489472
+                ],
+                [
+                    3078487919,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Oh how the meme's be meme'ing. Edge Transit used to drop as often as glimmer. We used to be swimming in them, with how often they used to drop. Now we are asking for more drops of Edge Transit. The hottest DPS weapon outside of Cataphract GL3 (Adept). For the moment we can stack extra rounds into the magazine with Augmented Drum and Envious Assassin, and then hot swap over to Spike Grenades and Cascade Point on some Holo-foil rolls. Pair that with either Explosive Light or Bait and Switch for incredible damage. Bait and Switch will last the whole extended magazine, but (soon to be) enhanced Explosive Light will last 7 shots. If you nail just one roll out of all the Edge Transits I would look for Cascade Point and Explosive Light to be able to nuke most majors, champions, and bosses with ease.\n\nThe curated roll for Edge Transit is Envious Assassin and Destabilizing Rounds for some great synergy with Void builds. It's not incredible but if you've never used Cascade Point it's a great place to start.\nMasterworks: Velocity"
+        },
+        {
+            "hash": 568611923,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3751912585
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 568611923,
+            "plugs": [
+                [
+                    1478423395,
+                    1844523823,
+                    3525010810
+                ],
+                [
+                    1380253176
+                ],
+                [
+                    951095735,
+                    3751912585,
+                    2396489472
+                ],
+                [
+                    3194351027,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "The extra health added with the 7.3.5 update made a big switch to heavy grenade launcher perks. Now you'll need to invest heavier into Blast Radius to hit around 65+ in order to reliably OHK a guardian of all resilience levels. Volatile Launch with a Blast Radius MW gets us to 75, High-Explosive Ordinance brings that up to 85 and evens out the hit to velocity from Volatile Launch. Paired up with Impulse Amplifier and you'll hardly notice a difference compared to a max velocity roll without Impulse Amplifier. With the perk shake up I'd personally take Explosive Light in the fourth column to bring the blast radius up to 100 and get some extra explosion damage but Destabilizing Rounds is also good if you're looking for a pseudo-Chain Reaction.\nMasterworks: Blast Radius"
+        },
+        {
+            "hash": 568611923,
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    1380253176
+                ],
+                [
+                    951095735
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3851176026,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260,
+                    1968497646,
+                    3230963543
+                ],
+                [
+                    3418782618,
+                    2779035018,
+                    776531651
+                ],
+                [
+                    2109543898,
+                    3047969693,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Elsie's Rifle is a throwback to D1, and another good weapon Bungie could have brought back was Murmur, the element switching fusion from the Moon. Jokes aside, Elsie's Rifle is incredible. Rewind Rounds or Feeding Frenzy paired with Desperate Measures or Desperado, any combination of the above will be more than lethal. Arrowhead Brake is a must have regardless of what activity you bring this rifle into, I don't know if there's a small bug within the timelines of this rifle but having Arrowhead Brake fixes a large majority of issues.\n\nThe curated version of Elsie's Rifle comes with Rewind Rounds and Adrenaline Junkie. Adrenaline Junkie pairs really well with the origin trait and Rewind Rounds, allowing you to get grenade energy back on top of nearly endlessly firing. It's like No Time to Explain-lite with Rewind Rounds. If you're not looking for Desperate Measures or Desperado you could even stop here.\nMasterworks: Reload Speed"
+        },
+        {
+            "hash": 3851176026,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3851176026,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    2387244414,
+                    3619207468,
+                    1870851715
+                ],
+                [
+                    460017080,
+                    2109543898,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Like I mentioned earlier, Arrowhead Brake is a must have. This will make your two bursts far easier. Zen Moment and Headseeker allow you consistent two bursts. Depending on how that feels you might instead want Keep Away for better accuracy from a distance. Zen Moment and Kill Clip are also present, giving you some flexibility if you don't like Blast Furnace or aggressive burst pulse rifles.\nMasterworks: Range"
+        },
+        {
+            "hash": 3851176026,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2387244414
+                ],
+                [
+                    460017080
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
             "hash": 1401300690,
             "plugs": [
                 [
@@ -1696,6 +1980,191 @@
                 ],
                 [
                     957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 1815105249,
+            "plugs": [
+                [
+                    3666208348,
+                    2827049491,
+                    938542991
+                ],
+                [
+                    269888150,
+                    52780822
+                ],
+                [
+                    4104185692,
+                    1546637391,
+                    776531651
+                ],
+                [
+                    3708227201,
+                    3078487919,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Falling Guillotine and its predecessor Dark-Drinker are some of my favorite swords. I still have my Guillotine and if it wasn't for the titan swords being so silly to run around with I'd still probably be using my Guillotine to this day. If you never got one from Arrivals or didn't get the roll you wanted, this is your time. Double damage perks in the third and fourth columns propell Falling Guillotine to the best sword in the game. Frenzy being a nice 15% damage buff with an additional 40% damage buff via surrounded on top gives Falling Guillotine the highest damage potential in the game. If you don't want to have to think about Surrounded being up and accidentally spinning too hard and deleting a few enemies from existence, you could go for a safer pick in Bait and Switch. You lose 5% in damage but make up for it in reliability. Another fun option which seems to be trending with the Brave Arsenal is the combination of Repulsor Brace and Destabilizing Rounds.\n\nThe curated roll of Falling Guillotine having the tried and true combo of Relentless Strikes and Whirlwind Blade gives a nice homage to the god roll of the past. It's still reliable but you're better off looking for a different \"barrel\" and \"magazine.\"\nMasterworks: Impact"
+        },
+        {
+            "hash": 1815105249,
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    4104185692
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 1815105249,
+            "plugs": [
+                [
+                    3666208348,
+                    2827049491,
+                    938542991
+                ],
+                [
+                    269888150,
+                    52780822
+                ],
+                [
+                    2396489472
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "In PvP we could see an uptick in sword usage. Falling Guillotine is the only sword in the game to get both Eager Edge and Chain Reaction, for you to zoom in and get a multikill off of one sword swing. I don't think there will be a better sword for PvP. Potentially the Half-Truths with the unique combination of Eager Edge and Tireless Blades for the best ammo efficiency.\nMasterworks: Impact"
+        },
+        {
+            "hash": 1815105249,
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    2396489472
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 568611921,
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    2010801679,
+                    1683379515
+                ],
+                [
+                    2396489472,
+                    2109543898,
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "While I, personally, am glad Forbearance is easier to get, I also understand why there's community hesitation against it. If you already have a Forbearance crafted or Adept, you definitely do not need to grind out the new version other than for progress towards Superblack. If you are like me and don't have Forbearance, you're just gonna grab the already tried and true roll of Ambitious Assassin and Chain Reaction. Unrelenting in column 3 is arguably better than Ambitious Assassin as it only takes 3 kills to activate and should work with Chain Reaction. If you're using the new Forbearance on a grenade heavy build this version could be better with the origin trait giving 5% grenade charge back.\n\nSimilarly to Unrelenting, Stats for All is on the curated roll. This allows you to massively bump up the handling and reload to 100, while also getting a 0.95x animation scalar. It's a very solid entry roll that will feed into itself with securing hits on the initial wave or with the explosions.\nMasterworks: Velocity"
+        },
+        {
+            "hash": 568611921,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 568611921,
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1683379515
+                ],
+                [
+                    3592538738,
+                    2109543898,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Hitting 3 targets in PvE is certainly easier than hitting multiple targets in PvP. If you can make Stats for All work in PvP I will be impressed. A better perk would be Demolitionist for a total of 15% ability energy back on kills (10% paired with 5% from the origin trait), or Disruption Break to give your kinetic weapons a nice 50% damage boost. There isn't a lot to be said in column 4 for PvP as most Disruption Break grenade launchers are paired with Auto-Loading Holster in the third column. Wellspring could pair well with Demolitionist for even more ability energy, or Desperate Measures for a damage bonus without needing a weapon kill to start.\nMasterworks: Velocity"
+        },
+        {
+            "hash": 568611921,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    3592538738
                 ]
             ],
             "tags": [
@@ -1778,6 +2247,102 @@
                 ],
                 [
                     2213355989
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 1896309757,
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    1968497646,
+                    3230963543
+                ],
+                [
+                    3418782618,
+                    1354429876,
+                    968510818
+                ],
+                [
+                    95528736,
+                    557221067,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "There has never been a more iconic legendary machine gun in Destiny 2 outside of Hammerhead. My old Feeding Frenzy and Rampage has been collecting dust but nothing else feels as good. The Brave version of Hammerhead can roll Rewind (WeeWoo) Rounds and Fourth Time's the Charm which will both refund ammo back into your magazine. Envious Assassin will allow you to overflow the magazine to over 200 if you also slot in a backup mag mod. Pair any of those perks will work wonderfully with your \"damage\" perk of choice. Onslaught will ramp up the RPM to 714, giving you incredible DPS. Killing Tally is one of the best damage perks for machine guns (and trace rifles). It doesn't go away until you reload which is where magazine extending perks like Rewind Rounds or Fourth Time's the Charm work well. Desperate Measures is the best of both worlds combining Adrenaline Junkie / Swashbuckler and Golden Tricorn.\n\nThe curated roll will be a great addition if you don't feel like futzing around and farming out multiple rolls. Armor-Piercing Rounds will allow some over-penetration to allow Killing Tally to ramp up easier. Fourth Time's the Charm also works well here as once you get to three stacks of Killing Tally you can lay into a boss and get a lot of the ammo back to delete most bosses and champions.\nMasterworks: Range, Stability, Handling, Reload Speed"
+        },
+        {
+            "hash": 1896309757,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    95528736
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 1896309757,
+            "plugs": [
+                [
+                    1467527085,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    3418782618,
+                    1870851715
+                ],
+                [
+                    95528736,
+                    557221067,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over on the PvP side, machine guns haven't been high meta but they have always felt good. Hammerhead with Rewind Rounds and High-Impact Reserves will synergize well with the low ammo from the wall, and refund itself to get you a few more kills. If you wanted to really show some players their own ghosts you could instead opt for Onslaught to delete them at a blistering pace. Over-Under is another good shout here to get rid of most players in rifts. I wouldn't mind hearing more Hammerheads in the crucible. At least I'd know where they are.\nMasterworks: Range"
+        },
+        {
+            "hash": 1896309757,
+            "plugs": [
+                [
+                    1467527085
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    95528736
                 ]
             ],
             "tags": [
@@ -1868,6 +2433,103 @@
                 ],
                 [
                     1683379515
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 1453235079,
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    3418782618,
+                    3891536761,
+                    247725512
+                ],
+                [
+                    3824105627,
+                    555281244,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "This is one of the most feared scout rifles in all the land. This scout was made from the hides of Hive Gods-, what's that? This isn't a review on Touch of Malice? Okay let me start again.\n\nMuch like Gaelin-4 we can Yee to the Haw-, it's not Dead Man's Tale either? Shucks. What even is this? ... Hung jury, again? This is like the 8th time we've seen this weapon. Okay, let's hype it up.\n\nWho is excited for Hung Jury SR4?! This Vanguard relic can certainly put rounds down range and take down far off targets with ease. If you missed getting your perfect roll in S14, S19, or S20. Well...this version takes some of the best perks and mushes them into one fabulous roll.\n\nIf you liked Explosive Payload and missed it on S14 and S19 you can grab that, or One for All that was only on S14's perk pool. Kinetic Tremors also moved to column 3 allowing you to stack two damage perks! Rewind Rounds might be better if you're using Hung Jury as your primary and taking down wave after wave of enemies, pair that with Firefly for AoE damage and you will seldom reload. If you liked some of the older perks like Adrenaline Junkie you'll be better off keeping your older version.\nMasterworks: Stability"
+        },
+        {
+            "hash": 1453235079,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 1453235079,
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    1482024992
+                ],
+                [
+                    3177308360,
+                    3230963543
+                ],
+                [
+                    2866798147,
+                    247725512,
+                    3828510309
+                ],
+                [
+                    2551157718,
+                    3038247973,
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "The curated roll comes with Enlightened Action and Box Breathing. Box Breathing has lost its place ever since its big nerf back in season 3. This roll does allow some crispy 3-taps within PvP for a 0.67s TtK. Enlightened Action will just bring up the low handling and make the weapon feel better as you hit targets.\n\nSpeaking of the crucible the curated roll is almost perfect, if you don't like Enlightened Action you could instead opt for No Distractions or Rapid Hit. Both make subsequent shots easier to hit so you can achieve that blistering fast TtK. If you don't like the \"gimmick\" of Box Breathing you could try and farm our rolls with Explosive Payload or Cascade Point. The former adding extra flinch, the latter dropping the TtK to 0.60s but still requiring 3 crits and 1 body shot.\nMasterworks: Handling"
+        },
+        {
+            "hash": 1453235079,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    2866798147
+                ],
+                [
+                    2551157718
                 ]
             ],
             "tags": [
@@ -2571,6 +3233,102 @@
             ]
         },
         {
+            "hash": 3757612024,
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    1968497646,
+                    3230963543
+                ],
+                [
+                    3017780555,
+                    1820235745
+                ],
+                [
+                    4293542123,
+                    2109543898,
+                    2720533289
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Luna's Howl is back and retains its precision frame, while firing at 140 RPM. If you don't have a good Zaouli's Bane or Igneous Hammer with Heal Clip this can substitute. There's no shortage of Incandescent hand cannons. Magnificent Howl changed from needing precision hits to precision kills, this paired with Lucky Pants can dish out incredible damage, and fan refund itself. It could be very good and fun for lower end PvE content.\n\nThe curated roll of Luna's Howl is a great starting point for both PvE and PvP. Eye of the Storm grants accuracy and the aforementioned Magnificent Howl putting in work in low end PvE. As you scale up you might want something like Precision Instrument or Desperate Measures but it won't carry you through a grandmaster nightfall.\nMasterworks: Stability"
+        },
+        {
+            "hash": 3757612024,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3017780555
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3757612024,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    3161816588,
+                    699525795,
+                    3017780555
+                ],
+                [
+                    555281244,
+                    1015611457,
+                    2720533289
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "I am most excited to use Luna's Howl in the crucible. Precision Instrument doesn't allow you to 2c1b 10 resilience but will allow you to get some lower resilience players. You will want to invest some points into range to really help out the low base range. Magnificent Howl does allow for some fun two taps and blinting moments to keep the chaining going.\nMasterworks: Range"
+        },
+        {
+            "hash": 3757612024,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
             "hash": 4233375372,
             "plugs": [
                 [
@@ -2657,6 +3415,101 @@
                 ],
                 [
                     2610012052
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2763843898,
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    3824105627,
+                    3038247973,
+                    3700496672
+                ],
+                [
+                    3891536761,
+                    4049631843,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Midnight Coup is still my most used weapon of all time in PvE. I float around too much to stick with one weapon. I almost dethroned the King with Austringer back in Season of Opulence, but the King still stands tall. The newest version seeks the throne from the prototype and I'm looking to get a nice Holo-foil roll with double perks to really get the best of all worlds. Firefly is arguably the best perk in the third column as it provides AoE damage, and a reload speed bump. This way you won't have to spec into reload at all as the base 56 gets brought up to 100 with Firefly. Explosive Payload is also a flat damage increase in PvE and helps with stunning champions when Hand Cannon mods are up. Finally we have Shoot to Loot, this coupled with the next perk in column 4 can pick up orbs and ammo from across the map.\n\nThat specific perk is Kinetic Tremors. Kinetic Tremors will activate after 6 shots, which will most likely happen against bosses, champions, or majors. If you wanted a more \"on demand\" perk, you could choose One for All which has the potential to ramp up after just one well timed and placed crit, knock out 3 enemies and you've got a 35% damage increase. The final perk you should at least try is Desperate Measures, it works with any ability build and allows you to flex between Swashbuckler / Adrenaline Junkie and Golden Tricorn; it isn't as build specific as the former two, and it is refreshable unlike the latter.\n\nLet's briefly talk about the curated roll. Midnight Coup's curated roll is Smallbore / Accurized / Outlaw / Kinetic Tremors. This is a nice glow up from the Outlaw / Rampage roll. If you were to get this roll the only downside in PvE would be the magazine and possibly Outlaw. I believe this roll works best in PvE content as that is what made Midnight Coup the legend that it is today.\nMasterworks: Reload Speed"
+        },
+        {
+            "hash": 2763843898,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3824105627
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2763843898,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3038247973,
+                    588594999,
+                    3824105627
+                ],
+                [
+                    47981717,
+                    2387244414,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "If you were to take a roll into the Crucible, I would recommend Moving Target or Explosive Payload in the third column. Especially now that Explosive Payload has been brought back up to not have a resilience check. Moving Target will bring Midnight Coup to a nice even 100 aim assist, the only other gun to achieve this is Eyasluna with Moving Target, any sight, and a targeting adjustor. Pair this with Zen Moment or Opening Shot and you'll have an incredibly strong dueling weapon. Zen Moment makes subsequent shots easier by increasing your flinch resistance, and Opening Shot starting the duel out on the best possible foot. Midnight Coup suffers from below average range, so I would recommend Hammer-Forged Rifling to bring that up, with Zen Moment you won't need to worry about stability as much, but I would stay away from dropping any stats with Full Bore.\nMasterworks: Range"
+        },
+        {
+            "hash": 2763843898,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    47981717
                 ]
             ],
             "tags": [
@@ -2947,6 +3800,125 @@
                 [
                     1015611457,
                     2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3824673936,
+            "plugs": [
+                [
+                    839105230,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    2578928832,
+                    2578928835,
+                    1168162263
+                ],
+                [
+                    3242533954
+                ],
+                [
+                    1067908860,
+                    3465198467,
+                    990298390
+                ],
+                [
+                    4135406211
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "I remember the OG quest for Outbreak Prime. What a fun time. Outbreak Perfected has truly been perfected with crafting. Arrowhead Brake does improve the recoil but Outbreak Perfected has \"auto rifle\" recoil making the bounce a lot less intense. Bumping up the magazine with Appended Mag or Tactical Mag is preferred for more shots, but Flared Magwell for a bump in stability and reload will also feel nice. Rewind Rounds is the best perk in slot especially if the nanites count towards the bullets back. Rapid Hit or Outlaw are also great for just adding stability and reload. Short-Action Stock brings up the handling.\nMasterworks: "
+        },
+        {
+            "hash": 3824673936,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    2578928832
+                ],
+                [
+                    3242533954
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    4135406211
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3824673936,
+            "plugs": [
+                [
+                    1467527085,
+                    1482024992,
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2578928833,
+                    2578928835
+                ],
+                [
+                    3242533954
+                ],
+                [
+                    1067908860,
+                    4259401308,
+                    990298390
+                ],
+                [
+                    4135406211
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "If you would like to bring the nanites into PvP I would opt for one of two ways. Arrowhead Brake at the front end for added recoil direction, Accurized Rounds for the extra range. Headseeker or Rapid Hit depending on what you value, and your choice of Short-Action Stock for more handling or Hand-Laid Stock for the most stability. The alternative way is with Fitted Stock to bring you right up to 100 recoil direction meaning you can slot in Smallbore or even Hammer-Forged Rifling for more range. You drop some handling unless you make that up in your barrel.\nMasterworks: "
+        },
+        {
+            "hash": 3824673936,
+            "plugs": [
+                [
+                    1467527085
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2578928833
+                ],
+                [
+                    3242533954
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    4135406211
                 ]
             ],
             "tags": [
@@ -4106,6 +5078,94 @@
             ]
         },
         {
+            "hash": 570866107,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100,
+                    106909392
+                ],
+                [
+                    1523832109,
+                    3978468247
+                ],
+                [
+                    1546637391,
+                    469285294,
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "I understand Bungie wants players to get a taste of the raid weapons to get players to buy the expansions and then play the raids, but Heritage is arguably a better Deep Stone Crypt weapon that doesn't infringe on other weapon types. Nevertheless, there are not many rolls you will be farming for. Reconstruction will give you more ammo in your magazine by rebuilding itself over time. Pair that with either Vorpal Weapon or Recombination for some high damage shot(s). Firing Line is great if you can link up with teammates to get the extra damage.\n\nSuccession's curated roll comes with Lead from Gold and Focused Fury. Focused Fury is a great damage perk that ramps up as you continuously fire (and hit). Lead From Gold is a bit underwhelming as there is a better perk in the same column but I understand Bungie's philosophy of 80% of a god roll.\nMasterworks: Handling, Stability"
+        },
+        {
+            "hash": 570866107,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 570866107,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    588594999,
+                    280464955
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over in the crucible snipers have taken a hit. Not only did they get harder to use with an aim assist nerf, but the ammo economy shifting makes it feel as if you're never getting ammo. In order to make the most use of Succession you'll need high handling alongside Snapshot Sights. Then you can choose your column 3 perk from Moving Target for added aim assist and strafe speed when ADS, or Firmly Planted for better accuracy and a slight handling bump when crouched.\nMasterworks: Handling"
+        },
+        {
+            "hash": 570866107,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    588594999
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
             "hash": 92459755,
             "plugs": [
                 [
@@ -4308,6 +5368,100 @@
             ]
         },
         {
+            "hash": 568611922,
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    1441682018
+                ],
+                [
+                    3301904089,
+                    2822142346
+                ],
+                [
+                    2010801679,
+                    3300816228,
+                    3643424744
+                ],
+                [
+                    469285294,
+                    4104185692,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Mountaintop will always have a love/hate relationship for the player base. Not only was it incredibly strong in PvP being able to nuke a player from across the map, but it also had a long-standing history in PvE being able to destroy majors and auto-reload via Lunafaction Boots / Rally Barricades. Nowadays the combo is a lot less potent.\n\nWe can still make Mountaintop into a formidable weapon and certainly one to chase. Ambitious Assassin allows up to two shots per magazine after a kill, if you were to pair that with Frenzy for 100 reload you could use this for back to back firing against a boss. The added 15% damage boost won't hurt either. Vorpal weapon is another flat 15% damage boost. The best bang for your shot is Recombination. This gives you a 100% damage increase for any 10 elemental weapon kills. If you ever wanted Izanagi's Burden in the form of a grenade launcher, Recombination paired with Auto-Loading Holster will be the roll to grab.\n\nThe curated Mountaintop is an interesting roll. Lead From Gold allows you to rock out with a heavy weapon and run double specials. One for All is an easy damage bonus to grab with grenade launchers as the splash damage can hit multiple enemies. There are certainly better perk combos for a double special loadout and even if you wanted to rock One for All, I'd recommend Ambitious Assassin or Overflow to make it easier to use.\nMasterworks: Velocity"
+        },
+        {
+            "hash": 568611922,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 568611922,
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    1441682018
+                ],
+                [
+                    2822142346,
+                    3373736292
+                ],
+                [
+                    951095735,
+                    3300816228
+                ],
+                [
+                    469285294,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Mountaintop originally didn't have much of a footing in PvP but quickly dove right into our nightmares. If you want a quick-swap roll go for Slickdraw. If you want more of a long ranged tube shotgun roll, Impulse Amplifier will make the grenade shot near instant. With the way special ammo is shaking up in the crucible through the meter or boxes, I think some of the best perks for Mountaintop are the swap perks, Harmony and Recombination. Both allow you to build up a higher damage shot to make Mountaintop one shot again, bringing it back to Recluse or another Harmony weapon to flex on all the hunters out there.\nMasterworks: Velocity"
+        },
+        {
+            "hash": 568611922,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
             "hash": 1968410628,
             "plugs": [
                 [
@@ -4493,6 +5647,102 @@
                 ],
                 [
                     1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 1050806815,
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    1968497646,
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    2779035018,
+                    776531651
+                ],
+                [
+                    2048641572,
+                    3081867624,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Recluse has not only been power crept from its former self with things like Funnelweb, IKELOS_SMG_v1.0.3, CALUS Mini-Tool, and even The Title from the recent Guardian Games. Did we know The Recluse was coming back to take its throne? Not at the time. But we can say for certain it's here to stay. Subsistence, Enlightened Action, or Feeding Frenzy are all great perks to maximize the reload or bypass having to reload one way or another. Repulsor Brace is incredible with Void subclasses, but you don't need to be on Void to take advantage of this SMG. Desperate Measures can work on any subclass and has great synergy with any of the reload perks. Obviously a damage + reload combo will be good but having something that doesn't necessarily lean into any of the subclass verbs can make it easier to translate across builds and activities. Would you be better with a more subclass focused roll? Highly depends on your build.\n\nThe curated roll of Recluse is a carbon copy of the original, so if you liked the original you'll like the curated roll. Nothing new to decipher here.\nMasterworks: Stability"
+        },
+        {
+            "hash": 1050806815,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 1050806815,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    1359896290,
+                    4071163871,
+                    1866048759
+                ],
+                [
+                    1890422124,
+                    2109543898,
+                    3081867624
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Recluse's defining trait, Master of Arms, being brought down to a 15% damage buff makes it more manageable as a weapon and less dominant in PvE and PvP. Instead you could opt for consistency perks like Dynamic Sway Reduction, or Tap the Trigger. Threat Detector and Hip-Fire Grip are both excellent but have more limiting use cases; distance and non-ADS respectively. Desperate Measures is a better lethality perk as it can activate while stowed, so once you get a grenade or melee kill it lets you relive the 20% damage bonus of pre-nerf Master of Arms.\nMasterworks: Range"
+        },
+        {
+            "hash": 1050806815,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    1890422124
                 ]
             ],
             "tags": [
@@ -5901,6 +7151,112 @@
                 ],
                 [
                     47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 1983149589,
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    3230963543,
+                    1431678320,
+                    3177308360
+                ],
+                [
+                    777589559,
+                    777589556,
+                    777589557
+                ],
+                [
+                    1067908860,
+                    990298390,
+                    3465198467
+                ],
+                [
+                    3732232161
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Whisper is back and craftable. What seems to be the best perks for our dear friend Xol, Will of Thousands? Arrowhead Brake is the best in slot for making the recoil direction vertical, but if you don't need that, Corkscrew Rifling or Fluted Barrel for the added stats. Bungie decided against magazine extending perks so the best here is Flared Magwell for when you miss and need to reload. Alloy Mag is great if you do run out of ammo and need to reload before another boss fight or after a wipe. In the third column Field Prep brings up the already buffed reserves while also making reloading faster when crouched. The final column are the stocks and Short-Action Stock is the best for the added handling, if you didn't slot in Arrowhead Brake and still want the recoil direction bumped up you could instead go for Fitted Stock.\nMasterworks: "
+        },
+        {
+            "hash": 1983149589,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    777589559
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    3732232161
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 1983149589,
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3337692349,
+                    777589559
+                ],
+                [
+                    1067908860,
+                    3465198467
+                ],
+                [
+                    3732232161
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "If you wanted to take Whisper into PvP bump up the handling via Fluted Barrel and Short-Action Stock. Field Prep also gives a handling bonus when crouched and Accurized Rounds will also bump up your range.\nMasterworks: "
+        },
+        {
+            "hash": 1983149589,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3337692349
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    3732232161
                 ]
             ],
             "tags": [
