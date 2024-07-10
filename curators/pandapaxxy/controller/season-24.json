@@ -288,10 +288,10 @@
                 ],
                 [
                     460017080,
-                    1015611457,
+                    3047969693,
                     2610012052,
                     4045335048,
-                    2923251173,
+                    624891305,
                     4290541820
                 ]
             ],
@@ -398,10 +398,10 @@
                 ],
                 [
                     460017080,
-                    1015611457,
+                    3047969693,
                     2610012052,
                     4045335048,
-                    2923251173,
+                    624891305,
                     4290541820
                 ]
             ],
@@ -1369,12 +1369,12 @@
                     3142289711
                 ],
                 [
+                    2039302152,
                     3828510309,
                     588594999,
-                    880644845,
+                    2396422520,
                     1771736209,
-                    2717805783,
-                    3120212825
+                    2717805783
                 ],
                 [
                     555281244,
@@ -1400,8 +1400,8 @@
                     3142289711
                 ],
                 [
-                    3828510309,
-                    1771736209
+                    2039302152,
+                    2396422520
                 ],
                 [
                     555281244,
@@ -2003,7 +2003,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Handling"
         },
         {
             "hash": 627188188,
@@ -2111,7 +2112,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Handling"
         },
         {
             "hash": 1321626661,
@@ -3097,7 +3099,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Range"
         },
         {
             "hash": 1711056134,
@@ -3208,7 +3211,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Range"
         },
         {
             "hash": 2839600459,
@@ -3427,7 +3431,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Stability"
         },
         {
             "hash": 3428407746,
@@ -4950,7 +4955,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Draw Time"
         },
         {
             "hash": 3465233192,
@@ -5059,7 +5065,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Draw Time"
         },
         {
             "hash": 2932922810,
@@ -5168,7 +5175,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Draw Time"
         },
         {
             "hash": 2063217087,
@@ -5382,7 +5390,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Range"
         },
         {
             "hash": 557165046,
@@ -7001,7 +7010,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Stability"
         },
         {
             "hash": 417100299,
@@ -7445,7 +7455,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Blast Radius"
         },
         {
             "hash": 3686538757,
@@ -7544,7 +7555,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Blast Radius"
         },
         {
             "hash": 817909300,
@@ -7648,7 +7660,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Handling"
         },
         {
             "hash": 42874240,
@@ -7752,7 +7765,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Handling"
         },
         {
             "hash": 3610521673,
@@ -7966,7 +7980,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Range, Stability"
         },
         {
             "hash": 2152484073,
@@ -8072,7 +8087,8 @@
             ],
             "tags": [
                 "PVP"
-            ]
+            ],
+            "description": "Masterworks: Range, Stability"
         },
         {
             "hash": 3250744600,
