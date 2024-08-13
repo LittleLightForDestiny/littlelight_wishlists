@@ -1086,6 +1086,54 @@
             ]
         },
         {
+            "hash": 4169225313,
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1631667848,
+                    402033656
+                ],
+                [
+                    2360754333,
+                    2459015849
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "I've always liked the wombo combo of Grave Robber / Melee perk. One-Two Punch is usually my go-to but in precision and aggressives where the base damage is higher I flip flop between One-Two Punch and Trench Barrel. It switches up the order of operations which is sometimes too much for me. But it's always a nice synergy weapon to keep in your vault.\nMasterworks: Handling"
+        },
+        {
+            "hash": 4169225313,
+            "plugs": [
+                [
+                    1332244541
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1821614984,
+                    1942880504
+                ],
+                [
+                    47981717,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "The only weapon I'm looking for grinding this Solstice is the Compass Rose with Slickdraw. I have been an avid fan of Slickdraw for quite some time. It rolled on a few pellet shotguns so far but has fallen short mostly due to bad stats or accompanying perks. Deadpan Delivery was the first and really couldn't compete without a 5/5. Next were some lightweight frames that didn't need Slickdraw to hit high handling, so it was wasted. Now it's on a precision frame that can also hit max handling and get Assault Mag to boost follow up shots is going to replace my energy shotguns entirely.\nMasterworks: Range"
+        },
+        {
             "hash": 423343404,
             "plugs": [
                 [
@@ -1618,6 +1666,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "hash": 4106757302,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    563069569,
+                    2167611941
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "Reconstruction and Reverberation don't seem like a pair. But with Reverberation your second shot (thanks to Reconstruction) has a larger blast radius size. I don't believe it adds to the actual blast radius stat, moreso just increases the radius upon getting kills. The intrinsic tracking will make using a rocket for add clear could be feasible.\nMasterworks: Blast Radius"
+        },
+        {
+            "hash": 4106757302,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "Rockets in PvP are hit or miss (zing). The intrinsic tracking on Crowning Duologue will make hitting fast moving hunters a breeze, and with Impulse Amplifier you'll have a faster moving rocket, should you get the kill you'll have Chain Reaction taking care of the rest. A one shot, fire and forget, team wipe.\nMasterworks: Blast Radius"
         },
         {
             "hash": 499245245,
@@ -2568,6 +2664,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "hash": 2326578623,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "A lightweight bow with the Void wombo combo. What more could you want?\nMasterworks: Accuracy"
+        },
+        {
+            "hash": 2326578623,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    1866048759,
+                    3118144663
+                ],
+                [
+                    3414324643,
+                    2662236651
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "I see it now, a CammyCakes style video or Hynra style video of Archer's Gambit going crazy. Stacking all the hip fire benefits as you can and just going right on in. While it's certainly not for me (lil paws won't allow it) I would love to see it and I think it would maximise the potential for this bow.\nMasterworks: Accuracy"
         },
         {
             "hash": 3962575203,
@@ -6274,6 +6418,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "hash": 586671776,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "I recently broke out my Something New from last season with Headstone / Wellspring which is a shame we cannot get that roll this year. The closest is a heavier investment into grenades with Demolitionist. While not the worst weapon, losing Wellspring puts this behind Eyasluna for me, yes even without the origin trait.\nMasterworks: Handling"
+        },
+        {
+            "hash": 586671776,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3511092054,
+                    711234314
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "Potentially a higher stat version of Crimil's Dagger, the Something New with Elemental Capacitor and Precision Instrument looks to take over your kinetic slot. I was waiting for this weapon to come up instead of trying within Iron Banner. Enhanced Void Elemental Capacitor giving you a whopping +25 in stability or +55 handling on Arc brings up the stats so much that you might forget about Igneous Hammer.\nMasterworks: Range"
         },
         {
             "hash": 412251536,
