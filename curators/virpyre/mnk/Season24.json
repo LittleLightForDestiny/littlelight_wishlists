@@ -8757,6 +8757,51 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "Subsistence allows you to spam more shots. Your gun will auto-reload five bullets back into the magazine, which is the amount of ammo the Wyvern shot takes.\n\nOnslaught, on the other hand, boosts the ADS variant of the gun, allowing it to mow through trash mobs a little quicker.",
+            "hash": 3698448090,
+            "name": "Subsistence vs Onslaught",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3465198467
+                ],
+                [
+                    1931951168,
+                    1931951170
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "There are no real good perks if you have to go with one then Onslaught is the best because the RPM increase may net you some multi-kills.",
+            "hash": 3698448090,
+            "name": "Onslaught or Bust",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    990298390
+                ],
+                [
+                    1931951170
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
