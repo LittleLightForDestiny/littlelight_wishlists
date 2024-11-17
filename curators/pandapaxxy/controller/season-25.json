@@ -1,0 +1,554 @@
+{
+    "name": "Pandapaxxy's Controller rolls - Season 25",
+    "description": "Recommendations based on Pandapaxxy's breakdowns on r/sharditorkeepit for Controller on Season 25 weapons.",
+    "data": [
+        {
+            "hash": 425681240,
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    1441682018
+                ],
+                [
+                    3301904089,
+                    2985827016
+                ],
+                [
+                    2284787283,
+                    951095735,
+                    1421772400,
+                    3563868667,
+                    3878366039,
+                    3291427296
+                ],
+                [
+                    3078487919,
+                    3751912585,
+                    3194351027,
+                    3744057135,
+                    331667533,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Acosmic is back and better than ever. Clown Cartridge and any of your favorite damage perks is going to be the roll to get. Impulse Amplifier is also good if you don't remember to reload before damage phases. Air Trigger can get you back to back mags with ease. I would say that Withering Gaze is not the perk to get. It's solid on special weapons and even though it's new it doesn't work well with the best in slot perk, Bait and Switch. If you can lead with Withering Gaze on another weapon you can swap to Acosmic for huge damage numbers.\nMasterworks: Blast Radius"
+        },
+        {
+            "hash": 425681240,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2284787283,
+                    3563868667
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 425681240,
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    1441682018
+                ],
+                [
+                    3301904089,
+                    1380253176
+                ],
+                [
+                    951095735,
+                    1134488199,
+                    3878366039,
+                    2904194311
+                ],
+                [
+                    3194351027,
+                    2396489472,
+                    2275087323,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over in PvP grenade launchers lost a lot of their shine with the health changes. 70 Blast Radius is the target to hit. Impulse Amplifier to boost up grenade Velocity. Withering Gaze with Proximity Grenades or High-Explosive Ordinance wouldn't be the worst combo as you won't be able to OHK and be able to swap to your primary or special for easy clean ups. Explosive Light is easy to get with orb generation through Reaper or Siphon mods. If you opt for general use you can go with Chain Reaction.\nMasterworks: Blast Radius"
+        },
+        {
+            "hash": 425681240,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3649985571,
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1354429876,
+                    1631667848,
+                    25606670,
+                    848860060,
+                    402033656,
+                    3143051906
+                ],
+                [
+                    555281244,
+                    3708227201,
+                    3047969693,
+                    332733060,
+                    781192741,
+                    624891305
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Arcane Embrace is the newest frame to Destiny 2. A double fire slug shotgun. Each trigger pull fires two semi-deadly slugs. (Only semi if you can hit your shots). Over in your regular PvE activities it shouldn't matter unless you regularly GM or something. Fourth Times the Charm will give you one extra trigger pull for two consecutive burst crits. Precision Instrument stacks quickly on double fire frames and will work nicely against chunky health bars and champions. Surrounded can work better depending on the encounter and how confident you are at staying alive. Bonus points for Desperado for shotgun go brrrrr.\nMasterworks: Reload Speed"
+        },
+        {
+            "hash": 3649985571,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3649985571,
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2579169598,
+                    3161816588,
+                    4071163871,
+                    2073244114,
+                    191144788,
+                    494941759
+                ],
+                [
+                    1194056669,
+                    1890422124,
+                    4082225868,
+                    3955464425,
+                    1523649716,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Arcane Embrace is not good in PvP. You need to land both shots to kill and one has to be a crit in order for you to secure the kill. Tap the Trigger and Closing Time both help your accuracy and Lone Wolf will boost your mid tier aim assist. If you treat this like a normal shotgun or slug you're going to have a bad time.\nMasterworks: Range"
+        },
+        {
+            "hash": 3649985571,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3558681245,
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    1968497646,
+                    3230963543
+                ],
+                [
+                    3418782618,
+                    1820235745,
+                    3643424744,
+                    1563455254,
+                    4245865861,
+                    2682205016
+                ],
+                [
+                    95528736,
+                    3891536761,
+                    2109543898,
+                    956288240,
+                    1549370717,
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Braytech Werewolf is the sole survivor of the two FotL auto rifle conundrum we've had. Poor Horror Story (though whether it's a glitch or not, you can enhance your old FotL weapons...SGA). When using Braytech Werewolf in PvE your best roll is Rewind Rounds or Subsistence paired with your choice of Onslaught or Kinetic Tremors. It entirely depends on how you would like to use this auto. All 4 perks are great on their own and make this auto feel incredible.\nMasterworks: Reload Speed"
+        },
+        {
+            "hash": 3558681245,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    95528736,
+                    956288240
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3558681245,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    2579169598,
+                    1359896290,
+                    2387244414,
+                    2073244114,
+                    3060983774,
+                    1748774930
+                ],
+                [
+                    1015611457,
+                    1890422124,
+                    2109543898,
+                    2923251173,
+                    1523649716,
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Precision Frame auto rifles got a recent buff but still don't feel as dominant as they did in year 1 of Destiny 2. Wild that we've come this far. Lone Wolf will give you the best feel for being solo but if you prefer to team-shoot or just live in 6s your better perks are Dynamic Sway Reduction or Zen Moment. Kill Clip is tried and true for the fourth column. Tap the Trigger does stack with our accuracy boosts in the third column for an extremely sticky auto rifle. Desperate Measures is my favorite neutral damage perk that can work with any ability build.\nMasterworks: Range"
+        },
+        {
+            "hash": 3558681245,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 689294985,
+            "plugs": [
+                [
+                    839105230,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    3017780555,
+                    1119449540,
+                    1820235745,
+                    4223976499,
+                    561986700,
+                    4245865861
+                ],
+                [
+                    4293542123,
+                    2109543898,
+                    4104185692,
+                    2675184851,
+                    2799030358,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Jurassic Green has always been an interesting weapon. It has worse base stats compared to other Rapid-Fire frame pulse rifles. Even with the deterministic recoil I preferred the base recoil with counterbalance or full send to 100 recoil direction with Arrowhead Brake. Heal Clip and Incandescent are tried and true rolls but you could opt for Frenzy for the big boost to reload and handling. Loose Change with Incandescent can also make you forget about the reload stat, but falls off a bit in higher level content.\nMasterworks: Stability, Reload Speed"
+        },
+        {
+            "hash": 689294985,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 689294985,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2579169598,
+                    3619207468,
+                    1194056669,
+                    2073244114,
+                    3198323828,
+                    3955464425
+                ],
+                [
+                    1015611457,
+                    11612903,
+                    460017080,
+                    2923251173,
+                    2422968039,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over in the crucible you've got a few things to keep in mind. AST base Jurassic Green hits out to 30.64m. at max you're only gaining ~5m. The better play is to invest your stats into consistency perks. Closing Time and Lone Wolf are both new and exciting perks but Keep Away is tried and true. Kill Clip will make follow up kills easier and depending on your build you could go for Adrenaline Junkie or even Desperate Measures. Headseeker is the best neutral option in the fourth column.\nMasterworks: Stability"
+        },
+        {
+            "hash": 689294985,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2477980485,
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    3400784728,
+                    2284787283,
+                    3523296417,
+                    573122728,
+                    3563868667,
+                    1906147653
+                ],
+                [
+                    1771339417,
+                    1546637391,
+                    395388285,
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Mechabre has always been a great sniper rifle. Even though High-Impact snipers aren't high meta their high single shot damage is great for solo play or short damage phases where accuracy isn't as important. Triple Tap or Clown Cartridge will get you better ammo with Appended Mag and a backup mag mod. If you're going to be with fireteam members, Firing Line is best in slot. Vorpal Weapon is second best but better for solo or dual fireteams.\nMasterworks: Reload Speed"
+        },
+        {
+            "hash": 2477980485,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2477980485,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    957782887,
+                    2579169598,
+                    4116820839,
+                    2073244114
+                ],
+                [
+                    1194056669,
+                    47981717,
+                    3955464425,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over in PvP you've got two different Ros to go for with combinations between them. The tried and true Snapshot Sights / Opening Shot will always work, especially good if you didn't get the free roll from Festival of the Lost past. Lone Wolf and Closing Time is the new hotness and works best with a mag boosting perk or backup mag to get 2 attempts with Closing Time (versus one shot with the base magazine of 3).\nMasterworks: Handling"
+        },
+        {
+            "hash": 2477980485,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    957782887,
+                    4116820839
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        }
+    ]
+}
