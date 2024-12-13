@@ -1688,10 +1688,12 @@
                     3230963543
                 ],
                 [
-                    1820235745
+                    1820235745,
+                    4245865861
                 ],
                 [
-                    4104185692
+                    4104185692,
+                    3007133316
                 ]
             ],
             "tags": [
@@ -1710,10 +1712,12 @@
                     1885400500
                 ],
                 [
-                    699525795
+                    699525795,
+                    3719974635
                 ],
                 [
-                    2846385770
+                    2846385770,
+                    509594246
                 ]
             ],
             "tags": [
@@ -1739,7 +1743,11 @@
                     1820235745,
                     1631667848,
                     1168162263,
-                    2779035018
+                    2779035018,
+                    4245865861,
+                    402033656,
+                    1347741687,
+                    1171147302
                 ],
                 [
                     4104185692,
@@ -1747,7 +1755,13 @@
                     2458213969,
                     3708227201,
                     691659142,
-                    4049631843
+                    4049631843,
+                    3007133316,
+                    2939589096,
+                    2570477205,
+                    781192741,
+                    536173722,
+                    859780267
                 ]
             ],
             "tags": [
@@ -1774,13 +1788,21 @@
                     699525795,
                     1359896290,
                     1570042021,
-                    2450788523
+                    2450788523,
+                    3719974635,
+                    3060983774,
+                    2748258257,
+                    4207509907
                 ],
                 [
                     2846385770,
                     365154968,
                     2458213969,
-                    1195158366
+                    1195158366,
+                    509594246,
+                    2939589096,
+                    2570477205,
+                    838873202
                 ]
             ],
             "tags": [
@@ -1796,7 +1818,11 @@
                     1820235745,
                     1631667848,
                     1168162263,
-                    2779035018
+                    2779035018,
+                    4245865861,
+                    402033656,
+                    1347741687,
+                    1171147302
                 ],
                 [
                     4104185692,
@@ -1804,7 +1830,13 @@
                     2458213969,
                     3708227201,
                     691659142,
-                    4049631843
+                    4049631843,
+                    3007133316,
+                    2939589096,
+                    2570477205,
+                    781192741,
+                    536173722,
+                    859780267
                 ]
             ],
             "tags": [
@@ -1820,13 +1852,21 @@
                     699525795,
                     1359896290,
                     1570042021,
-                    2450788523
+                    2450788523,
+                    3719974635,
+                    3060983774,
+                    2748258257,
+                    4207509907
                 ],
                 [
                     2846385770,
                     365154968,
                     2458213969,
-                    1195158366
+                    1195158366,
+                    509594246,
+                    2939589096,
+                    2570477205,
+                    838873202
                 ]
             ],
             "tags": [
@@ -2403,11 +2443,14 @@
                     1087426260
                 ],
                 [
-                    2869569095
+                    2869569095,
+                    2308090567
                 ],
                 [
                     1771339417,
-                    1546637391
+                    1546637391,
+                    395388285,
+                    3418165135
                 ]
             ],
             "tags": [
@@ -2427,10 +2470,13 @@
                 ],
                 [
                     3511092054,
-                    588594999
+                    588594999,
+                    711234314,
+                    2717805783
                 ],
                 [
-                    957782887
+                    957782887,
+                    4116820839
                 ]
             ],
             "tags": [
@@ -2454,12 +2500,17 @@
                 ],
                 [
                     2869569095,
-                    2284787283
+                    2284787283,
+                    2308090567,
+                    3563868667
                 ],
                 [
                     1771339417,
                     1546637391,
-                    4104185692
+                    4104185692,
+                    395388285,
+                    3418165135,
+                    3007133316
                 ]
             ],
             "tags": [
@@ -2486,14 +2537,24 @@
                     588594999,
                     2866798147,
                     3436462433,
-                    1428297954
+                    1428297954,
+                    711234314,
+                    2717805783,
+                    3974407819,
+                    2658083589,
+                    2014892510
                 ],
                 [
                     957782887,
                     47981717,
                     2213355989,
                     1821614984,
-                    438098033
+                    438098033,
+                    4116820839,
+                    1370847713,
+                    2002547233,
+                    1942880504,
+                    2748801589
                 ]
             ],
             "tags": [
@@ -2507,12 +2568,17 @@
             "plugs": [
                 [
                     2869569095,
-                    2284787283
+                    2284787283,
+                    2308090567,
+                    3563868667
                 ],
                 [
                     1771339417,
                     1546637391,
-                    4104185692
+                    4104185692,
+                    395388285,
+                    3418165135,
+                    3007133316
                 ]
             ],
             "tags": [
@@ -2520,7 +2586,7 @@
             ]
         },
         {
-            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I’d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
+            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I\u2019d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
             "hash": 882778888,
             "name": "",
             "plugs": [
@@ -2531,10 +2597,12 @@
                     3142289711
                 ],
                 [
-                    588594999
+                    588594999,
+                    2717805783
                 ],
                 [
-                    2846385770
+                    2846385770,
+                    509594246
                 ],
                 [
                     3326204863
@@ -2545,7 +2613,7 @@
             ]
         },
         {
-            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I’d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
+            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I\u2019d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
             "hash": 882778888,
             "name": "",
             "plugs": [
@@ -2556,10 +2624,12 @@
                     3142289711
                 ],
                 [
-                    3161816588
+                    3161816588,
+                    191144788
                 ],
                 [
-                    699525795
+                    699525795,
+                    3719974635
                 ],
                 [
                     3326204863
@@ -2570,7 +2640,7 @@
             ]
         },
         {
-            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I’d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
+            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I\u2019d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
             "hash": 882778888,
             "name": "",
             "plugs": [
@@ -2581,10 +2651,12 @@
                     3142289711
                 ],
                 [
-                    1428297954
+                    1428297954,
+                    2014892510
                 ],
                 [
-                    3038247973
+                    3038247973,
+                    64866129
                 ],
                 [
                     3326204863
@@ -2606,10 +2678,12 @@
                     106909392
                 ],
                 [
-                    247725512
+                    247725512,
+                    2938480696
                 ],
                 [
-                    3038247973
+                    3038247973,
+                    64866129
                 ],
                 [
                     862848869
@@ -2620,7 +2694,7 @@
             ]
         },
         {
-            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I’d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
+            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I\u2019d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
             "hash": 882778888,
             "name": "",
             "plugs": [
@@ -2640,14 +2714,25 @@
                     588594999,
                     247725512,
                     3511092054,
-                    706527188
+                    706527188,
+                    191144788,
+                    2014892510,
+                    2717805783,
+                    2938480696,
+                    711234314,
+                    1961144892
                 ],
                 [
                     3038247973,
                     2846385770,
                     699525795,
                     47981717,
-                    957782887
+                    957782887,
+                    64866129,
+                    509594246,
+                    3719974635,
+                    1370847713,
+                    4116820839
                 ],
                 [
                     3326204863,
@@ -2675,11 +2760,14 @@
                     3230963543
                 ],
                 [
-                    247725512
+                    247725512,
+                    2938480696
                 ],
                 [
                     3038247973,
-                    1546637391
+                    1546637391,
+                    64866129,
+                    3418165135
                 ],
                 [
                     862848869,
@@ -2692,15 +2780,17 @@
             ]
         },
         {
-            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I’d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
+            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I\u2019d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
             "hash": 882778888,
             "name": "",
             "plugs": [
                 [
-                    247725512
+                    247725512,
+                    2938480696
                 ],
                 [
-                    3038247973
+                    3038247973,
+                    64866129
                 ]
             ],
             "tags": [
@@ -2709,7 +2799,7 @@
             ]
         },
         {
-            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I’d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
+            "description": "This Hand Cannon cannot have a one and done God Roll for PvP. Practically every perk other than Vorpal is an S tier Crucible perk, and to lock you into my favourite roll is doing Rose an injustice. This is a gun where you need to experiment and find out what your god roll is. For some suggestions I\u2019d look into Moving Target + Rangefinder for consistency and range, Slideshot + EotS for moving from duel to duel and Perpetual Motion + Explosive Payload for consistency and dueling within a closer range - but this gun will shine best in your hands with your build on it. Maximise the stats and get the engagement range above 30m and this will be hands down the best PvP Hand cannon in the Kinetic Slot",
             "hash": 882778888,
             "name": "",
             "plugs": [
@@ -2719,14 +2809,25 @@
                     588594999,
                     247725512,
                     3511092054,
-                    706527188
+                    706527188,
+                    191144788,
+                    2014892510,
+                    2717805783,
+                    2938480696,
+                    711234314,
+                    1961144892
                 ],
                 [
                     3038247973,
                     2846385770,
                     699525795,
                     47981717,
-                    957782887
+                    957782887,
+                    64866129,
+                    509594246,
+                    3719974635,
+                    1370847713,
+                    4116820839
                 ]
             ],
             "tags": [
@@ -2739,11 +2840,14 @@
             "name": "",
             "plugs": [
                 [
-                    247725512
+                    247725512,
+                    2938480696
                 ],
                 [
                     3038247973,
-                    1546637391
+                    1546637391,
+                    64866129,
+                    3418165135
                 ]
             ],
             "tags": [
@@ -2762,10 +2866,12 @@
                     3796465595
                 ],
                 [
-                    2869569095
+                    2869569095,
+                    2308090567
                 ],
                 [
-                    3194351027
+                    3194351027,
+                    2275087323
                 ]
             ],
             "tags": [
@@ -2784,10 +2890,12 @@
                     2822142346
                 ],
                 [
-                    951095735
+                    951095735,
+                    3878366039
                 ],
                 [
-                    2396489472
+                    2396489472,
+                    598607952
                 ]
             ],
             "tags": [
@@ -2810,13 +2918,20 @@
                 [
                     2869569095,
                     951095735,
-                    3523296417
+                    3523296417,
+                    2308090567,
+                    3878366039,
+                    1906147653
                 ],
                 [
                     3194351027,
                     1546637391,
                     4104185692,
-                    3927722942
+                    3927722942,
+                    2275087323,
+                    3418165135,
+                    3007133316,
+                    1167468626
                 ]
             ],
             "tags": [
@@ -2837,10 +2952,13 @@
                 ],
                 [
                     951095735,
-                    3977735242
+                    3977735242,
+                    3878366039,
+                    406461158
                 ],
                 [
-                    2396489472
+                    2396489472,
+                    598607952
                 ]
             ],
             "tags": [
@@ -2854,10 +2972,13 @@
             "plugs": [
                 [
                     951095735,
-                    3977735242
+                    3977735242,
+                    3878366039,
+                    406461158
                 ],
                 [
-                    2396489472
+                    2396489472,
+                    598607952
                 ]
             ],
             "tags": [
@@ -4329,7 +4450,7 @@
             ]
         },
         {
-            "description": "A good chance for a solid free aggressive pulse ruined by a terrible barrel option, horrific recoil direction for a pulse and a mediocre 3rd column selection. As a 4 burst aggressive it’s a fixed roll option for an otherwise rare archetype but as soon as you get an alternative it’s probably better to swap over to that asap",
+            "description": "A good chance for a solid free aggressive pulse ruined by a terrible barrel option, horrific recoil direction for a pulse and a mediocre 3rd column selection. As a 4 burst aggressive it\u2019s a fixed roll option for an otherwise rare archetype but as soon as you get an alternative it\u2019s probably better to swap over to that asap",
             "hash": 2276328320,
             "name": "",
             "plugs": [
@@ -4352,7 +4473,7 @@
             ]
         },
         {
-            "description": "A good chance for a solid free aggressive pulse ruined by a terrible barrel option, horrific recoil direction for a pulse and a mediocre 3rd column selection. As a 4 burst aggressive it’s a fixed roll option for an otherwise rare archetype but as soon as you get an alternative it’s probably better to swap over to that asap",
+            "description": "A good chance for a solid free aggressive pulse ruined by a terrible barrel option, horrific recoil direction for a pulse and a mediocre 3rd column selection. As a 4 burst aggressive it\u2019s a fixed roll option for an otherwise rare archetype but as soon as you get an alternative it\u2019s probably better to swap over to that asap",
             "hash": 2276328320,
             "name": "",
             "plugs": [
@@ -4375,7 +4496,7 @@
             ]
         },
         {
-            "description": "An MG with good perks sadly let down a little by it’s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it’s arguably overtaken by Commemoration",
+            "description": "An MG with good perks sadly let down a little by it\u2019s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it\u2019s arguably overtaken by Commemoration",
             "hash": 487205709,
             "name": "",
             "plugs": [
@@ -4419,7 +4540,7 @@
             ]
         },
         {
-            "description": "An MG with good perks sadly let down a little by it’s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it’s arguably overtaken by Commemoration",
+            "description": "An MG with good perks sadly let down a little by it\u2019s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it\u2019s arguably overtaken by Commemoration",
             "hash": 487205709,
             "name": "",
             "plugs": [
@@ -4443,7 +4564,7 @@
             ]
         },
         {
-            "description": "An MG with good perks sadly let down a little by it’s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it’s arguably overtaken by Commemoration",
+            "description": "An MG with good perks sadly let down a little by it\u2019s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it\u2019s arguably overtaken by Commemoration",
             "hash": 487205709,
             "name": "",
             "plugs": [
@@ -4502,7 +4623,7 @@
             ]
         },
         {
-            "description": "An MG with good perks sadly let down a little by it’s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it’s arguably overtaken by Commemoration",
+            "description": "An MG with good perks sadly let down a little by it\u2019s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it\u2019s arguably overtaken by Commemoration",
             "hash": 487205709,
             "name": "",
             "plugs": [
@@ -4519,7 +4640,7 @@
             ]
         },
         {
-            "description": "An MG with good perks sadly let down a little by it’s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it’s arguably overtaken by Commemoration",
+            "description": "An MG with good perks sadly let down a little by it\u2019s frame. Demo + Voltshot gives the MG some excellent add clearing in Arc - although it\u2019s arguably overtaken by Commemoration",
             "hash": 487205709,
             "name": "",
             "plugs": [
@@ -4556,7 +4677,7 @@
             ]
         },
         {
-            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
+            "description": "While unfortunately Long Arm hasn\u2019t quite stacked up as the Legendary  Dead Man\u2019s Tale, it still shines in it\u2019s own niche. While normally I\u2019d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
             "hash": 8293111,
             "name": "",
             "plugs": [
@@ -4601,7 +4722,7 @@
             ]
         },
         {
-            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo. For PvP leaning into the Legendary DMT vibe is probably best, with Hipfire Grip to improve the hipfire and Explosive Payload or Opening Shot for consistency/flinch",
+            "description": "While unfortunately Long Arm hasn\u2019t quite stacked up as the Legendary  Dead Man\u2019s Tale, it still shines in it\u2019s own niche. A unique scout rifle which could be pretty good. While normally I\u2019d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo. For PvP leaning into the Legendary DMT vibe is probably best, with Hipfire Grip to improve the hipfire and Explosive Payload or Opening Shot for consistency/flinch",
             "hash": 8293111,
             "name": "",
             "plugs": [
@@ -4625,7 +4746,7 @@
             ]
         },
         {
-            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
+            "description": "While unfortunately Long Arm hasn\u2019t quite stacked up as the Legendary  Dead Man\u2019s Tale, it still shines in it\u2019s own niche. A unique scout rifle which could be pretty good. While normally I\u2019d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
             "hash": 8293111,
             "name": "",
             "plugs": [
@@ -4686,7 +4807,7 @@
             ]
         },
         {
-            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
+            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it\u2019s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
             "hash": 4070357005,
             "name": "",
             "plugs": [
@@ -4708,7 +4829,7 @@
             ]
         },
         {
-            "description": "PvP - don’t bother. Bad perks and bad frame leads to a bad time",
+            "description": "PvP - don\u2019t bother. Bad perks and bad frame leads to a bad time",
             "hash": 4070357005,
             "name": "",
             "plugs": [
@@ -4730,7 +4851,7 @@
             ]
         },
         {
-            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn’t bother",
+            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn\u2019t bother",
             "hash": 1555959830,
             "name": "",
             "plugs": [
@@ -4752,7 +4873,7 @@
             ]
         },
         {
-            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn’t bother",
+            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn\u2019t bother",
             "hash": 1555959830,
             "name": "",
             "plugs": [
@@ -4774,7 +4895,7 @@
             ]
         },
         {
-            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn’t bother",
+            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn\u2019t bother",
             "hash": 1555959830,
             "name": "",
             "plugs": [
@@ -4801,7 +4922,7 @@
             ]
         },
         {
-            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn’t bother",
+            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn\u2019t bother",
             "hash": 1555959830,
             "name": "",
             "plugs": [
@@ -4826,7 +4947,7 @@
             ]
         },
         {
-            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn’t bother",
+            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn\u2019t bother",
             "hash": 1555959830,
             "name": "",
             "plugs": [
@@ -4843,7 +4964,7 @@
             ]
         },
         {
-            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn’t bother",
+            "description": "What a disappointment. Officer Revolver loses the one perk which made it good - Timed Payload - and with that gone and no good alternatives you just shouldn\u2019t bother",
             "hash": 1555959830,
             "name": "",
             "plugs": [
@@ -4882,7 +5003,7 @@
             ]
         },
         {
-            "description": " A monster PvP sidearm with tons of great combo’s. The first time Desperado has rolled on a Sidearm, but personally I think going full consistency with Tap the Trigger + Rangefinder is best. However don’t knock Headstone in PvP as rez denial and Stasis subclass combo",
+            "description": " A monster PvP sidearm with tons of great combo\u2019s. The first time Desperado has rolled on a Sidearm, but personally I think going full consistency with Tap the Trigger + Rangefinder is best. However don\u2019t knock Headstone in PvP as rez denial and Stasis subclass combo",
             "hash": 3138208275,
             "name": "",
             "plugs": [
@@ -4959,7 +5080,7 @@
             ]
         },
         {
-            "description": " A monster PvP sidearm with tons of great combo’s. The first time Desperado has rolled on a Sidearm, but personally I think going full consistency with Tap the Trigger + Rangefinder is best. However don’t knock Headstone in PvP as rez denial and Stasis subclass combo",
+            "description": " A monster PvP sidearm with tons of great combo\u2019s. The first time Desperado has rolled on a Sidearm, but personally I think going full consistency with Tap the Trigger + Rangefinder is best. However don\u2019t knock Headstone in PvP as rez denial and Stasis subclass combo",
             "hash": 3138208275,
             "name": "",
             "plugs": [
@@ -5185,7 +5306,7 @@
             ]
         },
         {
-            "description": "PvP it’s a Borrowed Time replacement with worse stats but potentially easier to get than Borrowed.",
+            "description": "PvP it\u2019s a Borrowed Time replacement with worse stats but potentially easier to get than Borrowed.",
             "hash": 2814093983,
             "name": "",
             "plugs": [
@@ -5237,7 +5358,7 @@
             ]
         },
         {
-            "description": "PvP it’s a Borrowed Time replacement with worse stats but potentially easier to get than Borrowed.",
+            "description": "PvP it\u2019s a Borrowed Time replacement with worse stats but potentially easier to get than Borrowed.",
             "hash": 2814093983,
             "name": "",
             "plugs": [
@@ -5285,7 +5406,7 @@
             ]
         },
         {
-            "description": "PvP it’s a Borrowed Time replacement with worse stats but potentially easier to get than Borrowed.",
+            "description": "PvP it\u2019s a Borrowed Time replacement with worse stats but potentially easier to get than Borrowed.",
             "hash": 2814093983,
             "name": "",
             "plugs": [
@@ -5315,10 +5436,12 @@
                     3230963543
                 ],
                 [
-                    744594675
+                    744594675,
+                    2139363611
                 ],
                 [
-                    2610012052
+                    2610012052,
+                    4290541820
                 ]
             ],
             "tags": [
@@ -5326,7 +5449,7 @@
             ]
         },
         {
-            "description": "While this pulse doesn’t seem especially interesting in PvE, it shines in PvP despite the slightly lacking frame. The first Lightweight to roll Desperado, and with a number of other excellent perks in the final column - especially with Headseekers new buff",
+            "description": "While this pulse doesn\u2019t seem especially interesting in PvE, it shines in PvP despite the slightly lacking frame. The first Lightweight to roll Desperado, and with a number of other excellent perks in the final column - especially with Headseekers new buff",
             "hash": 2812100428,
             "name": "",
             "plugs": [
@@ -5337,10 +5460,12 @@
                     1885400500
                 ],
                 [
-                    588594999
+                    588594999,
+                    2717805783
                 ],
                 [
-                    3047969693
+                    3047969693,
+                    624891305
                 ]
             ],
             "tags": [
@@ -5364,13 +5489,19 @@
                 ],
                 [
                     744594675,
-                    2726471870
+                    2726471870,
+                    2139363611,
+                    1172413778
                 ],
                 [
                     2610012052,
                     3047969693,
                     1015611457,
-                    124408337
+                    124408337,
+                    4290541820,
+                    624891305,
+                    2923251173,
+                    1171887445
                 ]
             ],
             "tags": [
@@ -5378,7 +5509,7 @@
             ]
         },
         {
-            "description": "While this pulse doesn’t seem especially interesting in PvE, it shines in PvP despite the slightly lacking frame. The first Lightweight to roll Desperado, and with a number of other excellent perks in the final column - especially with Headseekers new buff",
+            "description": "While this pulse doesn\u2019t seem especially interesting in PvE, it shines in PvP despite the slightly lacking frame. The first Lightweight to roll Desperado, and with a number of other excellent perks in the final column - especially with Headseekers new buff",
             "hash": 2812100428,
             "name": "",
             "plugs": [
@@ -5397,14 +5528,23 @@
                     588594999,
                     2450788523,
                     1195158366,
-                    2946784966
+                    2946784966,
+                    2717805783,
+                    4207509907,
+                    838873202,
+                    987673306
                 ],
                 [
                     3047969693,
                     2610012052,
                     1015611457,
                     124408337,
-                    460017080
+                    460017080,
+                    624891305,
+                    4290541820,
+                    2923251173,
+                    1171887445,
+                    4045335048
                 ]
             ],
             "tags": [
@@ -5418,13 +5558,19 @@
             "plugs": [
                 [
                     744594675,
-                    2726471870
+                    2726471870,
+                    2139363611,
+                    1172413778
                 ],
                 [
                     2610012052,
                     3047969693,
                     1015611457,
-                    124408337
+                    124408337,
+                    4290541820,
+                    624891305,
+                    2923251173,
+                    1171887445
                 ]
             ],
             "tags": [
@@ -5432,7 +5578,7 @@
             ]
         },
         {
-            "description": "While this pulse doesn’t seem especially interesting in PvE, it shines in PvP despite the slightly lacking frame. The first Lightweight to roll Desperado, and with a number of other excellent perks in the final column - especially with Headseekers new buff",
+            "description": "While this pulse doesn\u2019t seem especially interesting in PvE, it shines in PvP despite the slightly lacking frame. The first Lightweight to roll Desperado, and with a number of other excellent perks in the final column - especially with Headseekers new buff",
             "hash": 2812100428,
             "name": "",
             "plugs": [
@@ -5440,14 +5586,23 @@
                     588594999,
                     2450788523,
                     1195158366,
-                    2946784966
+                    2946784966,
+                    2717805783,
+                    4207509907,
+                    838873202,
+                    987673306
                 ],
                 [
                     3047969693,
                     2610012052,
                     1015611457,
                     124408337,
-                    460017080
+                    460017080,
+                    624891305,
+                    4290541820,
+                    2923251173,
+                    1171887445,
+                    4045335048
                 ]
             ],
             "tags": [
@@ -5455,7 +5610,7 @@
             ]
         },
         {
-            "description": "For PvE this is exciting, as it signals the return of a High Impact Frame with Reservoir Burst ala Loaded Question. Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
+            "description": "For PvE this is exciting, as it signals the return of a High Impact Frame with Reservoir Burst ala Loaded Question. Despite the 1000 charge time damaging the feel of these fusions it\u2019s still a good choice for single shot burst damage on Majors and Yellow bars.",
             "hash": 3573686365,
             "name": "",
             "plugs": [
@@ -5466,10 +5621,12 @@
                     2680121939
                 ],
                 [
-                    3161816588
+                    3161816588,
+                    191144788
                 ],
                 [
-                    1427256713
+                    1427256713,
+                    254337357
                 ]
             ],
             "tags": [
@@ -5488,10 +5645,12 @@
                     3868766766
                 ],
                 [
-                    1645158859
+                    1645158859,
+                    3755250867
                 ],
                 [
-                    2213355989
+                    2213355989,
+                    2002547233
                 ]
             ],
             "tags": [
@@ -5499,7 +5658,7 @@
             ]
         },
         {
-            "description": "For PvE this is exciting, as it signals the return of a High Impact Frame with Reservoir Burst ala Loaded Question. Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
+            "description": "For PvE this is exciting, as it signals the return of a High Impact Frame with Reservoir Burst ala Loaded Question. Despite the 1000 charge time damaging the feel of these fusions it\u2019s still a good choice for single shot burst damage on Majors and Yellow bars.",
             "hash": 3573686365,
             "name": "",
             "plugs": [
@@ -5515,12 +5674,17 @@
                 ],
                 [
                     3161816588,
-                    1820235745
+                    1820235745,
+                    191144788,
+                    4245865861
                 ],
                 [
                     1427256713,
                     2213355989,
-                    2610012052
+                    2610012052,
+                    254337357,
+                    2002547233,
+                    4290541820
                 ]
             ],
             "tags": [
@@ -5544,11 +5708,16 @@
                 [
                     1645158859,
                     3161816588,
-                    2450788523
+                    2450788523,
+                    3755250867,
+                    191144788,
+                    4207509907
                 ],
                 [
                     2213355989,
-                    1754714824
+                    1754714824,
+                    2002547233,
+                    834262328
                 ]
             ],
             "tags": [
@@ -5556,15 +5725,17 @@
             ]
         },
         {
-            "description": "For PvE this is exciting, as it signals the return of a High Impact Frame with Reservoir Burst ala Loaded Question. Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars. For PvP, High Impacts have some interesting niches for high time and low bolt kills, and Glacio has one of the best perk pools for that.",
+            "description": "For PvE this is exciting, as it signals the return of a High Impact Frame with Reservoir Burst ala Loaded Question. Despite the 1000 charge time damaging the feel of these fusions it\u2019s still a good choice for single shot burst damage on Majors and Yellow bars. For PvP, High Impacts have some interesting niches for high time and low bolt kills, and Glacio has one of the best perk pools for that.",
             "hash": 3573686365,
             "name": "",
             "plugs": [
                 [
-                    3161816588
+                    3161816588,
+                    191144788
                 ],
                 [
-                    2213355989
+                    2213355989,
+                    2002547233
                 ]
             ],
             "tags": [
@@ -5573,18 +5744,23 @@
             ]
         },
         {
-            "description": "For PvE this is exciting, as it signals the return of a High Impact Frame with Reservoir Burst ala Loaded Question. Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars.",
+            "description": "For PvE this is exciting, as it signals the return of a High Impact Frame with Reservoir Burst ala Loaded Question. Despite the 1000 charge time damaging the feel of these fusions it\u2019s still a good choice for single shot burst damage on Majors and Yellow bars.",
             "hash": 3573686365,
             "name": "",
             "plugs": [
                 [
                     3161816588,
-                    1820235745
+                    1820235745,
+                    191144788,
+                    4245865861
                 ],
                 [
                     1427256713,
                     2213355989,
-                    2610012052
+                    2610012052,
+                    254337357,
+                    2002547233,
+                    4290541820
                 ]
             ],
             "tags": [
@@ -5599,11 +5775,16 @@
                 [
                     1645158859,
                     3161816588,
-                    2450788523
+                    2450788523,
+                    3755250867,
+                    191144788,
+                    4207509907
                 ],
                 [
                     2213355989,
-                    1754714824
+                    1754714824,
+                    2002547233,
+                    834262328
                 ]
             ],
             "tags": [
@@ -5611,7 +5792,7 @@
             ]
         },
         {
-            "description": "If you don’t have an old Avalanche with a nice scope, there’s not really much reason to use this gun. The new version with Incandescent has a niche, but it’s still not that interesting",
+            "description": "If you don\u2019t have an old Avalanche with a nice scope, there\u2019s not really much reason to use this gun. The new version with Incandescent has a niche, but it\u2019s still not that interesting",
             "hash": 495940989,
             "name": "",
             "plugs": [
@@ -5622,10 +5803,12 @@
                     3230963543
                 ],
                 [
-                    1820235745
+                    1820235745,
+                    4245865861
                 ],
                 [
-                    4293542123
+                    4293542123,
+                    2675184851
                 ]
             ],
             "tags": [
@@ -5644,10 +5827,12 @@
                     1885400500
                 ],
                 [
-                    1359896290
+                    1359896290,
+                    3060983774
                 ],
                 [
-                    1890422124
+                    1890422124,
+                    1523649716
                 ]
             ],
             "tags": [
@@ -5655,7 +5840,7 @@
             ]
         },
         {
-            "description": "If you don’t have an old Avalanche with a nice scope, there’s not really much reason to use this gun. The new version with Incandescent has a niche, but it’s still not that interesting",
+            "description": "If you don\u2019t have an old Avalanche with a nice scope, there\u2019s not really much reason to use this gun. The new version with Incandescent has a niche, but it\u2019s still not that interesting",
             "hash": 495940989,
             "name": "",
             "plugs": [
@@ -5672,13 +5857,20 @@
                 [
                     1820235745,
                     3300816228,
-                    3436462433
+                    3436462433,
+                    4245865861,
+                    3528046508,
+                    2658083589
                 ],
                 [
                     4293542123,
                     1546637391,
                     4082225868,
-                    365154968
+                    365154968,
+                    2675184851,
+                    3418165135,
+                    1161469972,
+                    2939589096
                 ]
             ],
             "tags": [
@@ -5702,10 +5894,13 @@
                 ],
                 [
                     1359896290,
-                    1195158366
+                    1195158366,
+                    3060983774,
+                    838873202
                 ],
                 [
-                    1890422124
+                    1890422124,
+                    1523649716
                 ]
             ],
             "tags": [
@@ -5719,10 +5914,13 @@
             "plugs": [
                 [
                     1359896290,
-                    1195158366
+                    1195158366,
+                    3060983774,
+                    838873202
                 ],
                 [
-                    1890422124
+                    1890422124,
+                    1523649716
                 ]
             ],
             "tags": [
@@ -5730,7 +5928,7 @@
             ]
         },
         {
-            "description": "An average adaptive frame made interesting by a couple of new perks, but not far and away better than current offerings. Grab a Cold Steel roll if that perk interests you, and Duelist’s Trance is a perk that can see some play in improving dps at the cost of not having the ammo economy of Relentless (assuming you get a kill before going at the boss). PvP: It’s a sword in PvP, you don’t care about the roll",
+            "description": "An average adaptive frame made interesting by a couple of new perks, but not far and away better than current offerings. Grab a Cold Steel roll if that perk interests you, and Duelist\u2019s Trance is a perk that can see some play in improving dps at the cost of not having the ammo economy of Relentless (assuming you get a kill before going at the boss). PvP: It\u2019s a sword in PvP, you don\u2019t care about the roll",
             "hash": 396910433,
             "name": "",
             "plugs": [
@@ -5741,10 +5939,12 @@
                     269888150
                 ],
                 [
-                    1749209109
+                    1749209109,
+                    4085959009
                 ],
                 [
-                    3650930298
+                    3650930298,
+                    405677814
                 ]
             ],
             "tags": [
@@ -5752,7 +5952,7 @@
             ]
         },
         {
-            "description": "An average adaptive frame made interesting by a couple of new perks, but not far and away better than current offerings. Grab a Cold Steel roll if that perk interests you, and Duelist’s Trance is a perk that can see some play in improving dps at the cost of not having the ammo economy of Relentless (assuming you get a kill before going at the boss). PvP: It’s a sword in PvP, you don’t care about the roll",
+            "description": "An average adaptive frame made interesting by a couple of new perks, but not far and away better than current offerings. Grab a Cold Steel roll if that perk interests you, and Duelist\u2019s Trance is a perk that can see some play in improving dps at the cost of not having the ammo economy of Relentless (assuming you get a kill before going at the boss). PvP: It\u2019s a sword in PvP, you don\u2019t care about the roll",
             "hash": 396910433,
             "name": "",
             "plugs": [
@@ -5765,11 +5965,15 @@
                 ],
                 [
                     1749209109,
-                    3705817207
+                    3705817207,
+                    4085959009,
+                    1646437399
                 ],
                 [
                     3650930298,
-                    3913600130
+                    3913600130,
+                    405677814,
+                    147913470
                 ]
             ],
             "tags": [
@@ -5777,17 +5981,21 @@
             ]
         },
         {
-            "description": "An average adaptive frame made interesting by a couple of new perks, but not far and away better than current offerings. Grab a Cold Steel roll if that perk interests you, and Duelist’s Trance is a perk that can see some play in improving dps at the cost of not having the ammo economy of Relentless (assuming you get a kill before going at the boss). PvP: It’s a sword in PvP, you don’t care about the roll",
+            "description": "An average adaptive frame made interesting by a couple of new perks, but not far and away better than current offerings. Grab a Cold Steel roll if that perk interests you, and Duelist\u2019s Trance is a perk that can see some play in improving dps at the cost of not having the ammo economy of Relentless (assuming you get a kill before going at the boss). PvP: It\u2019s a sword in PvP, you don\u2019t care about the roll",
             "hash": 396910433,
             "name": "",
             "plugs": [
                 [
                     1749209109,
-                    3705817207
+                    3705817207,
+                    4085959009,
+                    1646437399
                 ],
                 [
                     3650930298,
-                    3913600130
+                    3913600130,
+                    405677814,
+                    147913470
                 ]
             ],
             "tags": [
@@ -5981,7 +6189,7 @@
             ]
         },
         {
-            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
+            "description": "While unfortunately Long Arm hasn\u2019t quite stacked up as the Legendary  Dead Man\u2019s Tale, it still shines in it\u2019s own niche. A unique scout rifle which could be pretty good. While normally I\u2019d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
             "hash": 8293111,
             "name": "",
             "plugs": [
@@ -5998,7 +6206,7 @@
             ]
         },
         {
-            "description": "While unfortunately Long Arm hasn’t quite stacked up as the Legendary  Dead Man’s Tale, it still shines in it’s own niche. A unique scout rifle which could be pretty good. While normally I’d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
+            "description": "While unfortunately Long Arm hasn\u2019t quite stacked up as the Legendary  Dead Man\u2019s Tale, it still shines in it\u2019s own niche. A unique scout rifle which could be pretty good. While normally I\u2019d suggest Rapid Hit over all others, the long reload time means that Rapid Hit falls off after only a couple of bullets reloaded. Either go into Wellspring and commit to Scout Reloaders and reload boosters, or run with Compulsive Reloader and try not go below half ammo.",
             "hash": 8293111,
             "name": "",
             "plugs": [
@@ -6038,7 +6246,7 @@
             ]
         },
         {
-            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it. PvP - don’t bother. Bad perks and bad frame leads to a bad time.",
+            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it\u2019s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it. PvP - don\u2019t bother. Bad perks and bad frame leads to a bad time.",
             "hash": 4070357005,
             "name": "",
             "plugs": [
@@ -6062,7 +6270,7 @@
             ]
         },
         {
-            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
+            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it\u2019s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
             "hash": 4070357005,
             "name": "",
             "plugs": [
@@ -6093,7 +6301,7 @@
             ]
         },
         {
-            "description": "PvP - don’t bother. Bad perks and bad frame leads to a bad time",
+            "description": "PvP - don\u2019t bother. Bad perks and bad frame leads to a bad time",
             "hash": 4070357005,
             "name": "",
             "plugs": [
@@ -6123,7 +6331,7 @@
             ]
         },
         {
-            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it. PvP - don’t bother. Bad perks and bad frame leads to a bad time.",
+            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it\u2019s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it. PvP - don\u2019t bother. Bad perks and bad frame leads to a bad time.",
             "hash": 4070357005,
             "name": "",
             "plugs": [
@@ -6140,7 +6348,7 @@
             ]
         },
         {
-            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it’s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
+            "description": "The return of the Seraph Carbine brings it back with some not half bad perks. Frenzy means it\u2019s much more workable than the original Carbine, and Pugilist lets you get some more energy back while you use it.",
             "hash": 4070357005,
             "name": "",
             "plugs": [
@@ -6160,7 +6368,7 @@
             ]
         },
         {
-            "description": "PvP - don’t bother. Bad perks and bad frame leads to a bad time",
+            "description": "PvP - don\u2019t bother. Bad perks and bad frame leads to a bad time",
             "hash": 4070357005,
             "name": "",
             "plugs": [
@@ -6180,7 +6388,7 @@
             ]
         },
         {
-            "description": " A monster PvP sidearm with tons of great combo’s. The first time Desperado has rolled on a Sidearm, but personally I think going full consistency with Tap the Trigger + Rangefinder is best. However don’t knock Headstone in PvP as rez denial and Stasis subclass combo",
+            "description": " A monster PvP sidearm with tons of great combo\u2019s. The first time Desperado has rolled on a Sidearm, but personally I think going full consistency with Tap the Trigger + Rangefinder is best. However don\u2019t knock Headstone in PvP as rez denial and Stasis subclass combo",
             "hash": 3138208275,
             "name": "",
             "plugs": [
@@ -6253,14 +6461,24 @@
                     588594999,
                     2866798147,
                     3436462433,
-                    1428297954
+                    1428297954,
+                    711234314,
+                    2717805783,
+                    3974407819,
+                    2658083589,
+                    2014892510
                 ],
                 [
                     957782887,
                     47981717,
                     2213355989,
                     1821614984,
-                    438098033
+                    438098033,
+                    4116820839,
+                    1370847713,
+                    2002547233,
+                    1942880504,
+                    2748801589
                 ]
             ],
             "tags": [
@@ -6275,13 +6493,20 @@
                 [
                     2869569095,
                     951095735,
-                    3523296417
+                    3523296417,
+                    2308090567,
+                    3878366039,
+                    1906147653
                 ],
                 [
                     3194351027,
                     1546637391,
                     4104185692,
-                    3927722942
+                    3927722942,
+                    2275087323,
+                    3418165135,
+                    3007133316,
+                    1167468626
                 ]
             ],
             "tags": [
@@ -6407,20 +6632,27 @@
             ]
         },
         {
-            "description": "If you don’t have an old Avalanche with a nice scope, there’s not really much reason to use this gun. The new version with Incandescent has a niche, but it’s still not that interesting",
+            "description": "If you don\u2019t have an old Avalanche with a nice scope, there\u2019s not really much reason to use this gun. The new version with Incandescent has a niche, but it\u2019s still not that interesting",
             "hash": 495940989,
             "name": "",
             "plugs": [
                 [
                     1820235745,
                     3300816228,
-                    3436462433
+                    3436462433,
+                    4245865861,
+                    3528046508,
+                    2658083589
                 ],
                 [
                     4293542123,
                     1546637391,
                     4082225868,
-                    365154968
+                    365154968,
+                    2675184851,
+                    3418165135,
+                    1161469972,
+                    2939589096
                 ]
             ],
             "tags": [
@@ -6456,7 +6688,7 @@
             ]
         },
         {
-            "description": "Revision Zero is another extremely customisable exotic, with many choices for the perks. The biggest choices outside of stat perks is whether to go for the two shot Heavy Burst or the four shot Light Burst. In general this is another choice for the player - the two burst tends to be better in general but stacks the exotic perk much slower, while the four burst is slightly worse for AB shield breaking and general usage but stacks the exotic perk much faster. In reference to using Revision as a primary dps option - you need to stack up the perk before-hand and limit yourself from using an alternative DPS option or a kinetic special. As such, it’s much better to use Touch of Malice (if you have 3 or more people eventually planning to use it and can cycle the debuff), Hierarchy of Needs (if you have the needed distance) or Outbreak Perfected (if you’ve nothing else - as it’s a better primary dps weapon to swap to)",
+            "description": "Revision Zero is another extremely customisable exotic, with many choices for the perks. The biggest choices outside of stat perks is whether to go for the two shot Heavy Burst or the four shot Light Burst. In general this is another choice for the player - the two burst tends to be better in general but stacks the exotic perk much slower, while the four burst is slightly worse for AB shield breaking and general usage but stacks the exotic perk much faster. In reference to using Revision as a primary dps option - you need to stack up the perk before-hand and limit yourself from using an alternative DPS option or a kinetic special. As such, it\u2019s much better to use Touch of Malice (if you have 3 or more people eventually planning to use it and can cycle the debuff), Hierarchy of Needs (if you have the needed distance) or Outbreak Perfected (if you\u2019ve nothing else - as it\u2019s a better primary dps weapon to swap to)",
             "hash": 1473821207,
             "name": "",
             "plugs": [
@@ -6527,7 +6759,7 @@
             ]
         },
         {
-            "description": "Revision Zero is another extremely customisable exotic, with many choices for the perks. The biggest choices outside of stat perks is whether to go for the two shot Heavy Burst or the four shot Light Burst. In general this is another choice for the player - the two burst tends to be better in general but stacks the exotic perk much slower, while the four burst is slightly worse for AB shield breaking and general usage but stacks the exotic perk much faster. In reference to using Revision as a primary dps option - you need to stack up the perk before-hand and limit yourself from using an alternative DPS option or a kinetic special. As such, it’s much better to use Touch of Malice (if you have 3 or more people eventually planning to use it and can cycle the debuff), Hierarchy of Needs (if you have the needed distance) or Outbreak Perfected (if you’ve nothing else - as it’s a better primary dps weapon to swap to)",
+            "description": "Revision Zero is another extremely customisable exotic, with many choices for the perks. The biggest choices outside of stat perks is whether to go for the two shot Heavy Burst or the four shot Light Burst. In general this is another choice for the player - the two burst tends to be better in general but stacks the exotic perk much slower, while the four burst is slightly worse for AB shield breaking and general usage but stacks the exotic perk much faster. In reference to using Revision as a primary dps option - you need to stack up the perk before-hand and limit yourself from using an alternative DPS option or a kinetic special. As such, it\u2019s much better to use Touch of Malice (if you have 3 or more people eventually planning to use it and can cycle the debuff), Hierarchy of Needs (if you have the needed distance) or Outbreak Perfected (if you\u2019ve nothing else - as it\u2019s a better primary dps weapon to swap to)",
             "hash": 1473821207,
             "name": "",
             "plugs": [
