@@ -221,6 +221,54 @@
             ]
         },
         {
+            "hash": 1845372864,
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "Eddy Current and Low-Impedance Winding give you 100 reload when you're Amplified making it way easier to proc Voltshot with every shot and reload. Air Trigger does give you close to max but doesn't quite hit there. If you're looking to use Albedo Wing as a primary you should opt for Air Trigger for better reserves.\nMasterworks: Shield Duration"
+        },
+        {
+            "hash": 1845372864,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    679225683
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ],
+                [
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "Closing time and Light Mag will bring your range up to 100. Auxiliary Reserves and Shield MW will get you to 55 shield duration. Add in Close to Melee for easier clean ups after your massive 100 range shot.\nMasterworks: Shield Duration"
+        },
+        {
             "hash": 963574173,
             "plugs": [
                 [
@@ -664,6 +712,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "hash": 1845978721,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "There's nothing more fun than shooting forever. That's what this machine gun hopes to do. Rewind Rounds will give you ammo right back into the mag allowing for better sustained Target Lock damage.\nMasterworks: Stability"
+        },
+        {
+            "hash": 1845978721,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    1359896290,
+                    3060983774
+                ],
+                [
+                    2610012052,
+                    4290541820
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "Golden Tricorn is goated on this machine gun. A blistering quick 4 shot TtK at 0.40s. You only need to hit 50% of your headshots up to Tier 8 resilience, and if you happen to synergize for Golden Tricorn 2x you can 3 shot 2c1b any resilience at 0.27s.\nMasterworks: Range"
         },
         {
             "hash": 2599338625,
@@ -1437,6 +1533,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "hash": 1183116657,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3161816588,
+                    191144788
+                ],
+                [
+                    1427256713,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "I have always loved Glacioclasm from its first version to now. Slideshot will keep you topped up for Reservoir Burst but the real kicker is going with Omolon Fluid Dynamics for almost 100 stability on each voop. While not game breaking and it does require you to slide often, having near max stability on a High-Impact frame will feel so good.\nMasterworks: Charge Time"
+        },
+        {
+            "hash": 1183116657,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    2969185026
+                ],
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "Where Glacioclasm really gets to shine is over in PvP. With this specific combination and the last shot you'll have 100 range, and if you're alone 75 aim assist for those shots to connect. It won't be Erentil levels of yore, but it's plenty competitive to destroy shotguns.\nMasterworks: Charge Time"
         },
         {
             "hash": 3433930495,
@@ -2430,6 +2574,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "hash": 3483485727,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1134488199,
+                    2904194311
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "Not only will Mistral Lift, lift your spire. It will also be one hell of a good heavy weapon to bring into damage rotations. Enhanced Battery gives us extra in the mag without sacrificing reload, though Ionized Battery is also okay. Withering Gaze will proc Weaken on your first hit buffing the follow up two shots in your burst. Add in a stacking damage bonus through Precision Instrument and you've got yourself an incredibly strong weapon for solo or group activities.\nMasterworks: Reload"
+        },
+        {
+            "hash": 3483485727,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3619207468,
+                    3198323828
+                ],
+                [
+                    2213355989,
+                    2002547233
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "While not Doomed Petitioner for PvP, Mistral Lift does have some utility in Keep Away or Moving Target and High-Impact Reserves for bonus damage on those last shots. You'll almost never be at max mag so there's no downside. Drop that charge time to have a nuclear sniper with better body shot damage.\nMasterworks: Charge Time"
         },
         {
             "hash": 2848549302,
@@ -3966,6 +4158,54 @@
             ]
         },
         {
+            "hash": 1123433952,
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1955165503,
+                    2617553311
+                ],
+                [
+                    124408337,
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "Stay Frosty has always been a bit of an interesting weapon. Previously competing with Nightshade and variable scopes that have since been rendered less useful. Rimestealer and Headstone give Stay Frosty obvious stasis utility and if that's all you use it for, I think this gun will be happy.\nMasterworks: Stability"
+        },
+        {
+            "hash": 1123433952,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    588594999,
+                    2717805783
+                ],
+                [
+                    460017080,
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "While you can cleanly two burst with Kill Clip and 6 crits I find neutral perks better. Lightweight pulses are less useful compared to other archetypes but the movement speed bonuses will be nice to feel.\nMasterworks: Range"
+        },
+        {
             "hash": 480368036,
             "plugs": [
                 [
@@ -5376,6 +5616,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "hash": 601948197,
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1955165503,
+                    2617553311
+                ],
+                [
+                    3650930298,
+                    405677814
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ],
+            "description": "Rimestealer and Cold Steel, name a better combo. I'll wait\nMasterworks: Impact"
+        },
+        {
+            "hash": 601948197,
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    2590710093,
+                    4183521337
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ],
+            "description": "Tireless Blade will get you one ammo back after every other kill, and swords OHK. The extra damage from Chain Reaction will make follow up kills easier or just get you some fun multikills.\nMasterworks: Impact"
         }
     ]
 }
