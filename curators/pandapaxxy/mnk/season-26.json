@@ -8851,6 +8851,454 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "hash": 2671849376,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3978468247,
+                    3878366039,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    1683379515,
+                    2224838837,
+                    639190697,
+                    2216471363,
+                    3102670337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out.\nMasterworks: Shield Duration"
+        },
+        {
+            "hash": 2671849376,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2671849376,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    3142289711,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3526486541,
+                    3878366039,
+                    3422796781,
+                    1738338041
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    3773585912,
+                    639190697,
+                    3102670337,
+                    2817677128
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as f*ck boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed).\nMasterworks: Range, Shield Duration"
+        },
+        {
+            "hash": 2671849376,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3269398063,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3978468247,
+                    3878366039,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    1683379515,
+                    2224838837,
+                    639190697,
+                    2216471363,
+                    3102670337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out.\nMasterworks: Shield Duration"
+        },
+        {
+            "hash": 3269398063,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3269398063,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    3142289711,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3526486541,
+                    3878366039,
+                    3422796781,
+                    1738338041
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    3773585912,
+                    639190697,
+                    3102670337,
+                    2817677128
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as f*ck boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed).\nMasterworks: Range, Shield Duration"
+        },
+        {
+            "hash": 3269398063,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2755584425,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3978468247,
+                    3878366039,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    1683379515,
+                    2224838837,
+                    639190697,
+                    2216471363,
+                    3102670337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out.\nMasterworks: Shield Duration"
+        },
+        {
+            "hash": 2755584425,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2755584425,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    3142289711,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3526486541,
+                    3878366039,
+                    3422796781,
+                    1738338041
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    3773585912,
+                    639190697,
+                    3102670337,
+                    2817677128
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as f*ck boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed).\nMasterworks: Range, Shield Duration"
+        },
+        {
+            "hash": 2755584425,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 25228802,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3978468247,
+                    3878366039,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    1683379515,
+                    2224838837,
+                    639190697,
+                    2216471363,
+                    3102670337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out.\nMasterworks: Shield Duration"
+        },
+        {
+            "hash": 25228802,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 25228802,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    3142289711,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3526486541,
+                    3878366039,
+                    3422796781,
+                    1738338041
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    3773585912,
+                    639190697,
+                    3102670337,
+                    2817677128
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as f*ck boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed).\nMasterworks: Range, Shield Duration"
+        },
+        {
+            "hash": 25228802,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
