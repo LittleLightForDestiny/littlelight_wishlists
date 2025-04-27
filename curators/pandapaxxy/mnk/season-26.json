@@ -1196,7 +1196,7 @@
             "tags": [
                 "PVE"
             ],
-            "description": "You should get a Boondoggle Mk.55 just for the name alone. Outside of the name you have the standard low stat aggressive frame submachine gun. Subsistence is the best reload perk and Adagio, while lowering the RPM has the best damage increase. Aggressive frame submachine guns shine brighter in PvP where their lower stability stats can usually be bumped with perks that supplement instead of fighting for damage perks. To the Pain increases your aim assist while you're fighting, whereas Closing Time only assists as your magazine gets lower. Hip-Fire Grip is also another option if you run-and-gun a lot. Tap the Trigger is gonna be the best for keeping accuracy as the stability is already pretty low to begin with.\nMasterworks: Reload Speed"
+            "description": "You should get a Boondoggle Mk.55 just for the name alone. Outside of the name you have the standard low stat aggressive frame submachine gun. Subsistence is the best reload perk and Adagio, while lowering the RPM has the best damage increase.\nMasterworks: Reload Speed"
         },
         {
             "hash": 32287609,
@@ -1251,7 +1251,7 @@
             "tags": [
                 "PVP"
             ],
-            "description": "Masterworks: Range"
+            "description": "Aggressive frame submachine guns shine brighter in PvP where their lower stability stats can usually be bumped with perks that supplement instead of fighting for damage perks. To the Pain increases your aim assist while you're fighting, whereas Closing Time only assists as your magazine gets lower. Hip-Fire Grip is also another option if you run-and-gun a lot. Tap the Trigger is gonna be the best for keeping accuracy as the stability is already pretty low to begin with.\nMasterworks: Range"
         },
         {
             "hash": 32287609,
@@ -7046,6 +7046,2254 @@
                 [
                     47981717,
                     1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 1834313033,
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    689005463,
+                    2680121939,
+                    1483536627
+                ],
+                [
+                    1631667848,
+                    1556840489,
+                    3978468247,
+                    402033656,
+                    3442762221,
+                    906981559
+                ],
+                [
+                    1427256713,
+                    2048641572,
+                    1799762209,
+                    254337357,
+                    1926441324,
+                    1008128453
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Afteright is an interesting fusion rifle. It doesn't do much that Loaded Question or other fusions can't do. Destabilizing Rounds with Reservoir Burst would have been fun. But they're in the same column.\nMasterworks: Charge Time"
+        },
+        {
+            "hash": 1834313033,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1631667848,
+                    402033656
+                ],
+                [
+                    1427256713,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 1834313033,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    689005463,
+                    2969185026
+                ],
+                [
+                    1645158859,
+                    2416023159,
+                    691659142,
+                    3755250867,
+                    3050799639,
+                    536173722
+                ],
+                [
+                    3673922083,
+                    2652708987,
+                    4082225868,
+                    2889515627,
+                    617966211,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "In the crucible you can find decent success with this archetype. It's actually one of my favorites. Under Pressure is still the best in slot perk. Paired with Adagio or Successful Warm-Up for benefits post kill.\nMasterworks: Range, Charge Time"
+        },
+        {
+            "hash": 1834313033,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    3673922083,
+                    2889515627
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3228630258,
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    689005463,
+                    2680121939,
+                    1483536627
+                ],
+                [
+                    1631667848,
+                    1556840489,
+                    3978468247,
+                    402033656,
+                    3442762221,
+                    906981559
+                ],
+                [
+                    1427256713,
+                    2048641572,
+                    1799762209,
+                    254337357,
+                    1926441324,
+                    1008128453
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Afteright is an interesting fusion rifle. It doesn't do much that Loaded Question or other fusions can't do. Destabilizing Rounds with Reservoir Burst would have been fun. But they're in the same column.\nMasterworks: Charge Time"
+        },
+        {
+            "hash": 3228630258,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1631667848,
+                    402033656
+                ],
+                [
+                    1427256713,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3228630258,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    689005463,
+                    2969185026
+                ],
+                [
+                    1645158859,
+                    2416023159,
+                    691659142,
+                    3755250867,
+                    3050799639,
+                    536173722
+                ],
+                [
+                    3673922083,
+                    2652708987,
+                    4082225868,
+                    2889515627,
+                    617966211,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "In the crucible you can find decent success with this archetype. It's actually one of my favorites. Under Pressure is still the best in slot perk. Paired with Adagio or Successful Warm-Up for benefits post kill.\nMasterworks: Range, Charge Time"
+        },
+        {
+            "hash": 3228630258,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    3673922083,
+                    2889515627
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3953163559,
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    689005463,
+                    2680121939,
+                    1483536627
+                ],
+                [
+                    1631667848,
+                    1556840489,
+                    3978468247,
+                    402033656,
+                    3442762221,
+                    906981559
+                ],
+                [
+                    1427256713,
+                    2048641572,
+                    1799762209,
+                    254337357,
+                    1926441324,
+                    1008128453
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Afteright is an interesting fusion rifle. It doesn't do much that Loaded Question or other fusions can't do. Destabilizing Rounds with Reservoir Burst would have been fun. But they're in the same column.\nMasterworks: Charge Time"
+        },
+        {
+            "hash": 3953163559,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1631667848,
+                    402033656
+                ],
+                [
+                    1427256713,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3953163559,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    689005463,
+                    2969185026
+                ],
+                [
+                    1645158859,
+                    2416023159,
+                    691659142,
+                    3755250867,
+                    3050799639,
+                    536173722
+                ],
+                [
+                    3673922083,
+                    2652708987,
+                    4082225868,
+                    2889515627,
+                    617966211,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "In the crucible you can find decent success with this archetype. It's actually one of my favorites. Under Pressure is still the best in slot perk. Paired with Adagio or Successful Warm-Up for benefits post kill.\nMasterworks: Range, Charge Time"
+        },
+        {
+            "hash": 3953163559,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    3673922083,
+                    2889515627
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 861521336,
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    689005463,
+                    2680121939,
+                    1483536627
+                ],
+                [
+                    1631667848,
+                    1556840489,
+                    3978468247,
+                    402033656,
+                    3442762221,
+                    906981559
+                ],
+                [
+                    1427256713,
+                    2048641572,
+                    1799762209,
+                    254337357,
+                    1926441324,
+                    1008128453
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Afteright is an interesting fusion rifle. It doesn't do much that Loaded Question or other fusions can't do. Destabilizing Rounds with Reservoir Burst would have been fun. But they're in the same column.\nMasterworks: Charge Time"
+        },
+        {
+            "hash": 861521336,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1631667848,
+                    402033656
+                ],
+                [
+                    1427256713,
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 861521336,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    689005463,
+                    2969185026
+                ],
+                [
+                    1645158859,
+                    2416023159,
+                    691659142,
+                    3755250867,
+                    3050799639,
+                    536173722
+                ],
+                [
+                    3673922083,
+                    2652708987,
+                    4082225868,
+                    2889515627,
+                    617966211,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "In the crucible you can find decent success with this archetype. It's actually one of my favorites. Under Pressure is still the best in slot perk. Paired with Adagio or Successful Warm-Up for benefits post kill.\nMasterworks: Range, Charge Time"
+        },
+        {
+            "hash": 861521336,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1645158859,
+                    3755250867
+                ],
+                [
+                    3673922083,
+                    2889515627
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3417731926,
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    3311977193
+                ],
+                [
+                    201365942,
+                    2848615171,
+                    776531651,
+                    3523746922,
+                    169755979,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1464081238,
+                    31345821,
+                    1926441324,
+                    2813913866,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Anamnesis is another combat bow, this time coming with stellar perks like Demoralize, Repulsor Brace and Destabilizing Rounds. Ready leaning into Void verbiage. If you get Dragonfly and Demoralize you may be able to net. Couple multikills off of one arrow!\nMasterworks: Draw Time"
+        },
+        {
+            "hash": 3417731926,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3417731926,
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    3311977193
+                ],
+                [
+                    201365942,
+                    1866048759,
+                    3938834702,
+                    3523746922,
+                    3118144663,
+                    3416609154
+                ],
+                [
+                    951095735,
+                    31345821,
+                    3365897133,
+                    3878366039,
+                    639190697,
+                    1551736345
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon.\nMasterworks: Draw Time"
+        },
+        {
+            "hash": 3417731926,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    951095735,
+                    3878366039
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2291392465,
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    3311977193
+                ],
+                [
+                    201365942,
+                    2848615171,
+                    776531651,
+                    3523746922,
+                    169755979,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1464081238,
+                    31345821,
+                    1926441324,
+                    2813913866,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Anamnesis is another combat bow, this time coming with stellar perks like Demoralize, Repulsor Brace and Destabilizing Rounds. Ready leaning into Void verbiage. If you get Dragonfly and Demoralize you may be able to net. Couple multikills off of one arrow!\nMasterworks: Draw Time"
+        },
+        {
+            "hash": 2291392465,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2291392465,
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    3311977193
+                ],
+                [
+                    201365942,
+                    1866048759,
+                    3938834702,
+                    3523746922,
+                    3118144663,
+                    3416609154
+                ],
+                [
+                    951095735,
+                    31345821,
+                    3365897133,
+                    3878366039,
+                    639190697,
+                    1551736345
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon.\nMasterworks: Draw Time"
+        },
+        {
+            "hash": 2291392465,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    951095735,
+                    3878366039
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3949253499,
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    3311977193
+                ],
+                [
+                    201365942,
+                    2848615171,
+                    776531651,
+                    3523746922,
+                    169755979,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1464081238,
+                    31345821,
+                    1926441324,
+                    2813913866,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Anamnesis is another combat bow, this time coming with stellar perks like Demoralize, Repulsor Brace and Destabilizing Rounds. Ready leaning into Void verbiage. If you get Dragonfly and Demoralize you may be able to net. Couple multikills off of one arrow!\nMasterworks: Draw Time"
+        },
+        {
+            "hash": 3949253499,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3949253499,
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    3311977193
+                ],
+                [
+                    201365942,
+                    1866048759,
+                    3938834702,
+                    3523746922,
+                    3118144663,
+                    3416609154
+                ],
+                [
+                    951095735,
+                    31345821,
+                    3365897133,
+                    3878366039,
+                    639190697,
+                    1551736345
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon.\nMasterworks: Draw Time"
+        },
+        {
+            "hash": 3949253499,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    951095735,
+                    3878366039
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 1536325168,
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    3311977193
+                ],
+                [
+                    201365942,
+                    2848615171,
+                    776531651,
+                    3523746922,
+                    169755979,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1464081238,
+                    31345821,
+                    1926441324,
+                    2813913866,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Anamnesis is another combat bow, this time coming with stellar perks like Demoralize, Repulsor Brace and Destabilizing Rounds. Ready leaning into Void verbiage. If you get Dragonfly and Demoralize you may be able to net. Couple multikills off of one arrow!\nMasterworks: Draw Time"
+        },
+        {
+            "hash": 1536325168,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 1536325168,
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    3311977193
+                ],
+                [
+                    201365942,
+                    1866048759,
+                    3938834702,
+                    3523746922,
+                    3118144663,
+                    3416609154
+                ],
+                [
+                    951095735,
+                    31345821,
+                    3365897133,
+                    3878366039,
+                    639190697,
+                    1551736345
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Bows in PvP have gone up but not enough to really move the needle. The health changes really stunted the bows and even with their damage buff it's still not enough for me. Archer's Tempo and Impulse Amplifier are both great perks together. Sword Logic will help out in secondary kills and team-shots. My favorite bow combination was Explosive Head for double flinch swapping to another weapon.\nMasterworks: Draw Time"
+        },
+        {
+            "hash": 1536325168,
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    951095735,
+                    3878366039
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2992463569,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    684456054,
+                    691659142,
+                    1631667848,
+                    2785334058,
+                    536173722,
+                    402033656
+                ],
+                [
+                    2173046394,
+                    31345821,
+                    3708227201,
+                    1720528630,
+                    639190697,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "A heavy burst sidearm reminiscent of Death By Scorn. Yeah, remember that gun? Gosh it's been so long. I know we've had a few stellar weapons in this archetype come out. Like the reprised Breachlight or Liminal Vigil. Division does lean into Arc verbage better than the others, so if you refer Arc in PvE this will be right up your alley. Just remember it's still a sidearm.\nMasterworks: Range"
+        },
+        {
+            "hash": 2992463569,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2992463569,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    1866048759,
+                    1195158366,
+                    3416609154,
+                    3118144663,
+                    838873202
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    2416023159,
+                    2923251173,
+                    639190697,
+                    3050799639
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Heavy burst sidearms haven't seen a ton of luck in the crucible outside of niche builds with mechaneers tricksleeves. To the Pain will make this feel stickier with damage. Kill Clip or Sword Logic will be your best damage increases. Offhand-Strike will be fun if you like to Hip-Fire.\nMasterworks: Range"
+        },
+        {
+            "hash": 2992463569,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    3416609154
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2903168058,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    684456054,
+                    691659142,
+                    1631667848,
+                    2785334058,
+                    536173722,
+                    402033656
+                ],
+                [
+                    2173046394,
+                    31345821,
+                    3708227201,
+                    1720528630,
+                    639190697,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "A heavy burst sidearm reminiscent of Death By Scorn. Yeah, remember that gun? Gosh it's been so long. I know we've had a few stellar weapons in this archetype come out. Like the reprised Breachlight or Liminal Vigil. Division does lean into Arc verbage better than the others, so if you refer Arc in PvE this will be right up your alley. Just remember it's still a sidearm.\nMasterworks: Range"
+        },
+        {
+            "hash": 2903168058,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2903168058,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    1866048759,
+                    1195158366,
+                    3416609154,
+                    3118144663,
+                    838873202
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    2416023159,
+                    2923251173,
+                    639190697,
+                    3050799639
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Heavy burst sidearms haven't seen a ton of luck in the crucible outside of niche builds with mechaneers tricksleeves. To the Pain will make this feel stickier with damage. Kill Clip or Sword Logic will be your best damage increases. Offhand-Strike will be fun if you like to Hip-Fire.\nMasterworks: Range"
+        },
+        {
+            "hash": 2903168058,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    3416609154
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2501377328,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    684456054,
+                    691659142,
+                    1631667848,
+                    2785334058,
+                    536173722,
+                    402033656
+                ],
+                [
+                    2173046394,
+                    31345821,
+                    3708227201,
+                    1720528630,
+                    639190697,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "A heavy burst sidearm reminiscent of Death By Scorn. Yeah, remember that gun? Gosh it's been so long. I know we've had a few stellar weapons in this archetype come out. Like the reprised Breachlight or Liminal Vigil. Division does lean into Arc verbage better than the others, so if you refer Arc in PvE this will be right up your alley. Just remember it's still a sidearm.\nMasterworks: Range"
+        },
+        {
+            "hash": 2501377328,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2501377328,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    1866048759,
+                    1195158366,
+                    3416609154,
+                    3118144663,
+                    838873202
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    2416023159,
+                    2923251173,
+                    639190697,
+                    3050799639
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Heavy burst sidearms haven't seen a ton of luck in the crucible outside of niche builds with mechaneers tricksleeves. To the Pain will make this feel stickier with damage. Kill Clip or Sword Logic will be your best damage increases. Offhand-Strike will be fun if you like to Hip-Fire.\nMasterworks: Range"
+        },
+        {
+            "hash": 2501377328,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    3416609154
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3734001727,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    684456054,
+                    691659142,
+                    1631667848,
+                    2785334058,
+                    536173722,
+                    402033656
+                ],
+                [
+                    2173046394,
+                    31345821,
+                    3708227201,
+                    1720528630,
+                    639190697,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "A heavy burst sidearm reminiscent of Death By Scorn. Yeah, remember that gun? Gosh it's been so long. I know we've had a few stellar weapons in this archetype come out. Like the reprised Breachlight or Liminal Vigil. Division does lean into Arc verbage better than the others, so if you refer Arc in PvE this will be right up your alley. Just remember it's still a sidearm.\nMasterworks: Range"
+        },
+        {
+            "hash": 3734001727,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    684456054,
+                    2785334058
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3734001727,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    1866048759,
+                    1195158366,
+                    3416609154,
+                    3118144663,
+                    838873202
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    2416023159,
+                    2923251173,
+                    639190697,
+                    3050799639
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Heavy burst sidearms haven't seen a ton of luck in the crucible outside of niche builds with mechaneers tricksleeves. To the Pain will make this feel stickier with damage. Kill Clip or Sword Logic will be your best damage increases. Offhand-Strike will be fun if you like to Hip-Fire.\nMasterworks: Range"
+        },
+        {
+            "hash": 3734001727,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    3416609154
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3877448149,
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    4245865861,
+                    402033656,
+                    2682205016
+                ],
+                [
+                    831391274,
+                    365154968,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Arguably the best addition this episode, Mirror Imago has some sweet perks. Subsistence, Grave Robber, or Overflow all limit downtime on reloads. Hatchling for those Strand junkies. Sword Logic or Target Lock for those other...lesser subclasses.\nMasterworks: Reload Speed"
+        },
+        {
+            "hash": 3877448149,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    831391274,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3877448149,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    588594999,
+                    3643424744,
+                    3416609154,
+                    2717805783,
+                    2682205016
+                ],
+                [
+                    31345821,
+                    2416023159,
+                    3108830275,
+                    639190697,
+                    3050799639,
+                    855168139
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over in the crucible You have my favorite archetype of SMG. Sword Logic will transfer over easily being one of the best perks for Mirror Imago. Offhand-Strike is fun but not high meta.\nMasterworks: Range"
+        },
+        {
+            "hash": 3877448149,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    3416609154
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3234363830,
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    4245865861,
+                    402033656,
+                    2682205016
+                ],
+                [
+                    831391274,
+                    365154968,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Arguably the best addition this episode, Mirror Imago has some sweet perks. Subsistence, Grave Robber, or Overflow all limit downtime on reloads. Hatchling for those Strand junkies. Sword Logic or Target Lock for those other...lesser subclasses.\nMasterworks: Reload Speed"
+        },
+        {
+            "hash": 3234363830,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    831391274,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3234363830,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    588594999,
+                    3643424744,
+                    3416609154,
+                    2717805783,
+                    2682205016
+                ],
+                [
+                    31345821,
+                    2416023159,
+                    3108830275,
+                    639190697,
+                    3050799639,
+                    855168139
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over in the crucible You have my favorite archetype of SMG. Sword Logic will transfer over easily being one of the best perks for Mirror Imago. Offhand-Strike is fun but not high meta.\nMasterworks: Range"
+        },
+        {
+            "hash": 3234363830,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    3416609154
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 4116546788,
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    4245865861,
+                    402033656,
+                    2682205016
+                ],
+                [
+                    831391274,
+                    365154968,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Arguably the best addition this episode, Mirror Imago has some sweet perks. Subsistence, Grave Robber, or Overflow all limit downtime on reloads. Hatchling for those Strand junkies. Sword Logic or Target Lock for those other...lesser subclasses.\nMasterworks: Reload Speed"
+        },
+        {
+            "hash": 4116546788,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    831391274,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 4116546788,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    588594999,
+                    3643424744,
+                    3416609154,
+                    2717805783,
+                    2682205016
+                ],
+                [
+                    31345821,
+                    2416023159,
+                    3108830275,
+                    639190697,
+                    3050799639,
+                    855168139
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over in the crucible You have my favorite archetype of SMG. Sword Logic will transfer over easily being one of the best perks for Mirror Imago. Offhand-Strike is fun but not high meta.\nMasterworks: Range"
+        },
+        {
+            "hash": 4116546788,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    3416609154
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 302039451,
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    4245865861,
+                    402033656,
+                    2682205016
+                ],
+                [
+                    831391274,
+                    365154968,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "Arguably the best addition this episode, Mirror Imago has some sweet perks. Subsistence, Grave Robber, or Overflow all limit downtime on reloads. Hatchling for those Strand junkies. Sword Logic or Target Lock for those other...lesser subclasses.\nMasterworks: Reload Speed"
+        },
+        {
+            "hash": 302039451,
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    831391274,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 302039451,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    588594999,
+                    3643424744,
+                    3416609154,
+                    2717805783,
+                    2682205016
+                ],
+                [
+                    31345821,
+                    2416023159,
+                    3108830275,
+                    639190697,
+                    3050799639,
+                    855168139
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "Over in the crucible You have my favorite archetype of SMG. Sword Logic will transfer over easily being one of the best perks for Mirror Imago. Offhand-Strike is fun but not high meta.\nMasterworks: Range"
+        },
+        {
+            "hash": 302039451,
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3938834702,
+                    3416609154
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2671849376,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3978468247,
+                    3878366039,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    1683379515,
+                    2224838837,
+                    639190697,
+                    2216471363,
+                    3102670337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out.\nMasterworks: Shield Duration"
+        },
+        {
+            "hash": 2671849376,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2671849376,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    3142289711,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3526486541,
+                    3878366039,
+                    3422796781,
+                    1738338041
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    3773585912,
+                    639190697,
+                    3102670337,
+                    2817677128
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as f*ck boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed).\nMasterworks: Range, Shield Duration"
+        },
+        {
+            "hash": 2671849376,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 3269398063,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3978468247,
+                    3878366039,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    1683379515,
+                    2224838837,
+                    639190697,
+                    2216471363,
+                    3102670337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out.\nMasterworks: Shield Duration"
+        },
+        {
+            "hash": 3269398063,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 3269398063,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    3142289711,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3526486541,
+                    3878366039,
+                    3422796781,
+                    1738338041
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    3773585912,
+                    639190697,
+                    3102670337,
+                    2817677128
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as f*ck boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed).\nMasterworks: Range, Shield Duration"
+        },
+        {
+            "hash": 3269398063,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 2755584425,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3978468247,
+                    3878366039,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    1683379515,
+                    2224838837,
+                    639190697,
+                    2216471363,
+                    3102670337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out.\nMasterworks: Shield Duration"
+        },
+        {
+            "hash": 2755584425,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 2755584425,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    3142289711,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3526486541,
+                    3878366039,
+                    3422796781,
+                    1738338041
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    3773585912,
+                    639190697,
+                    3102670337,
+                    2817677128
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as f*ck boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed).\nMasterworks: Range, Shield Duration"
+        },
+        {
+            "hash": 2755584425,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "hash": 25228802,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3978468247,
+                    3878366039,
+                    3422796781,
+                    906981559
+                ],
+                [
+                    31345821,
+                    1683379515,
+                    2224838837,
+                    639190697,
+                    2216471363,
+                    3102670337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "description": "So this glaive may actually change my mind on glaives. Nearly all of the third column is good for PvE. You can Slice, get better projectile speed, extra ammo in the mag, auto-loading, shield shenanigans, or ammo from thin air. Combine any of these with the damage from Sword Logic or Vorpal Weapon, the shield breaking and damage stacking with Disruption Break. There's so many good combinations you may just have to try them all out.\nMasterworks: Shield Duration"
+        },
+        {
+            "hash": 25228802,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "hash": 25228802,
+            "plugs": [
+                [
+                    580685494,
+                    1934171651
+                ],
+                [
+                    3142289711,
+                    3721627275,
+                    679225683
+                ],
+                [
+                    951095735,
+                    923806249,
+                    3526486541,
+                    3878366039,
+                    3422796781,
+                    1738338041
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    3773585912,
+                    639190697,
+                    3102670337,
+                    2817677128
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "description": "While there's so many interesting combinations in PvP there's the set standard of Tilting at Windmills and Unstoppable Force in PvP. It's not Immovable Object but it will suffice. Impulse Amplifier will still be best in slot for offering near instant projectiles. Slice for Sever is also great in any team environment. The funniest build for me is the full block fast movement (fast as f*ck boi) with Tilting at Windmills and the new Melee Momentum perk providing a total of 14 seconds of improved movement speed (it's also possible it stacks for 4 seconds of super fast speed).\nMasterworks: Range, Shield Duration"
+        },
+        {
+            "hash": 25228802,
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    31345821,
+                    639190697
                 ]
             ],
             "tags": [
