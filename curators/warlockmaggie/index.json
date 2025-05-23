@@ -1,0 +1,22 @@
+{
+    "name": "WarlockMaggie",
+    "description": "WarlockMaggie's (/u/warlockmaggie) roll recommendations.",
+    "bundles": [
+        {
+            "name": "WarlockMaggie's controller rolls",
+            "description": "WarlockMaggie's recommendations for weapons from season 26 RotN. Recommended for Controller.",
+            "output": "warlockmaggie-controller.json",
+            "files": [
+                "curators/warlockmaggie/controller/season-26.json"
+            ]
+        },
+        {
+            "name": "WarlockMaggie's MnK rolls",
+            "description": "WarlockMaggie's recommendations for weapons from season 26 RotN. Recommended for Mouse and Keyboard.",
+            "output": "warlockmaggie-mnk.json",
+            "files": [
+                "curators/warlockmaggie/mnk/season-26.json"
+            ]
+        }
+    ]
+}
