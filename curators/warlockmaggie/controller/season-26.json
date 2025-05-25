@@ -1192,7 +1192,8 @@
                 ],
                 [
                     1087426260,
-                    3230963543
+                    3230963543,
+                    106909392
                 ],
                 [
                     3017780555,
@@ -1249,8 +1250,9 @@
                     1482024992
                 ],
                 [
-                    3142289711,
-                    3177308360
+                    3230963543,
+                    3177308360,
+                    3142289711
                 ],
                 [
                     2579169598,
@@ -1282,7 +1284,7 @@
                     839105230
                 ],
                 [
-                    3142289711
+                    3230963543
                 ],
                 [
                     2579169598,
@@ -2475,6 +2477,1874 @@
                 [
                     4104185692,
                     3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 2760833884,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852
+                ],
+                [
+                    3796465595,
+                    3492396210,
+                    2822142346
+                ],
+                [
+                    3987942396,
+                    951095735,
+                    1523832109,
+                    2817499044,
+                    3878366039,
+                    461595545
+                ],
+                [
+                    3078487919,
+                    1089671869,
+                    3194351027,
+                    3744057135,
+                    496047945,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Cold Comfort is one of three Aggressive Frame Stasis Rocket launchers, so how does it set itself apart from the competition? First, it boasts the best stats of the three. Second, Bait and Switch and Elemental Honing are only on Cold Comfort, both surperior perks for boss damage. For barrels and mag, a combination of keeping the velocity up and the blast radius low (avoiding self damage during boss fights).\nMasterworks: Velocity, Reload Speed"
+        },
+        {
+            "hash": 2760833884,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 2760833884,
+            "plugs": [
+                [
+                    3525010810,
+                    3809316345,
+                    1441682018
+                ],
+                [
+                    2822142346,
+                    1996142143
+                ],
+                [
+                    951095735,
+                    3977735242,
+                    1428297954,
+                    3878366039,
+                    406461158,
+                    2014892510
+                ],
+                [
+                    3194351027,
+                    31345821,
+                    2978966579,
+                    2275087323,
+                    639190697,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Rocket Launchers can be highly effective in PvP, but they do require careful planning and aim. With an already high velocity, use Explosive Light to create a massive explosion in the blink of an eye. Otherwise, Chill Clip can provide a slowing effect that might be helpful? A little extra Blast Radius and Handling never hurts this weapon in the Crucible, so get barrels and perks with that in mind.\nMasterworks: Blast Radius, Handling"
+        },
+        {
+            "hash": 2760833884,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 291447487,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852
+                ],
+                [
+                    3796465595,
+                    3492396210,
+                    2822142346
+                ],
+                [
+                    3987942396,
+                    951095735,
+                    1523832109,
+                    2817499044,
+                    3878366039,
+                    461595545
+                ],
+                [
+                    3078487919,
+                    1089671869,
+                    3194351027,
+                    3744057135,
+                    496047945,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Cold Comfort is one of three Aggressive Frame Stasis Rocket launchers, so how does it set itself apart from the competition? First, it boasts the best stats of the three. Second, Bait and Switch and Elemental Honing are only on Cold Comfort, both surperior perks for boss damage. For barrels and mag, a combination of keeping the velocity up and the blast radius low (avoiding self damage during boss fights).\nMasterworks: Velocity, Reload Speed"
+        },
+        {
+            "hash": 291447487,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 291447487,
+            "plugs": [
+                [
+                    3525010810,
+                    3809316345,
+                    1441682018
+                ],
+                [
+                    2822142346,
+                    1996142143
+                ],
+                [
+                    951095735,
+                    3977735242,
+                    1428297954,
+                    3878366039,
+                    406461158,
+                    2014892510
+                ],
+                [
+                    3194351027,
+                    31345821,
+                    2978966579,
+                    2275087323,
+                    639190697,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Rocket Launchers can be highly effective in PvP, but they do require careful planning and aim. With an already high velocity, use Explosive Light to create a massive explosion in the blink of an eye. Otherwise, Chill Clip can provide a slowing effect that might be helpful? A little extra Blast Radius and Handling never hurts this weapon in the Crucible, so get barrels and perks with that in mind.\nMasterworks: Blast Radius, Handling"
+        },
+        {
+            "hash": 291447487,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 1817605554,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852
+                ],
+                [
+                    3796465595,
+                    3492396210,
+                    2822142346
+                ],
+                [
+                    3987942396,
+                    951095735,
+                    1523832109,
+                    2817499044,
+                    3878366039,
+                    461595545
+                ],
+                [
+                    3078487919,
+                    1089671869,
+                    3194351027,
+                    3744057135,
+                    496047945,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Cold Comfort is one of three Aggressive Frame Stasis Rocket launchers, so how does it set itself apart from the competition? First, it boasts the best stats of the three. Second, Bait and Switch and Elemental Honing are only on Cold Comfort, both surperior perks for boss damage. For barrels and mag, a combination of keeping the velocity up and the blast radius low (avoiding self damage during boss fights).\nMasterworks: Velocity, Reload Speed"
+        },
+        {
+            "hash": 1817605554,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 1817605554,
+            "plugs": [
+                [
+                    3525010810,
+                    3809316345,
+                    1441682018
+                ],
+                [
+                    2822142346,
+                    1996142143
+                ],
+                [
+                    951095735,
+                    3977735242,
+                    1428297954,
+                    3878366039,
+                    406461158,
+                    2014892510
+                ],
+                [
+                    3194351027,
+                    31345821,
+                    2978966579,
+                    2275087323,
+                    639190697,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Rocket Launchers can be highly effective in PvP, but they do require careful planning and aim. With an already high velocity, use Explosive Light to create a massive explosion in the blink of an eye. Otherwise, Chill Clip can provide a slowing effect that might be helpful? A little extra Blast Radius and Handling never hurts this weapon in the Crucible, so get barrels and perks with that in mind.\nMasterworks: Blast Radius, Handling"
+        },
+        {
+            "hash": 1817605554,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 2126543269,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852
+                ],
+                [
+                    3796465595,
+                    3492396210,
+                    2822142346
+                ],
+                [
+                    3987942396,
+                    951095735,
+                    1523832109,
+                    2817499044,
+                    3878366039,
+                    461595545
+                ],
+                [
+                    3078487919,
+                    1089671869,
+                    3194351027,
+                    3744057135,
+                    496047945,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Cold Comfort is one of three Aggressive Frame Stasis Rocket launchers, so how does it set itself apart from the competition? First, it boasts the best stats of the three. Second, Bait and Switch and Elemental Honing are only on Cold Comfort, both surperior perks for boss damage. For barrels and mag, a combination of keeping the velocity up and the blast radius low (avoiding self damage during boss fights).\nMasterworks: Velocity, Reload Speed"
+        },
+        {
+            "hash": 2126543269,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 2126543269,
+            "plugs": [
+                [
+                    3525010810,
+                    3809316345,
+                    1441682018
+                ],
+                [
+                    2822142346,
+                    1996142143
+                ],
+                [
+                    951095735,
+                    3977735242,
+                    1428297954,
+                    3878366039,
+                    406461158,
+                    2014892510
+                ],
+                [
+                    3194351027,
+                    31345821,
+                    2978966579,
+                    2275087323,
+                    639190697,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Rocket Launchers can be highly effective in PvP, but they do require careful planning and aim. With an already high velocity, use Explosive Light to create a massive explosion in the blink of an eye. Otherwise, Chill Clip can provide a slowing effect that might be helpful? A little extra Blast Radius and Handling never hurts this weapon in the Crucible, so get barrels and perks with that in mind.\nMasterworks: Blast Radius, Handling"
+        },
+        {
+            "hash": 2126543269,
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    3194351027,
+                    2275087323
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 2934305134,
+            "plugs": [
+                [
+                    2713678205,
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    679225683,
+                    3721627275
+                ],
+                [
+                    1966281507,
+                    3017780555,
+                    1523832109,
+                    1592669035,
+                    4223976499,
+                    461595545
+                ],
+                [
+                    1782407750,
+                    4293542123,
+                    3201496230,
+                    2241043034,
+                    2675184851,
+                    1545231802
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Greasy Luck, like other Rapid-Fires, is really best used for Melee combat (lowest shot damage, range, and shield duration), but unfortunately, only 2 Perks (one for each column) actually work with that: Melee Momentum and Close to Melee. Otherwise, you can try established perk combos (Incandescent and Heal Clip), but since they only proc with projectile kills, well... that's glaives for you.\nMasterworks: Shield Duration, Range"
+        },
+        {
+            "hash": 2934305134,
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1966281507,
+                    1592669035
+                ],
+                [
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 2934305134,
+            "plugs": [
+                [
+                    5699512,
+                    580685494,
+                    594346985
+                ],
+                [
+                    3721627275,
+                    679225683,
+                    3142289711
+                ],
+                [
+                    3773585912,
+                    1966281507,
+                    1556840489,
+                    2817677128,
+                    1592669035,
+                    3442762221
+                ],
+                [
+                    1782407750,
+                    2224838837,
+                    31345821,
+                    2241043034,
+                    3102670337,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Glaives in PvP tend to have a truly hit or miss tendancy. If you want to bring up the shield duration, Replenishing Aegis and Unstoppable Force can give you a more rounded option. But to actually lean into the archetype, you'll want the two melee perks instead (plus some extra handling never hurts).\nMasterworks: Handling, Shield Duration"
+        },
+        {
+            "hash": 2934305134,
+            "plugs": [
+                [
+                    5699512
+                ],
+                [
+                    3721627275
+                ],
+                [
+                    3773585912,
+                    2817677128
+                ],
+                [
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 1685406703,
+            "plugs": [
+                [
+                    2713678205,
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    679225683,
+                    3721627275
+                ],
+                [
+                    1966281507,
+                    3017780555,
+                    1523832109,
+                    1592669035,
+                    4223976499,
+                    461595545
+                ],
+                [
+                    1782407750,
+                    4293542123,
+                    3201496230,
+                    2241043034,
+                    2675184851,
+                    1545231802
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Greasy Luck, like other Rapid-Fires, is really best used for Melee combat (lowest shot damage, range, and shield duration), but unfortunately, only 2 Perks (one for each column) actually work with that: Melee Momentum and Close to Melee. Otherwise, you can try established perk combos (Incandescent and Heal Clip), but since they only proc with projectile kills, well... that's glaives for you.\nMasterworks: Shield Duration, Range"
+        },
+        {
+            "hash": 1685406703,
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1966281507,
+                    1592669035
+                ],
+                [
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 1685406703,
+            "plugs": [
+                [
+                    5699512,
+                    580685494,
+                    594346985
+                ],
+                [
+                    3721627275,
+                    679225683,
+                    3142289711
+                ],
+                [
+                    3773585912,
+                    1966281507,
+                    1556840489,
+                    2817677128,
+                    1592669035,
+                    3442762221
+                ],
+                [
+                    1782407750,
+                    2224838837,
+                    31345821,
+                    2241043034,
+                    3102670337,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Glaives in PvP tend to have a truly hit or miss tendancy. If you want to bring up the shield duration, Replenishing Aegis and Unstoppable Force can give you a more rounded option. But to actually lean into the archetype, you'll want the two melee perks instead (plus some extra handling never hurts).\nMasterworks: Handling, Shield Duration"
+        },
+        {
+            "hash": 1685406703,
+            "plugs": [
+                [
+                    5699512
+                ],
+                [
+                    3721627275
+                ],
+                [
+                    3773585912,
+                    2817677128
+                ],
+                [
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 3210739171,
+            "plugs": [
+                [
+                    2713678205,
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    679225683,
+                    3721627275
+                ],
+                [
+                    1966281507,
+                    3017780555,
+                    1523832109,
+                    1592669035,
+                    4223976499,
+                    461595545
+                ],
+                [
+                    1782407750,
+                    4293542123,
+                    3201496230,
+                    2241043034,
+                    2675184851,
+                    1545231802
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Greasy Luck, like other Rapid-Fires, is really best used for Melee combat (lowest shot damage, range, and shield duration), but unfortunately, only 2 Perks (one for each column) actually work with that: Melee Momentum and Close to Melee. Otherwise, you can try established perk combos (Incandescent and Heal Clip), but since they only proc with projectile kills, well... that's glaives for you.\nMasterworks: Shield Duration, Range"
+        },
+        {
+            "hash": 3210739171,
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1966281507,
+                    1592669035
+                ],
+                [
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 3210739171,
+            "plugs": [
+                [
+                    5699512,
+                    580685494,
+                    594346985
+                ],
+                [
+                    3721627275,
+                    679225683,
+                    3142289711
+                ],
+                [
+                    3773585912,
+                    1966281507,
+                    1556840489,
+                    2817677128,
+                    1592669035,
+                    3442762221
+                ],
+                [
+                    1782407750,
+                    2224838837,
+                    31345821,
+                    2241043034,
+                    3102670337,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Glaives in PvP tend to have a truly hit or miss tendancy. If you want to bring up the shield duration, Replenishing Aegis and Unstoppable Force can give you a more rounded option. But to actually lean into the archetype, you'll want the two melee perks instead (plus some extra handling never hurts).\nMasterworks: Handling, Shield Duration"
+        },
+        {
+            "hash": 3210739171,
+            "plugs": [
+                [
+                    5699512
+                ],
+                [
+                    3721627275
+                ],
+                [
+                    3773585912,
+                    2817677128
+                ],
+                [
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 1050582210,
+            "plugs": [
+                [
+                    2713678205,
+                    580685494,
+                    1934171651
+                ],
+                [
+                    1087426260,
+                    679225683,
+                    3721627275
+                ],
+                [
+                    1966281507,
+                    3017780555,
+                    1523832109,
+                    1592669035,
+                    4223976499,
+                    461595545
+                ],
+                [
+                    1782407750,
+                    4293542123,
+                    3201496230,
+                    2241043034,
+                    2675184851,
+                    1545231802
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Greasy Luck, like other Rapid-Fires, is really best used for Melee combat (lowest shot damage, range, and shield duration), but unfortunately, only 2 Perks (one for each column) actually work with that: Melee Momentum and Close to Melee. Otherwise, you can try established perk combos (Incandescent and Heal Clip), but since they only proc with projectile kills, well... that's glaives for you.\nMasterworks: Shield Duration, Range"
+        },
+        {
+            "hash": 1050582210,
+            "plugs": [
+                [
+                    2713678205
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1966281507,
+                    1592669035
+                ],
+                [
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 1050582210,
+            "plugs": [
+                [
+                    5699512,
+                    580685494,
+                    594346985
+                ],
+                [
+                    3721627275,
+                    679225683,
+                    3142289711
+                ],
+                [
+                    3773585912,
+                    1966281507,
+                    1556840489,
+                    2817677128,
+                    1592669035,
+                    3442762221
+                ],
+                [
+                    1782407750,
+                    2224838837,
+                    31345821,
+                    2241043034,
+                    3102670337,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Glaives in PvP tend to have a truly hit or miss tendancy. If you want to bring up the shield duration, Replenishing Aegis and Unstoppable Force can give you a more rounded option. But to actually lean into the archetype, you'll want the two melee perks instead (plus some extra handling never hurts).\nMasterworks: Handling, Shield Duration"
+        },
+        {
+            "hash": 1050582210,
+            "plugs": [
+                [
+                    5699512
+                ],
+                [
+                    3721627275
+                ],
+                [
+                    3773585912,
+                    2817677128
+                ],
+                [
+                    1782407750,
+                    2241043034
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 492673102,
+            "plugs": [
+                [
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    1556840489,
+                    3523296417,
+                    855168139,
+                    3442762221,
+                    1906147653
+                ],
+                [
+                    2396489472,
+                    3201496230,
+                    1089671869,
+                    598607952,
+                    1545231802,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "My favorite roll for this can be summed up in two words: Stasis Forebearance. Unrelenting and Chain Reaction will obliterate a group of minor enemies and give you a decent bump in HP for doing so. Redirection is also very strong and can turn your add-clear into major/champion removal. If you play the multi-element mini game, Elemental Honing can reward you with up 35% damage bonus for 20 seconds!\nMasterworks: Velocity, Reload Speed"
+        },
+        {
+            "hash": 492673102,
+            "plugs": [
+                [
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    855168139
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 492673102,
+            "plugs": [
+                [
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1556840489,
+                    3108830275,
+                    1906147653,
+                    3442762221,
+                    855168139
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    11612903,
+                    2923251173,
+                    639190697,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Wave Frame grenada launchers take a little getting used to in PvP, but they can soften targets or get cleanups on a zone. Not a lot of perks that stand out for PvP, but Kill Clip is probably the strongest option that we have. Lead from Gold does proc from Heavy Ammo pickups, so that's a viable 3rd column pick.\nMasterworks: Velocity, Handling"
+        },
+        {
+            "hash": 492673102,
+            "plugs": [
+                [
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 2059741649,
+            "plugs": [
+                [
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    1556840489,
+                    3523296417,
+                    855168139,
+                    3442762221,
+                    1906147653
+                ],
+                [
+                    2396489472,
+                    3201496230,
+                    1089671869,
+                    598607952,
+                    1545231802,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "My favorite roll for this can be summed up in two words: Stasis Forebearance. Unrelenting and Chain Reaction will obliterate a group of minor enemies and give you a decent bump in HP for doing so. Redirection is also very strong and can turn your add-clear into major/champion removal. If you play the multi-element mini game, Elemental Honing can reward you with up 35% damage bonus for 20 seconds!\nMasterworks: Velocity, Reload Speed"
+        },
+        {
+            "hash": 2059741649,
+            "plugs": [
+                [
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    855168139
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 2059741649,
+            "plugs": [
+                [
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1556840489,
+                    3108830275,
+                    1906147653,
+                    3442762221,
+                    855168139
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    11612903,
+                    2923251173,
+                    639190697,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Wave Frame grenada launchers take a little getting used to in PvP, but they can soften targets or get cleanups on a zone. Not a lot of perks that stand out for PvP, but Kill Clip is probably the strongest option that we have. Lead from Gold does proc from Heavy Ammo pickups, so that's a viable 3rd column pick.\nMasterworks: Velocity, Handling"
+        },
+        {
+            "hash": 2059741649,
+            "plugs": [
+                [
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 3185151619,
+            "plugs": [
+                [
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    1556840489,
+                    3523296417,
+                    855168139,
+                    3442762221,
+                    1906147653
+                ],
+                [
+                    2396489472,
+                    3201496230,
+                    1089671869,
+                    598607952,
+                    1545231802,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "My favorite roll for this can be summed up in two words: Stasis Forebearance. Unrelenting and Chain Reaction will obliterate a group of minor enemies and give you a decent bump in HP for doing so. Redirection is also very strong and can turn your add-clear into major/champion removal. If you play the multi-element mini game, Elemental Honing can reward you with up 35% damage bonus for 20 seconds!\nMasterworks: Velocity, Reload Speed"
+        },
+        {
+            "hash": 3185151619,
+            "plugs": [
+                [
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    855168139
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 3185151619,
+            "plugs": [
+                [
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1556840489,
+                    3108830275,
+                    1906147653,
+                    3442762221,
+                    855168139
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    11612903,
+                    2923251173,
+                    639190697,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Wave Frame grenada launchers take a little getting used to in PvP, but they can soften targets or get cleanups on a zone. Not a lot of perks that stand out for PvP, but Kill Clip is probably the strongest option that we have. Lead from Gold does proc from Heavy Ammo pickups, so that's a viable 3rd column pick.\nMasterworks: Velocity, Handling"
+        },
+        {
+            "hash": 3185151619,
+            "plugs": [
+                [
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 233402416,
+            "plugs": [
+                [
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    1556840489,
+                    3523296417,
+                    855168139,
+                    3442762221,
+                    1906147653
+                ],
+                [
+                    2396489472,
+                    3201496230,
+                    1089671869,
+                    598607952,
+                    1545231802,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "My favorite roll for this can be summed up in two words: Stasis Forebearance. Unrelenting and Chain Reaction will obliterate a group of minor enemies and give you a decent bump in HP for doing so. Redirection is also very strong and can turn your add-clear into major/champion removal. If you play the multi-element mini game, Elemental Honing can reward you with up 35% damage bonus for 20 seconds!\nMasterworks: Velocity, Reload Speed"
+        },
+        {
+            "hash": 233402416,
+            "plugs": [
+                [
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3108830275,
+                    855168139
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 233402416,
+            "plugs": [
+                [
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1556840489,
+                    3108830275,
+                    1906147653,
+                    3442762221,
+                    855168139
+                ],
+                [
+                    1015611457,
+                    31345821,
+                    11612903,
+                    2923251173,
+                    639190697,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Wave Frame grenada launchers take a little getting used to in PvP, but they can soften targets or get cleanups on a zone. Not a lot of perks that stand out for PvP, but Kill Clip is probably the strongest option that we have. Lead from Gold does proc from Heavy Ammo pickups, so that's a viable 3rd column pick.\nMasterworks: Velocity, Handling"
+        },
+        {
+            "hash": 233402416,
+            "plugs": [
+                [
+                    1441682018
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    1015611457,
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 4193602194,
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    3230963543,
+                    1885400500,
+                    1087426260
+                ],
+                [
+                    3017780555,
+                    3418782618,
+                    3523296417,
+                    4223976499,
+                    1563455254,
+                    1906147653
+                ],
+                [
+                    4293542123,
+                    31345821,
+                    11612903,
+                    2675184851,
+                    639190697,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Wipe them out, all of them... No Survivors is probably my favorite Solar SMG and its reissue with Rite of the Nine has brought some fantastic perks to the mix. Gaining Heal Clip further improves the Solar synergies, whereas Rewind Rounds and Sword Logic provide solid PvE damage. As is typical with this archetype, the Stability needs help, badly...\nMasterworks: Stability, Reload Speed"
+        },
+        {
+            "hash": 4193602194,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 4193602194,
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    3230963543,
+                    1561002382
+                ],
+                [
+                    2846385770,
+                    3436462433,
+                    3523296417,
+                    509594246,
+                    2658083589,
+                    1906147653
+                ],
+                [
+                    365154968,
+                    3081867624,
+                    11612903,
+                    2939589096,
+                    2963273944,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Remember Immortal? This is the closest equivalent in the energy slot and has similar perks to boot. Rangefinder and Target Lock provide neutral game benefits whereas Master of Arms can be activated with any weapon kill. Don't pass on Surplus as it does provide a much needed Stability bonus, but you can also bring that stat up with barrel and mag.\nMasterworks: Stability, Range"
+        },
+        {
+            "hash": 4193602194,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770,
+                    509594246
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 4228149269,
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    3230963543,
+                    1885400500,
+                    1087426260
+                ],
+                [
+                    3017780555,
+                    3418782618,
+                    3523296417,
+                    4223976499,
+                    1563455254,
+                    1906147653
+                ],
+                [
+                    4293542123,
+                    31345821,
+                    11612903,
+                    2675184851,
+                    639190697,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Wipe them out, all of them... No Survivors is probably my favorite Solar SMG and its reissue with Rite of the Nine has brought some fantastic perks to the mix. Gaining Heal Clip further improves the Solar synergies, whereas Rewind Rounds and Sword Logic provide solid PvE damage. As is typical with this archetype, the Stability needs help, badly...\nMasterworks: Stability, Reload Speed"
+        },
+        {
+            "hash": 4228149269,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 4228149269,
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    3230963543,
+                    1561002382
+                ],
+                [
+                    2846385770,
+                    3436462433,
+                    3523296417,
+                    509594246,
+                    2658083589,
+                    1906147653
+                ],
+                [
+                    365154968,
+                    3081867624,
+                    11612903,
+                    2939589096,
+                    2963273944,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Remember Immortal? This is the closest equivalent in the energy slot and has similar perks to boot. Rangefinder and Target Lock provide neutral game benefits whereas Master of Arms can be activated with any weapon kill. Don't pass on Surplus as it does provide a much needed Stability bonus, but you can also bring that stat up with barrel and mag.\nMasterworks: Stability, Range"
+        },
+        {
+            "hash": 4228149269,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770,
+                    509594246
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 189194532,
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    3230963543,
+                    1885400500,
+                    1087426260
+                ],
+                [
+                    3017780555,
+                    3418782618,
+                    3523296417,
+                    4223976499,
+                    1563455254,
+                    1906147653
+                ],
+                [
+                    4293542123,
+                    31345821,
+                    11612903,
+                    2675184851,
+                    639190697,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Wipe them out, all of them... No Survivors is probably my favorite Solar SMG and its reissue with Rite of the Nine has brought some fantastic perks to the mix. Gaining Heal Clip further improves the Solar synergies, whereas Rewind Rounds and Sword Logic provide solid PvE damage. As is typical with this archetype, the Stability needs help, badly...\nMasterworks: Stability, Reload Speed"
+        },
+        {
+            "hash": 189194532,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 189194532,
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    3230963543,
+                    1561002382
+                ],
+                [
+                    2846385770,
+                    3436462433,
+                    3523296417,
+                    509594246,
+                    2658083589,
+                    1906147653
+                ],
+                [
+                    365154968,
+                    3081867624,
+                    11612903,
+                    2939589096,
+                    2963273944,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Remember Immortal? This is the closest equivalent in the energy slot and has similar perks to boot. Rangefinder and Target Lock provide neutral game benefits whereas Master of Arms can be activated with any weapon kill. Don't pass on Surplus as it does provide a much needed Stability bonus, but you can also bring that stat up with barrel and mag.\nMasterworks: Stability, Range"
+        },
+        {
+            "hash": 189194532,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770,
+                    509594246
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 1157220231,
+            "plugs": [
+                [
+                    1482024992,
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    3230963543,
+                    1885400500,
+                    1087426260
+                ],
+                [
+                    3017780555,
+                    3418782618,
+                    3523296417,
+                    4223976499,
+                    1563455254,
+                    1906147653
+                ],
+                [
+                    4293542123,
+                    31345821,
+                    11612903,
+                    2675184851,
+                    639190697,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Wipe them out, all of them... No Survivors is probably my favorite Solar SMG and its reissue with Rite of the Nine has brought some fantastic perks to the mix. Gaining Heal Clip further improves the Solar synergies, whereas Rewind Rounds and Sword Logic provide solid PvE damage. As is typical with this archetype, the Stability needs help, badly...\nMasterworks: Stability, Reload Speed"
+        },
+        {
+            "hash": 1157220231,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26"
+        },
+        {
+            "hash": 1157220231,
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    3230963543,
+                    1561002382
+                ],
+                [
+                    2846385770,
+                    3436462433,
+                    3523296417,
+                    509594246,
+                    2658083589,
+                    1906147653
+                ],
+                [
+                    365154968,
+                    3081867624,
+                    11612903,
+                    2939589096,
+                    2963273944,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "warlockmaggie/controller/season-26",
+            "description": "Remember Immortal? This is the closest equivalent in the energy slot and has similar perks to boot. Rangefinder and Target Lock provide neutral game benefits whereas Master of Arms can be activated with any weapon kill. Don't pass on Surplus as it does provide a much needed Stability bonus, but you can also bring that stat up with barrel and mag.\nMasterworks: Stability, Range"
+        },
+        {
+            "hash": 1157220231,
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770,
+                    509594246
+                ],
+                [
+                    365154968,
+                    2939589096
                 ]
             ],
             "tags": [
