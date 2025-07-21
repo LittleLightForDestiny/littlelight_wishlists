@@ -1,0 +1,14 @@
+{
+    "name": "Aegis",
+    "description": "Aegis's endgame roll recommendations and rankings.",
+    "bundles": [
+        {
+            "name": "Aegis's endgame rolls and rankings",
+            "description": "Endgame weapon rolls and rankings taken from Aegis's endgame analysis spreadsheet.",
+            "output": "aegis-mnk+controller.json",
+            "files": [
+                "curators/aegis/mnk+controller/all.json"
+            ]
+        }
+    ]
+}
