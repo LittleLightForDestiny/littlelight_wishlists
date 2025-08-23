@@ -19,7 +19,7 @@ jobs:
     - name: Create wishlist bundles
       uses: actions/setup-node@v4
       with:
-        node-version: 14.x
+        node-version: 20
         cache: 'npm'
     - run: npm ci
     - run: npm run bundler
