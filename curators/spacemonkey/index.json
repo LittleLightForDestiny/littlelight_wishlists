@@ -1,0 +1,14 @@
+{
+    "name": "SpaceMonkey",
+    "description": "SpaceMonkey's roll recommendations for controller.",
+    "bundles": [
+        {
+            "name": "SpaceMonkey's controller rolls",
+            "description": "SpaceMonkey's recommendations for controller through seasons 27-27.",
+            "output": "spacemonkey-controller.json",
+            "files": [
+                "curators/spacemonkey/controller/season-27.json"
+            ]
+        }
+    ]
+}
