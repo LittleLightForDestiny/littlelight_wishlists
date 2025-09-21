@@ -267,9 +267,7 @@
                 ],
                 [
                     3619207468,
-                    1464081238,
-                    3198323828,
-                    2813913866
+                    3198323828
                 ],
                 [
                     1134488199,
@@ -582,8 +580,10 @@
                 ],
                 [
                     47981717,
+                    2109543898,
                     3673922083,
                     1370847713,
+                    2799030358,
                     2889515627
                 ]
             ],
@@ -883,6 +883,338 @@
             "originalWishlist": "spacemonkey/controller/season-27"
         },
         {
+            "hash": 976459525,
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553,
+                    1482024992,
+                    4090651448,
+                    839105230,
+                    1124871858,
+                    1147230557,
+                    2860123632,
+                    111235976,
+                    3048246338
+                ],
+                [
+                    2969185026,
+                    3868766766,
+                    2800182654,
+                    3081681954
+                ],
+                [
+                    1645158859,
+                    2579169598,
+                    3755250867,
+                    2073244114
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Very strong reprise of one of the best PvP fusion rifles.\nPvP Masterworks: Charge Time, Range, Stability, Handling"
+        },
+        {
+            "hash": 976459525,
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553,
+                    1482024992,
+                    4090651448,
+                    1124871858,
+                    1147230557,
+                    2860123632,
+                    111235976
+                ],
+                [
+                    2969185026,
+                    3868766766,
+                    2800182654,
+                    3081681954
+                ],
+                [
+                    1645158859,
+                    2579169598,
+                    3755250867,
+                    2073244114
+                ],
+                [
+                    1194056669,
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2579693381,
+            "plugs": [
+                [
+                    4090651448,
+                    3250034553,
+                    1482024992,
+                    1840239774,
+                    111235976,
+                    1147230557,
+                    2860123632,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    3142289711,
+                    106909392,
+                    1709045111,
+                    3267421167,
+                    1783397184
+                ],
+                [
+                    692399809,
+                    243981275,
+                    4070834277,
+                    984655331
+                ],
+                [
+                    1134488199,
+                    2298656195,
+                    2904194311,
+                    674546187
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Withering Gaze here is very special, especially on a primary weapon that is meant for a support build. Actually tremendous. As far as raw healing goes this will be outclassed by No Hesitation, but the unique frame granting overshields is very cool.\nPvE Masterworks: Reload"
+        },
+        {
+            "hash": 2579693381,
+            "plugs": [
+                [
+                    4090651448,
+                    111235976
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    692399809,
+                    4070834277
+                ],
+                [
+                    1134488199,
+                    2904194311
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 358190158,
+            "plugs": [
+                [
+                    3250034553,
+                    1840239774,
+                    4090651448,
+                    839105230,
+                    1147230557,
+                    1124871858,
+                    111235976,
+                    3048246338
+                ],
+                [
+                    3230963543,
+                    106909392,
+                    3142289711,
+                    1709045111,
+                    1783397184,
+                    3267421167
+                ],
+                [
+                    3017780555,
+                    1683379515,
+                    4223976499,
+                    2216471363
+                ],
+                [
+                    4293542123,
+                    3081867624,
+                    2675184851,
+                    2963273944
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Its back and its pretty decent. This gun has never been a good pairing with Sturm, and it still isnt. Even with Disruption Break in the first column it still doesnt justify running double primary. Sidearms are the highest damage weapon family in the game, so Sturm will kind of always play second fiddle to this anyway. As a standalone weapon though this is totally legitimate - albeit not very unique.\nPvE Masterworks: Reload, Range*, Handling\nPvP Masterworks: Range, Handling*"
+        },
+        {
+            "hash": 358190158,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 358190158,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    1147230557,
+                    111235976,
+                    2860123632,
+                    1124871858
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    588594999,
+                    3017780555,
+                    2717805783,
+                    4223976499
+                ],
+                [
+                    699525795,
+                    3081867624,
+                    3719974635,
+                    2963273944
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 358190158,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    588594999,
+                    2717805783
+                ],
+                [
+                    699525795,
+                    3719974635
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2857870254,
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    839105230,
+                    1124871858,
+                    1147230557,
+                    111235976,
+                    2860123632,
+                    3048246338
+                ],
+                [
+                    3230963543,
+                    679225683,
+                    1709045111,
+                    1807273211
+                ],
+                [
+                    2289534249,
+                    243981275,
+                    3914874605,
+                    984655331
+                ],
+                [
+                    3891536761,
+                    1202584452,
+                    1549370717,
+                    2138673996
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Oh my yes. Bewildering Burst with Kinetic Tremors is very spicy, and this is a fantastic frame for it to be on. The last of a real origin trait is the only downside here. Ancillary Ordinance is actually pretty strong as well.\nPvE Masterworks: Reload, Range"
+        },
+        {
+            "hash": 2857870254,
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    2289534249,
+                    243981275,
+                    3914874605,
+                    984655331
+                ],
+                [
+                    3891536761,
+                    1202584452,
+                    1549370717,
+                    2138673996
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
             "hash": 1663482635,
             "plugs": [
                 [
@@ -1172,6 +1504,73 @@
             "originalWishlist": "spacemonkey/controller/season-27"
         },
         {
+            "hash": 1917334929,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    839105230,
+                    1147230557,
+                    2860123632,
+                    3048246338
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646,
+                    679225683,
+                    1968098204,
+                    494745090,
+                    2172195298,
+                    1807273211
+                ],
+                [
+                    2039302152,
+                    3017780555,
+                    2450788523,
+                    2396422520,
+                    4223976499,
+                    4207509907
+                ],
+                [
+                    555281244,
+                    588594999,
+                    332733060,
+                    2717805783
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Strange perk pool honestly. Column 1 especially is pretty much a disaster. Really not sure what they were going for with this.\nEPIC RAID\nPvP Masterworks: Range, Stability, Handling"
+        },
+        {
+            "hash": 1917334929,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    1885400500,
+                    1968098204
+                ],
+                [
+                    2039302152,
+                    2396422520
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
             "hash": 3241217409,
             "plugs": [
                 [
@@ -1237,6 +1636,376 @@
                     2890807135,
                     2037312142,
                     3581929919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2725894221,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852,
+                    1441682018,
+                    3809316345,
+                    3250572790,
+                    564443854,
+                    582768348,
+                    1639399262,
+                    2052299741
+                ],
+                [
+                    2985827016,
+                    3796465595,
+                    1439751480,
+                    274905539
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "This is an abomination. The only thing I can think is that they let a blind raccoon pick the perk pool.\nPvE Masterworks: Reload"
+        },
+        {
+            "hash": 2725894221,
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2985827016,
+                    1439751480
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3184457500,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852,
+                    1441682018,
+                    3809316345,
+                    3250572790,
+                    564443854,
+                    582768348,
+                    1639399262,
+                    2052299741
+                ],
+                [
+                    2985827016,
+                    3796465595,
+                    1439751480,
+                    274905539
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "This is an abomination. The only thing I can think is that they let a blind raccoon pick the perk pool.\nPvE Masterworks: Reload"
+        },
+        {
+            "hash": 3184457500,
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2985827016,
+                    1439751480
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3184457501,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852,
+                    1441682018,
+                    3809316345,
+                    3250572790,
+                    564443854,
+                    582768348,
+                    1639399262,
+                    2052299741
+                ],
+                [
+                    2985827016,
+                    3796465595,
+                    1439751480,
+                    274905539
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "This is an abomination. The only thing I can think is that they let a blind raccoon pick the perk pool.\nPvE Masterworks: Reload"
+        },
+        {
+            "hash": 3184457501,
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2985827016,
+                    1439751480
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3184457502,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852,
+                    1441682018,
+                    3809316345,
+                    3250572790,
+                    564443854,
+                    582768348,
+                    1639399262,
+                    2052299741
+                ],
+                [
+                    2985827016,
+                    3796465595,
+                    1439751480,
+                    274905539
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "This is an abomination. The only thing I can think is that they let a blind raccoon pick the perk pool.\nPvE Masterworks: Reload"
+        },
+        {
+            "hash": 3184457502,
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2985827016,
+                    1439751480
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3184457503,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852,
+                    1441682018,
+                    3809316345,
+                    3250572790,
+                    564443854,
+                    582768348,
+                    1639399262,
+                    2052299741
+                ],
+                [
+                    2985827016,
+                    3796465595,
+                    1439751480,
+                    274905539
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "This is an abomination. The only thing I can think is that they let a blind raccoon pick the perk pool.\nPvE Masterworks: Reload"
+        },
+        {
+            "hash": 3184457503,
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2985827016,
+                    1439751480
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    1439600632,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 1197073834,
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230,
+                    1124871858,
+                    111235976,
+                    3048246338
+                ],
+                [
+                    3230963543,
+                    106909392,
+                    1709045111,
+                    1783397184
+                ],
+                [
+                    2289534249,
+                    3700496672,
+                    3038247973,
+                    3914874605,
+                    2840833776,
+                    64866129
+                ],
+                [
+                    3891536761,
+                    1202584452,
+                    1549370717,
+                    2138673996
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "At first glance this is a precision scout rifle so it would be easy to write it off as dead on arrival, however the addition of some new perks - notably Bewildering Burst - gives this gun some much needed utility that could actually push this into relevance. Outside of that this straight up powercreeps Hung Jury as well. Ancillary Ordinance is actually pretty strong as well.\nPvE Masterworks: Reload, Handling"
+        },
+        {
+            "hash": 1197073834,
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    2289534249,
+                    3914874605
+                ],
+                [
+                    3891536761,
+                    1202584452,
+                    1549370717,
+                    2138673996
                 ]
             ],
             "tags": [
@@ -1529,6 +2298,77 @@
             "originalWishlist": "spacemonkey/controller/season-27"
         },
         {
+            "hash": 2155534128,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852,
+                    1441682018,
+                    3809316345,
+                    3250572790,
+                    564443854,
+                    582768348,
+                    1639399262,
+                    2052299741
+                ],
+                [
+                    3796465595,
+                    2985827016,
+                    274905539,
+                    1439751480
+                ],
+                [
+                    1275731761,
+                    3300816228,
+                    1017229899,
+                    2091001077,
+                    3528046508,
+                    3696140595
+                ],
+                [
+                    3764420437,
+                    1089671869,
+                    113508675,
+                    1439600632,
+                    3192447905,
+                    496047945,
+                    177189259,
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "The origin trait here combined with Cluster Bombs makes for some quick energy regeneration, but that could be just a gimmick and otherwise this frame just doesnt really support the current state of rockets. The rotations that are enabled by Haliaetus are cool and fun and high APM, but may not actually be any kind of marked improvement over more conventional options that should work on any boss.\nPvE Masterworks: Reload, Handling*, Velocity"
+        },
+        {
+            "hash": 2155534128,
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    3796465595,
+                    274905539
+                ],
+                [
+                    1275731761,
+                    2091001077
+                ],
+                [
+                    3764420437,
+                    3192447905
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
             "hash": 2725426834,
             "plugs": [
                 [
@@ -1564,7 +2404,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "So obviously this is an auto rifle, its not the best auto archetype, and its stasis. All of this should mean that the gun is just kinda ok as a stasis build vehicle, but the origin trait is where things could get spicy. If the damage increase is meaningful and has a high QoL factor then this could wind up being one of the top stasis primaries in the game.\nPvE Masterworks: Reload"
+            "description": "So obviously this is an auto rifle, its not the best auto archetype, and its stasis. All of this should mean that the gun is just kinda ok as a stasis build vehicle, but the origin trait is where things could get spicy.\nPvE Masterworks: Reload"
         },
         {
             "hash": 2725426834,
@@ -1813,11 +2653,9 @@
                     1955165503,
                     1523832109,
                     1556840489,
-                    4190679284,
                     2617553311,
                     461595545,
-                    3442762221,
-                    820036316
+                    3442762221
                 ],
                 [
                     2978966579,
@@ -1856,6 +2694,148 @@
                     2594592626,
                     344235611,
                     2037312142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2699423382,
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    1300023272,
+                    2860123632,
+                    111235976,
+                    2371713880
+                ],
+                [
+                    3142289711,
+                    679225683,
+                    3267421167,
+                    1807273211
+                ],
+                [
+                    4071163871,
+                    2579169598,
+                    494941759,
+                    2073244114
+                ],
+                [
+                    1194056669,
+                    47981717,
+                    3955464425,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Terrible in PvE, the frame is just bad. And thats ok because we wont miss the MIDA Multi-Tool synergy there. However, both of these guns look pretty decent in PvP, and MIDA Macro has the rolls to back it up. This looks like a legitimately good pairing.\nPvP Masterworks: Range, Handling*"
+        },
+        {
+            "hash": 2699423382,
+            "plugs": [
+                [
+                    1482024992,
+                    2860123632
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    2579169598,
+                    494941759,
+                    2073244114
+                ],
+                [
+                    1194056669,
+                    47981717,
+                    3955464425,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3946054154,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448,
+                    1147230557,
+                    2860123632,
+                    111235976
+                ],
+                [
+                    3230963543,
+                    679225683,
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    1709045111,
+                    1807273211,
+                    2172195298,
+                    494745090,
+                    1968098204
+                ],
+                [
+                    3017780555,
+                    243981275,
+                    4223976499,
+                    984655331
+                ],
+                [
+                    4293542123,
+                    2890807135,
+                    3081867624,
+                    2675184851,
+                    3581929919,
+                    2963273944
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "One of the best elements of the best archetype of this weapon family is a good place to start. That being said this is basically just a sidegrade from Yeartide Apex released earlier this same season. The synergy this shares with MIDA Multi-Tool doesnt really matter since you wouldnt run two primaries anyway and the MIDA Multi-Tool rework looks pretty terrible in PvE regardless.\nPvE Masterworks: Reload, Range*"
+        },
+        {
+            "hash": 3946054154,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    3230963543,
+                    679225683,
+                    1968497646,
+                    1709045111,
+                    1807273211,
+                    2172195298
+                ],
+                [
+                    3017780555,
+                    243981275,
+                    4223976499,
+                    984655331
+                ],
+                [
+                    4293542123,
+                    2890807135,
+                    2675184851,
+                    3581929919
                 ]
             ],
             "tags": [
@@ -2095,12 +3075,8 @@
                     2398680997
                 ],
                 [
-                    3603807747,
-                    1202133695,
                     2955427634,
                     1069117426,
-                    2523856971,
-                    2181638943,
                     2783367502,
                     2552577806
                 ],
@@ -2111,11 +3087,7 @@
                     883665727
                 ],
                 [
-                    4104185692,
-                    1546637391,
                     1089671869,
-                    3007133316,
-                    3418165135,
                     496047945
                 ]
             ],
@@ -2123,7 +3095,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "Very unique and interesting weapon. The actual configuration of the gun is pretty random, and mostly determined by the Bolts column. You can make it deal explosive damage to help with add clear, have the bolt itself deal extra damage, have it apply a damage-over-time effect, to name a few. The Rail column mostly just gives nice stats, including the new persistence stat that determines how long the bolts last in the environment before expiring. Unfortunately in the case of the DoT effect from Charged Bolts the Persistence stat does not benefit like it should. It should also be noted that Vorpal seems to be bugged on the gun currently, giving way more damage than it possibly should . Also, bolts can be collected after shooting them (and in the case of Serrated Bolts deals damage when you remove them from an enemy), which means this is a legendary heavy weapon with technically infinite ammo! Explosive Bolts seems to be the best bolt for DPS (buffed by a Hierarchy of Needs ring fwiw, which you can technically make yourself since this bow is legendary). It should be noted that the Temporal Blast mod on this weapon is an absolutely insane damage increase right now.\nPvE Masterworks: Reload, Persistence, Velocity"
+            "description": "Very unique and interesting weapon. The actual configuration of the gun is pretty random, and mostly determined by the Bolts column. You can make it deal explosive damage to help with add clear, have the bolt itself deal extra damage, have it apply a damage-over-time effect, to name a few. The Rail column mostly just gives nice stats, including the new persistence stat that determines how long the bolts last in the environment before expiring. Unfortunately in the case of the DoT effect from Charged Bolts the Persistence stat does not benefit like it should. Also, bolts can be collected after shooting them (and in the case of Serrated Bolts deals damage when you remove them from an enemy), which means this is a legendary heavy weapon with technically infinite ammo!\nPvE Masterworks: Reload, Persistence, Velocity"
         },
         {
             "hash": 1553681400,
@@ -2133,21 +3105,15 @@
                     3128149872
                 ],
                 [
-                    3603807747,
-                    1202133695,
-                    2523856971,
-                    2181638943
+                    2955427634,
+                    2783367502
                 ],
                 [
                     951095735,
                     3878366039
                 ],
                 [
-                    4104185692,
-                    1546637391,
                     1089671869,
-                    3007133316,
-                    3418165135,
                     496047945
                 ]
             ],
@@ -2671,6 +3637,304 @@
             "originalWishlist": "spacemonkey/controller/season-27"
         },
         {
+            "hash": 3804242794,
+            "plugs": [
+                [
+                    3250034553,
+                    202670084,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    1147230557,
+                    1871180748,
+                    111235976,
+                    2860123632,
+                    1124871858
+                ],
+                [
+                    106909392,
+                    3230963543,
+                    1087426260,
+                    3142289711,
+                    1783397184,
+                    1709045111,
+                    1065371964,
+                    3267421167
+                ],
+                [
+                    1126264488,
+                    4071163871,
+                    4190679284,
+                    3161816588,
+                    2476672792,
+                    494941759,
+                    820036316,
+                    191144788
+                ],
+                [
+                    3708227201,
+                    4293542123,
+                    4082225868,
+                    2679249093,
+                    4104185692,
+                    781192741,
+                    2675184851,
+                    1161469972,
+                    788178929,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands. This archetype is surprisingly excellent in PvP, though the Trials version, Aureus Neutralizer, looks to be superior - especially since we cant seem to get a t5 version of this gun yet.\nPvE Masterworks: Reload, Range, Handling\nPvP Masterworks: Range, Handling"
+        },
+        {
+            "hash": 3804242794,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    106909392,
+                    3230963543,
+                    1087426260,
+                    1783397184,
+                    1709045111,
+                    1065371964
+                ],
+                [
+                    1126264488,
+                    4071163871,
+                    2476672792,
+                    494941759
+                ],
+                [
+                    3708227201,
+                    4293542123,
+                    781192741,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3804242794,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    1147230557,
+                    111235976,
+                    2860123632,
+                    1124871858
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    3161816588,
+                    494941759,
+                    191144788
+                ],
+                [
+                    4082225868,
+                    4293542123,
+                    2679249093,
+                    1161469972,
+                    2675184851,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3804242794,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    494941759
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3804242795,
+            "plugs": [
+                [
+                    3250034553,
+                    202670084,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    1147230557,
+                    1871180748,
+                    111235976,
+                    2860123632,
+                    1124871858
+                ],
+                [
+                    106909392,
+                    3230963543,
+                    1087426260,
+                    3142289711,
+                    1783397184,
+                    1709045111,
+                    1065371964,
+                    3267421167
+                ],
+                [
+                    1126264488,
+                    4071163871,
+                    4190679284,
+                    3161816588,
+                    2476672792,
+                    494941759,
+                    820036316,
+                    191144788
+                ],
+                [
+                    3708227201,
+                    4293542123,
+                    4082225868,
+                    2679249093,
+                    4104185692,
+                    781192741,
+                    2675184851,
+                    1161469972,
+                    788178929,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands. This archetype is surprisingly excellent in PvP, though the Trials version, Aureus Neutralizer, looks to be superior - especially since we cant seem to get a t5 version of this gun yet.\nPvE Masterworks: Reload, Range, Handling\nPvP Masterworks: Range, Handling"
+        },
+        {
+            "hash": 3804242795,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    106909392,
+                    3230963543,
+                    1087426260,
+                    1783397184,
+                    1709045111,
+                    1065371964
+                ],
+                [
+                    1126264488,
+                    4071163871,
+                    2476672792,
+                    494941759
+                ],
+                [
+                    3708227201,
+                    4293542123,
+                    781192741,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3804242795,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    1147230557,
+                    111235976,
+                    2860123632,
+                    1124871858
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    3161816588,
+                    494941759,
+                    191144788
+                ],
+                [
+                    4082225868,
+                    4293542123,
+                    2679249093,
+                    1161469972,
+                    2675184851,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3804242795,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    494941759
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
             "hash": 471764396,
             "plugs": [
                 [
@@ -2947,9 +4211,9 @@
                 ],
                 [
                     4293542123,
-                    2890807135,
+                    3201496230,
                     2675184851,
-                    3581929919
+                    1545231802
                 ]
             ],
             "tags": [
@@ -2975,9 +4239,7 @@
                 ],
                 [
                     4293542123,
-                    2890807135,
-                    2675184851,
-                    3581929919
+                    2675184851
                 ]
             ],
             "tags": [
@@ -3179,6 +4441,506 @@
                 [
                     4198902903,
                     222783511
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 407150808,
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230,
+                    1124871858,
+                    111235976,
+                    3048246338
+                ],
+                [
+                    2749775325,
+                    732557052,
+                    2680121939,
+                    2073750249,
+                    3256371876,
+                    3839493627
+                ],
+                [
+                    4190679284,
+                    1820235745,
+                    3592538738,
+                    820036316,
+                    4245865861,
+                    2675361166
+                ],
+                [
+                    4198902903,
+                    557221067,
+                    3201496230,
+                    222783511,
+                    2896748467,
+                    1545231802
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Statistically inferior to the extremely similar Unsworn from the Sundered Doctrine dungeon. Sadly this gun lacks any kind of useful perk in column 1 and lacks the devastatingly powerful Subjugation origin trait. If you want a strand trace rifle go farm Sundered Doctrine for Unsworn - this aint it.\nPvE Masterworks: Reload, Handling"
+        },
+        {
+            "hash": 407150808,
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    2749775325,
+                    2073750249
+                ],
+                [
+                    4190679284,
+                    820036316
+                ],
+                [
+                    4198902903,
+                    222783511
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 407150809,
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    839105230,
+                    1124871858,
+                    111235976,
+                    3048246338
+                ],
+                [
+                    2749775325,
+                    732557052,
+                    2680121939,
+                    2073750249,
+                    3256371876,
+                    3839493627
+                ],
+                [
+                    4190679284,
+                    1820235745,
+                    3592538738,
+                    820036316,
+                    4245865861,
+                    2675361166
+                ],
+                [
+                    4198902903,
+                    557221067,
+                    3201496230,
+                    222783511,
+                    2896748467,
+                    1545231802
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Statistically inferior to the extremely similar Unsworn from the Sundered Doctrine dungeon. Sadly this gun lacks any kind of useful perk in column 1 and lacks the devastatingly powerful Subjugation origin trait. If you want a strand trace rifle go farm Sundered Doctrine for Unsworn - this aint it.\nPvE Masterworks: Reload, Handling"
+        },
+        {
+            "hash": 407150809,
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    2749775325,
+                    2073750249
+                ],
+                [
+                    4190679284,
+                    820036316
+                ],
+                [
+                    4198902903,
+                    222783511
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2979965244,
+            "plugs": [
+                [
+                    1478423395,
+                    1844523823,
+                    3525010810,
+                    1441682018,
+                    3798852852,
+                    373417387,
+                    3471392239,
+                    3250572790,
+                    1639399262,
+                    582768348
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    2396489472,
+                    1926441324,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Lackluster. Nothing really going on here that we dont get on better weapon archetypes and families. The game has moved on from wave-frame GLs.\nPvE Masterworks: Reload, Handling, Blast Radius"
+        },
+        {
+            "hash": 2979965244,
+            "plugs": [
+                [
+                    1478423395,
+                    373417387
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2979965245,
+            "plugs": [
+                [
+                    1478423395,
+                    1844523823,
+                    3525010810,
+                    1441682018,
+                    3798852852,
+                    373417387,
+                    3471392239,
+                    3250572790,
+                    1639399262,
+                    582768348
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    2396489472,
+                    1926441324,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Lackluster. Nothing really going on here that we dont get on better weapon archetypes and families. The game has moved on from wave-frame GLs.\nPvE Masterworks: Reload, Handling, Blast Radius"
+        },
+        {
+            "hash": 2979965245,
+            "plugs": [
+                [
+                    1478423395,
+                    373417387
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2979965246,
+            "plugs": [
+                [
+                    1478423395,
+                    1844523823,
+                    3525010810,
+                    1441682018,
+                    3798852852,
+                    373417387,
+                    3471392239,
+                    3250572790,
+                    1639399262,
+                    582768348
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    2396489472,
+                    1926441324,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Lackluster. Nothing really going on here that we dont get on better weapon archetypes and families. The game has moved on from wave-frame GLs.\nPvE Masterworks: Reload, Handling, Blast Radius"
+        },
+        {
+            "hash": 2979965246,
+            "plugs": [
+                [
+                    1478423395,
+                    373417387
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2979965247,
+            "plugs": [
+                [
+                    1478423395,
+                    1844523823,
+                    3525010810,
+                    1441682018,
+                    3798852852,
+                    373417387,
+                    3471392239,
+                    3250572790,
+                    1639399262,
+                    582768348
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    2396489472,
+                    1926441324,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Lackluster. Nothing really going on here that we dont get on better weapon archetypes and families. The game has moved on from wave-frame GLs.\nPvE Masterworks: Reload, Handling, Blast Radius"
+        },
+        {
+            "hash": 2979965247,
+            "plugs": [
+                [
+                    1478423395,
+                    373417387
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 4169082039,
+            "plugs": [
+                [
+                    1478423395,
+                    1844523823,
+                    3525010810,
+                    1441682018,
+                    3798852852,
+                    373417387,
+                    3471392239,
+                    3250572790,
+                    1639399262,
+                    582768348
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    2396489472,
+                    1926441324,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Lackluster. Nothing really going on here that we dont get on better weapon archetypes and families. The game has moved on from wave-frame GLs.\nPvE Masterworks: Reload, Handling, Blast Radius"
+        },
+        {
+            "hash": 4169082039,
+            "plugs": [
+                [
+                    1478423395,
+                    373417387
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    776531651,
+                    2541826827
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 1524387902,
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    3250034553,
+                    1124871858,
+                    111235976,
+                    1147230557
+                ],
+                [
+                    3230963543,
+                    106909392,
+                    1709045111,
+                    1783397184
+                ],
+                [
+                    1955165503,
+                    1570399071,
+                    2617553311,
+                    1661646271
+                ],
+                [
+                    2922950962,
+                    243981275,
+                    2078520142,
+                    984655331
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "One of the worst elements of one of the worst archetypes of the worst weapon family is not a good place to start out. There are some interesting new perks but the base gun theyre attached to is too heavy to be carried. And the ammo gen stat here is bad.\nPvE Masterworks: Reload, Range"
+        },
+        {
+            "hash": 1524387902,
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    1955165503,
+                    2617553311
+                ],
+                [
+                    2922950962,
+                    2078520142
                 ]
             ],
             "tags": [
@@ -3368,7 +5130,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "An old weapon returns, and it is honestly completely fine. Or at least it would have been if the high-impact archetype hadnt been basically deleted from the game last season. Some fine rolls to pick up if you want to have one on hand for whenever this archetype is allowed to exist again.\nPvE Masterworks: Reload, Range\nPvP Masterworks: Range, Stability*, Handling"
+            "description": "An old weapon returns, and it is honestly completely fine. Or at least it would have been if the high-impact archetype hadnt been basically deleted from the game last season. Some fine rolls to pick up if you want to have one on hand for whenever this archetype is allowed to exist again. One interesting thing to note here is that the base recoil as is is actually totally fine and better than most of the recoil help that is available. The only thing that beats the base 64 recoil is a full 100 recoil (one of the +direction barrels in addition to counterbalance mod), but at that point youre sacrificing a mod slot that you dont really need to. Id just stick with the base recoil personally.\nPvE Masterworks: Reload, Range\nPvP Masterworks: Range, Stability*, Handling"
         },
         {
             "hash": 3602242905,
@@ -3420,9 +5182,11 @@
                     2387244414,
                     3619207468,
                     2579169598,
+                    247725512,
                     1748774930,
                     3198323828,
-                    2073244114
+                    2073244114,
+                    2938480696
                 ],
                 [
                     3047969693,
@@ -3466,6 +5230,67 @@
             ],
             "tags": [
                 "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3868973291,
+            "plugs": [
+                [
+                    1300023272,
+                    4090651448,
+                    1482024992,
+                    2371713880,
+                    111235976,
+                    2860123632
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    1488599449,
+                    1065371964
+                ],
+                [
+                    1523832109,
+                    3418782618,
+                    461595545,
+                    1563455254
+                ],
+                [
+                    2679249093,
+                    2360754333,
+                    788178929,
+                    2459015849
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Lightweight frames kind of aren't usable anywhere right now, but this has some really cool rolls if it ever comes into meta.\nPvE Masterworks: Handling"
+        },
+        {
+            "hash": 3868973291,
+            "plugs": [
+                [
+                    1300023272,
+                    2371713880
+                ],
+                [
+                    791862061,
+                    1488599449
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    2679249093,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27"
         },
@@ -3531,6 +5356,140 @@
             "originalWishlist": "spacemonkey/controller/season-27"
         },
         {
+            "hash": 3524386983,
+            "plugs": [
+                [
+                    4088731040,
+                    1890040155,
+                    3786062476,
+                    4196967425,
+                    3128149872,
+                    234526563,
+                    2953575380,
+                    2398680997
+                ],
+                [
+                    2955427634,
+                    1069117426,
+                    2783367502,
+                    2552577806
+                ],
+                [
+                    951095735,
+                    3300816228,
+                    4042220767,
+                    3878366039,
+                    3528046508,
+                    883665727
+                ],
+                [
+                    3764420437,
+                    2978966579,
+                    3192447905,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Very unique and interesting weapon. The actual configuration of the gun is pretty random, and mostly determined by the Bolts column. You can make it deal explosive damage to help with add clear, have the bolt itself deal extra damage, have it apply a damage-over-time effect, to name a few. The Rail column mostly just gives nice stats, including the new persistence stat that determines how long the bolts last in the environment before expiring. Unfortunately in the case of the DoT effect from Charged Bolts the Persistence stat does not benefit like it should. Also, bolts can be collected after shooting them (and in the case of Serrated Bolts deals damage when you remove them from an enemy), which means this is a legendary heavy weapon with technically infinite ammo! Aggregate Charge is an interesting damage perk.\nPvE Masterworks: Reload, Persistence, Velocity"
+        },
+        {
+            "hash": 3524386983,
+            "plugs": [
+                [
+                    4088731040,
+                    3128149872
+                ],
+                [
+                    2955427634,
+                    2783367502
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    3764420437,
+                    2978966579,
+                    3192447905,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 1724104236,
+            "plugs": [
+                [
+                    4088731040,
+                    1890040155,
+                    3786062476,
+                    4196967425,
+                    3128149872,
+                    234526563,
+                    2953575380,
+                    2398680997
+                ],
+                [
+                    2955427634,
+                    1069117426,
+                    2783367502,
+                    2552577806
+                ],
+                [
+                    951095735,
+                    3300816228,
+                    4042220767,
+                    3878366039,
+                    3528046508,
+                    883665727
+                ],
+                [
+                    3764420437,
+                    2978966579,
+                    3192447905,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Very unique and interesting weapon. The actual configuration of the gun is pretty random, and mostly determined by the Bolts column. You can make it deal explosive damage to help with add clear, have the bolt itself deal extra damage, have it apply a damage-over-time effect, to name a few. The Rail column mostly just gives nice stats, including the new persistence stat that determines how long the bolts last in the environment before expiring. Unfortunately in the case of the DoT effect from Charged Bolts the Persistence stat does not benefit like it should. Also, bolts can be collected after shooting them (and in the case of Serrated Bolts deals damage when you remove them from an enemy), which means this is a legendary heavy weapon with technically infinite ammo! Aggregate Charge is an interesting damage perk.\nPvE Masterworks: Reload, Persistence, Velocity"
+        },
+        {
+            "hash": 1724104236,
+            "plugs": [
+                [
+                    4088731040,
+                    3128149872
+                ],
+                [
+                    2955427634,
+                    2783367502
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    3764420437,
+                    2978966579,
+                    3192447905,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
             "hash": 2765451290,
             "plugs": [
                 [
@@ -3586,8 +5545,10 @@
                 [
                     4132187021,
                     1749209109,
+                    243981275,
                     2581144697,
-                    4085959009
+                    4085959009,
+                    984655331
                 ],
                 [
                     2077819806,
@@ -3657,8 +5618,10 @@
                 [
                     4132187021,
                     1749209109,
+                    243981275,
                     2581144697,
-                    4085959009
+                    4085959009,
+                    984655331
                 ],
                 [
                     2077819806,
@@ -3728,14 +5691,233 @@
                 [
                     4132187021,
                     1749209109,
+                    243981275,
                     2581144697,
-                    4085959009
+                    4085959009,
+                    984655331
                 ],
                 [
                     2077819806,
                     1089671869,
                     1618208178,
                     496047945
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2765451288,
+            "plugs": [
+                [
+                    3666208348,
+                    1261178282,
+                    2827049491,
+                    3959569796,
+                    3885243590,
+                    4270598587
+                ],
+                [
+                    269888150,
+                    52780822,
+                    599007201,
+                    125241418,
+                    2338887882,
+                    4267445637
+                ],
+                [
+                    4132187021,
+                    1749209109,
+                    243981275,
+                    2581144697,
+                    4085959009,
+                    984655331
+                ],
+                [
+                    2077819806,
+                    1089671869,
+                    1618208178,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Kind of an all-or-nothing DPS sword if you go the route of Relentless+Honing. It also can be a pretty cool utility Eager Edge option utilizing either Attrition Orbs or Sharp Harvest.\nPvE Masterworks: Impact"
+        },
+        {
+            "hash": 2765451288,
+            "plugs": [
+                [
+                    3666208348,
+                    1261178282,
+                    3959569796,
+                    3885243590
+                ],
+                [
+                    269888150,
+                    125241418
+                ],
+                [
+                    4132187021,
+                    1749209109,
+                    243981275,
+                    2581144697,
+                    4085959009,
+                    984655331
+                ],
+                [
+                    2077819806,
+                    1089671869,
+                    1618208178,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2765451289,
+            "plugs": [
+                [
+                    3666208348,
+                    1261178282,
+                    2827049491,
+                    3959569796,
+                    3885243590,
+                    4270598587
+                ],
+                [
+                    269888150,
+                    52780822,
+                    599007201,
+                    125241418,
+                    2338887882,
+                    4267445637
+                ],
+                [
+                    4132187021,
+                    1749209109,
+                    243981275,
+                    2581144697,
+                    4085959009,
+                    984655331
+                ],
+                [
+                    2077819806,
+                    1089671869,
+                    1618208178,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Kind of an all-or-nothing DPS sword if you go the route of Relentless+Honing. It also can be a pretty cool utility Eager Edge option utilizing either Attrition Orbs or Sharp Harvest.\nPvE Masterworks: Impact"
+        },
+        {
+            "hash": 2765451289,
+            "plugs": [
+                [
+                    3666208348,
+                    1261178282,
+                    3959569796,
+                    3885243590
+                ],
+                [
+                    269888150,
+                    125241418
+                ],
+                [
+                    4132187021,
+                    1749209109,
+                    243981275,
+                    2581144697,
+                    4085959009,
+                    984655331
+                ],
+                [
+                    2077819806,
+                    1089671869,
+                    1618208178,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3177074192,
+            "plugs": [
+                [
+                    3525010810,
+                    981914802,
+                    3798852852,
+                    3809316345,
+                    1441682018,
+                    3250572790,
+                    564443854,
+                    582768348,
+                    2052299741,
+                    1639399262
+                ],
+                [
+                    3301904089,
+                    332133599,
+                    1771897777,
+                    409713597,
+                    3156458303,
+                    3648644469
+                ],
+                [
+                    3987942396,
+                    3300816228,
+                    2817499044,
+                    3528046508
+                ],
+                [
+                    3078487919,
+                    3764420437,
+                    1089671869,
+                    3744057135,
+                    3192447905,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "If GLs were meta this would be top of the heap, especially considering the origin trait giving an extra 7% dump for a DPS window.\nPvE Masterworks: Handling"
+        },
+        {
+            "hash": 3177074192,
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    3301904089,
+                    409713597
+                ],
+                [
+                    3987942396,
+                    2817499044
+                ],
+                [
+                    3078487919,
+                    3764420437,
+                    3744057135,
+                    3192447905
                 ]
             ],
             "tags": [
@@ -3911,14 +6093,16 @@
                 [
                     1556840489,
                     247725512,
+                    1955165503,
                     3442762221,
-                    2938480696
+                    2938480696,
+                    2617553311
                 ],
                 [
-                    555281244,
                     2978966579,
-                    332733060,
-                    344235611
+                    555281244,
+                    344235611,
+                    332733060
                 ]
             ],
             "tags": [
@@ -3943,8 +6127,8 @@
                     3442762221
                 ],
                 [
-                    555281244,
-                    332733060
+                    2978966579,
+                    344235611
                 ]
             ],
             "tags": [
@@ -3980,14 +6164,16 @@
                 [
                     1556840489,
                     247725512,
+                    1955165503,
                     3442762221,
-                    2938480696
+                    2938480696,
+                    2617553311
                 ],
                 [
-                    555281244,
                     2978966579,
-                    332733060,
-                    344235611
+                    555281244,
+                    344235611,
+                    332733060
                 ]
             ],
             "tags": [
@@ -4012,8 +6198,8 @@
                     3442762221
                 ],
                 [
-                    555281244,
-                    332733060
+                    2978966579,
+                    344235611
                 ]
             ],
             "tags": [
@@ -4049,14 +6235,16 @@
                 [
                     1556840489,
                     247725512,
+                    1955165503,
                     3442762221,
-                    2938480696
+                    2938480696,
+                    2617553311
                 ],
                 [
-                    555281244,
                     2978966579,
-                    332733060,
-                    344235611
+                    555281244,
+                    344235611,
+                    332733060
                 ]
             ],
             "tags": [
@@ -4081,8 +6269,150 @@
                     3442762221
                 ],
                 [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2888021254,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448,
+                    1840239774,
+                    1147230557,
+                    2860123632,
+                    111235976,
+                    1124871858
+                ],
+                [
+                    791862061,
+                    106909392,
+                    1087426260,
+                    679225683,
+                    3142289711,
+                    1488599449,
+                    1783397184,
+                    1065371964,
+                    1807273211,
+                    3267421167
+                ],
+                [
+                    1556840489,
+                    247725512,
+                    1955165503,
+                    3442762221,
+                    2938480696,
+                    2617553311
+                ],
+                [
+                    2978966579,
                     555281244,
+                    344235611,
                     332733060
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "The first ever rapid-fire slug. Slugs already have fallen way out of the DPS meta, but if this lands with a legit damage profile this roll could be great. Especially with the Veist Stinger origin trait - even though it is a pale shadow of its former self. Slugs are also not great for general play either as theyre so crit-reliant but also melee range with high mobility issues. Plus this is going to shoot even faster, which is not better for add clear on your special weapon.\nPvE Masterworks: Reload, Range, Handling"
+        },
+        {
+            "hash": 2888021254,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    791862061,
+                    1488599449
+                ],
+                [
+                    1556840489,
+                    3442762221
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2888021255,
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448,
+                    1840239774,
+                    1147230557,
+                    2860123632,
+                    111235976,
+                    1124871858
+                ],
+                [
+                    791862061,
+                    106909392,
+                    1087426260,
+                    679225683,
+                    3142289711,
+                    1488599449,
+                    1783397184,
+                    1065371964,
+                    1807273211,
+                    3267421167
+                ],
+                [
+                    1556840489,
+                    247725512,
+                    1955165503,
+                    3442762221,
+                    2938480696,
+                    2617553311
+                ],
+                [
+                    2978966579,
+                    555281244,
+                    344235611,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "The first ever rapid-fire slug. Slugs already have fallen way out of the DPS meta, but if this lands with a legit damage profile this roll could be great. Especially with the Veist Stinger origin trait - even though it is a pale shadow of its former self. Slugs are also not great for general play either as theyre so crit-reliant but also melee range with high mobility issues. Plus this is going to shoot even faster, which is not better for add clear on your special weapon.\nPvE Masterworks: Reload, Range, Handling"
+        },
+        {
+            "hash": 2888021255,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    791862061,
+                    1488599449
+                ],
+                [
+                    1556840489,
+                    3442762221
+                ],
+                [
+                    2978966579,
+                    344235611
                 ]
             ],
             "tags": [
@@ -4222,6 +6552,69 @@
             "originalWishlist": "spacemonkey/controller/season-27"
         },
         {
+            "hash": 738446555,
+            "plugs": [
+                [
+                    1478423395,
+                    3525010810,
+                    373417387,
+                    3250572790
+                ],
+                [
+                    3230963543,
+                    2822142346,
+                    1709045111,
+                    2108812838
+                ],
+                [
+                    1683379515,
+                    1556840489,
+                    951095735,
+                    2859149211,
+                    2216471363,
+                    3442762221,
+                    3878366039,
+                    1135494563
+                ],
+                [
+                    3966416502,
+                    3081867624,
+                    717070634,
+                    2963273944
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Not sure why this wound up with such a mediocre perk pool compared to Indebted Kindness - the predecessor this was supposed to replace. The synergy with Sturm makes more sense here, but its still a bit of a headscratcher.\nPvE Masterworks: Blast Radius, Reload*"
+        },
+        {
+            "hash": 738446555,
+            "plugs": [
+                [
+                    1478423395,
+                    373417387
+                ],
+                [
+                    3230963543,
+                    1709045111
+                ],
+                [
+                    1683379515,
+                    2216471363
+                ],
+                [
+                    3966416502,
+                    717070634
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
             "hash": 3489054606,
             "plugs": [
                 [
@@ -4247,10 +6640,10 @@
                     2675184851
                 ],
                 [
-                    2890807135,
                     557221067,
-                    3581929919,
-                    2896748467
+                    2890807135,
+                    2896748467,
+                    3581929919
                 ]
             ],
             "tags": [
@@ -4275,8 +6668,8 @@
                     3528046508
                 ],
                 [
-                    2890807135,
-                    3581929919
+                    557221067,
+                    2896748467
                 ]
             ],
             "tags": [
