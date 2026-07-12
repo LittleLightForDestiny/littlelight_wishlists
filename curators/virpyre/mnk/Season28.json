@@ -1,6 +1,6 @@
 {
     "description": "virpyre's recommendations for weapons for Renegades and Moments of Triumph.",
-    "name": "Season 28 (Mouse/Keyboard)",
+    "name": "Season 28 (Controller)",
     "data": [
         {
             "description": "",
@@ -7485,7 +7485,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
